@@ -353,6 +353,7 @@
 * [Check My Colours](http://www.checkmycolours.com/)
 * [Random A11y Color Palettes](http://www.randoma11y.com)
 * [Colorblind Web Page Filter](http://colorfilter.wickline.org/)
+* [NoCoffee (Chrome extension)](https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl)
 
 ### Vidéo
 * [HTML5 Video Caption Maker](http://samples.msdn.microsoft.com/Workshop/samples/media/captionmaker/default.html)
