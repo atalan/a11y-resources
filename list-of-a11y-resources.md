@@ -204,6 +204,7 @@
 * [Flowup Labels](http://www.enfos.com/FlowupLabels.js/demo/)
 * [Floated Labels Still Suck](http://www.webaxe.org/floated-labels-still-suck/)
 * [HTML5 Accessibility Chops: the placeholder attribute](https://www.paciellogroup.com/blog/2011/02/html5-accessibility-chops-the-placeholder-attribute/)
+* [10 reasons why placeholders are problematic](https://medium.com/simple-human/10-reasons-why-placeholders-are-problematic-f8079412b960#.6t788f8x7)
 
 ## Powerpoint
 * [Création de présentations PowerPoint accessibles](https://support.office.com/fr-fr/article/Cr%C3%A9ation-de-pr%C3%A9sentations-PowerPoint-accessibles-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25?ui=fr-FR&rs=fr-FR&ad=FR)
