@@ -88,6 +88,7 @@
 * [Captcha Alternatives and thoughts](https://www.w3.org/WAI/GL/wiki/Captcha_Alternatives_and_thoughts)
 * [TextCaptcha](http://textcaptcha.com/)
 * [Accessibility and Security](http://incl.ca/accessibility-and-security/)
+* [The issues with CAPTCHA](http://accessible-techcomm.org/the-issues-with-captcha/)
 
 ## CSS
 * [Accessible footnotes with CSS](http://codepen.io/SitePoint/pen/QbMgvY)
