@@ -273,6 +273,7 @@
 * [RWD Tabs to Accordion](http://pauljadam.com/demos/rwd-tabs-accordion.html)
 * [jQuery Accessible tab panel system](http://a11y.nicolas-hoffmann.net/tabs/)
 * [Responsive Tabs/Accordion](http://codepen.io/mpiotrowicz/pen/gocmu)
+* [Tab Panel Example](https://dl.dropboxusercontent.com/u/1065747/tab-panel/index.html)
 
 ### Tooltip / Infobulle
 * [jQuery simple and accessible dialog tooltip window](http://a11y.nicolas-hoffmann.net/dialog-tooltip/)
