@@ -271,6 +271,7 @@
 * [jQuery simple and accessible modal window](http://a11y.nicolas-hoffmann.net/modal/)
 * [jQuery Popup Overlay](http://dev.vast.com/jquery-popup-overlay/)
 * [Colorbox Demonstration](http://www.jacklmoore.com/colorbox/example1/)
+* [Modaal](http://www.humaan.com/modaal/)
 
 ### Tabs / Onglets
 * [Système d'onglets avec substitut pour le responsive](http://www.romaingervois.fr/implementations/tabs-responsive.html)
