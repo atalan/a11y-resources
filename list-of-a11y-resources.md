@@ -347,6 +347,7 @@
 * [Colour Contrast Check](http://snook.ca/technical/colour_contrast/colour.html)
 * [Contrast ratio](http://leaverou.github.io/contrast-ratio/)
 * [Check My Colours](http://www.checkmycolours.com/)
+* [Random A11y Color Palettes](http://www.randoma11y.com)
 
 ### Vidéo
 * [HTML5 Video Caption Maker](http://samples.msdn.microsoft.com/Workshop/samples/media/captionmaker/default.html)
