@@ -317,6 +317,7 @@
 * [Dictanote - Speech Recognizer (Chrome extension)](https://chrome.google.com/webstore/detail/dictanote-speech-recogniz/aomjekmpappghadlogpigifkghlmebjk)
 * [Tester l’accessibilité d’une page web ou d’un PDF avec NVDA](http://blog.atalan.fr/tester-accessibilite-web-pdf-lecteur-ecran-nvda/)
 * [Accessibility Scanner](https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.auditor)
+* [Orange Confort+](http://confort-plus.orange.com/)
 
 ### Colors / Couleurs
 * [Grille d’analyse des contrastes d’une charte](http://blog.atalan.fr/grille-contrastes-accessibilite-charte-graphique/)
