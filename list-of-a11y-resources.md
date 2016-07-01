@@ -65,6 +65,7 @@
 * [WAI-ARIA 1.0 Authoring Practices](https://www.w3.org/TR/wai-aria-practices/)
 * [Accessible Rich Internet Applications (WAI-ARIA) 1.0](https://www.w3.org/TR/wai-aria/)
 * [Using aria-flowto to give users a choice of reading order](http://3needs.org/en/testing/code/aria-flowto.html)
+* [Periodic Table of ARIA 1.0 Roles](http://dylanb.github.io/periodic-aria-roles.html)
 
 ## Awareness / Sensibilisation
 * [Dyslexie et lettres dansantes](http://blog.atalan.fr/dyslexie-lettres-dansent/)
