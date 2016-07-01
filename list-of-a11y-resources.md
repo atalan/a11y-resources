@@ -120,6 +120,7 @@
 * [WebAIR: Web Accessibility Information Resource](https://www.cs.york.ac.uk/hci/webair/index.htm)
 
 ## HTML5
+* [HTML5 Accessibility](http://stevefaulkner.github.io/HTML5accessibility/)
 * [Using the HTML5 section element](https://www.paciellogroup.com/blog/2013/10/using-html5-section-element/)
 * [Accesskey replacement proposal](http://chaals.github.io/accesskey/index.src.html)
 * [Using Heading Elements to Create a Document Outline](https://bitsofco.de/using-heading-elements-to-create-a-document-outline/)
