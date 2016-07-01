@@ -228,6 +228,7 @@
 * [jQuery simple and accessible hide-show system (collapsible regions), using ARIA](http://a11y.nicolas-hoffmann.net/hide-show/)
 * [RWD Tabs to Accordion Demo](http://pauljadam.com/demos/rwd-tabs-accordion.html)
 * [Accessible expand and collapse demo](http://codepen.io/petervangrieken/details/jqVYej/)
+* [Vanilla JS Accessible Accordion Widget](http://codepen.io/stowball/pen/eZKwRv)
 
 ### Autocomplete / Autocomplétion
 * [jQuery accessible autocomplete list](http://a11y.nicolas-hoffmann.net/autocomplet-list/)
