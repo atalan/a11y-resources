@@ -221,6 +221,7 @@
 * [Simply Accessible](http://examples.simplyaccessible.com/)
 * [Practical ARIA examples](http://heydonworks.com/practical_aria_examples/)
 * [DHTML Style Guide Working Group](http://access.aol.com/dhtml-style-guide-working-group/)
+* [Code Library of Accessibility Examples](https://dequeuniversity.com/library/)
 
 ### Accordion  / Accordéon
 * [jQuery simple and accessible hide-show system (collapsible regions), using ARIA](http://a11y.nicolas-hoffmann.net/hide-show/)
