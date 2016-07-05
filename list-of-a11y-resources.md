@@ -121,7 +121,7 @@
 * [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/)
 * [Techniques for WCAG 2.0](https://www.w3.org/TR/WCAG-TECHS/Overview.html)
 * [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
-* [Tips for Getting Started with Web Accessibility](https://www.w3.org/WAI/gettingstarted/tips/)
+* [Getting Started with Web Accessibility](https://www.w3.org/WAI/gettingstarted/Overview.html)
 * [Interactive WCAG 2.0](http://code.viget.com/interactive-wcag)
 * [WebAIR: Web Accessibility Information Resource](https://www.cs.york.ac.uk/hci/webair/index.htm)
 * [Access 8878](https://www.access8878.co.uk/)
