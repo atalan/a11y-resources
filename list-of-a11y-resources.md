@@ -294,6 +294,7 @@
 * [jQuery simple and accessible dialog tooltip window](http://a11y.nicolas-hoffmann.net/dialog-tooltip/)
 
 ## Tools / Outils 
+* [The W3C Markup Validation Service](https://validator.w3.org/)
 * [Asqatasun](http://asqatasun.org/)
 * [Accessibility Bookmarklets](https://accessibility-bookmarklets.org/)
 * [tota11y](http://khan.github.io/tota11y/)
