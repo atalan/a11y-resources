@@ -89,7 +89,7 @@
 * [L'inaccessibilité des « CAPTCHA »](http://www.yoyodesign.org/doc/w3c/turingtest-20051123/)
 * [reCAPTCHA Accessibility reVISTED](http://terrillthompson.com/blog/682)
 * [Captcha Alternatives and thoughts](https://www.w3.org/WAI/GL/wiki/Captcha_Alternatives_and_thoughts)
-* [TextCaptcha](http://textcaptcha.com/)
+* [TextCaptcha, a source of simple textual CAPTCHA challenges](http://textcaptcha.com/)
 * [Accessibility and Security](http://incl.ca/accessibility-and-security/)
 * [The issues with CAPTCHA](http://accessible-techcomm.org/the-issues-with-captcha/)
 
