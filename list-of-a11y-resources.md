@@ -55,6 +55,7 @@
 * [Creating Accessible PDF Documents In Adobe Acrobat X](http://ncdae.org/resources/cheatsheets/acrobat.php)
 
 ## ARIA
+* [Accessible Rich Internet Applications (WAI-ARIA) 1.0](https://www.w3.org/TR/wai-aria/)
 * [WAI-ARIA 1.0 Authoring Practices](https://www.w3.org/TR/wai-aria-practices/)
 * [Notes on Using ARIA in HTML](https://www.w3.org/TR/aria-in-html/)
 * [Accessibilité du Web - L'ergonomie avec WAI-ARIA](http://aria.inlb.qc.ca/)
@@ -64,9 +65,9 @@
 * [Test ARIA Forward - test cases](http://www.html5accessibility.com/tests/ARIA-tests/)
 * [Using WAI-ARIA Landmarks](https://www.paciellogroup.com/blog/2013/02/using-wai-aria-landmarks-2013/)
 * [ARIA Test Cases](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Test_Cases)
-* [Accessible Rich Internet Applications (WAI-ARIA) 1.0](https://www.w3.org/TR/wai-aria/)
 * [Using aria-flowto to give users a choice of reading order](http://3needs.org/en/testing/code/aria-flowto.html)
 * [Periodic Table of ARIA 1.0 Roles](http://dylanb.github.io/periodic-aria-roles.html)
+* [WAI-ARIA Cheat Sheet](http://karlgroves-sandbox.com/CheatSheets/ARIA-Cheatsheet.html)
 
 ## Awareness / Sensibilisation
 * [Dyslexie et lettres dansantes](http://blog.atalan.fr/dyslexie-lettres-dansent/)
