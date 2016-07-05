@@ -336,7 +336,6 @@
 * [A11y Color Palette](http://a11yrocks.com/colorPalette/)
 * [Colour Contrast Determinator](http://www.visionaustralia.org/digital-access-determinator)
 * [Accessible colors](http://accessible-colors.com/)
-* [ColorA11y (Chrome extension)](https://chrome.google.com/webstore/detail/colora11y/icfneoldcbdmgaiocnnobpbbjncdfbfb/)
 * [lowvision.support](http://lowvision.support/)
 * [Color Safe](http://colorsafe.co/)
 * [Colorable](http://jxnblk.com/colorable/demos/text/)
@@ -360,6 +359,7 @@
 * [I want to see like the colour blind (Chrome extension)](https://chrome.google.com/webstore/detail/i-want-to-see-like-the-co/jebeedfnielkcjlcokhiobodkjjpbjia)
 * [SEE (Chrome extension)](https://chrome.google.com/webstore/detail/see/dkihcccbkkakkbpikjmpnbamkgbjfdcn)
 * [NoCoffee (Chrome extension)](https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl)
+* [ColorA11y (Chrome extension)](https://chrome.google.com/webstore/detail/colora11y/icfneoldcbdmgaiocnnobpbbjncdfbfb/)
 
 ### Vidéo
 * [HTML5 Video Caption Maker](http://samples.msdn.microsoft.com/Workshop/samples/media/captionmaker/default.html)
