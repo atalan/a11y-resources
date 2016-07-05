@@ -281,6 +281,7 @@
 * [jQuery Popup Overlay](http://dev.vast.com/jquery-popup-overlay/)
 * [Colorbox Demonstration](http://www.jacklmoore.com/colorbox/example1/)
 * [Modaal](http://www.humaan.com/modaal/)
+* [A11y Dialog](http://edenspiekermann.github.io/a11y-dialog/)
 
 ### Tabs / Onglets
 * [Système d'onglets avec substitut pour le responsive](http://www.romaingervois.fr/implementations/tabs-responsive.html)
