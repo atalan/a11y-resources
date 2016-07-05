@@ -74,7 +74,7 @@
 * [L’ordinateur des aveugles, 11 vidéos pour comprendre](http://portail.unice.fr/access-key)
 * [Dyslexie et lettres dansantes](http://blog.atalan.fr/dyslexie-lettres-dansent/)
 * [Étude sur l'usage des lecteurs d'écran en France et en Francophonie
-Juin 2016](http://www.aveuglesdefrance.org/sites/default/files/2016-06/Rapport_final_Etude-lecteurs-ecran-France-Francophonie_01062016.pdf)
+(Juin 2016 - PDF - 1 Mo)](http://www.aveuglesdefrance.org/sites/default/files/2016-06/Rapport_final_Etude-lecteurs-ecran-France-Francophonie_01062016.pdf)
 
 ## Framework
 * [Tutoriel "composants d’interface JavaScript"](https://disic.github.io/rgaa_bibliotheques_javascript/tutoriels/index.html)
