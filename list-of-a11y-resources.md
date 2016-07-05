@@ -117,12 +117,13 @@
 * [AcceDe Web](http://www.accede-web.com/)
 * [AcceDe PDF](http://www.pdf-accessible.com/)
 * [RGAA (Référentiel Général d’Accessibilité pour les Administrations)](http://references.modernisation.gouv.fr/accessibilite-numerique)
-* [Tips for Getting Started with Web Accessibility](https://www.w3.org/WAI/gettingstarted/tips/)
+* [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/)
 * [Techniques for WCAG 2.0](https://www.w3.org/TR/WCAG-TECHS/Overview.html)
-* [Access 8878](https://www.access8878.co.uk/)
-* [WebAIR: Web Accessibility Information Resource](https://www.cs.york.ac.uk/hci/webair/index.htm)
-* [Interactive WCAG 2.0](http://code.viget.com/interactive-wcag)
 * [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
+* [Tips for Getting Started with Web Accessibility](https://www.w3.org/WAI/gettingstarted/tips/)
+* [Interactive WCAG 2.0](http://code.viget.com/interactive-wcag)
+* [WebAIR: Web Accessibility Information Resource](https://www.cs.york.ac.uk/hci/webair/index.htm)
+* [Access 8878](https://www.access8878.co.uk/)
 
 ## HTML5
 * [HTML5 Accessibility](http://stevefaulkner.github.io/HTML5accessibility/)
