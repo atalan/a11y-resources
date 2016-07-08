@@ -114,6 +114,7 @@
 * [13 Keys to Accessible EPUB3 Documents](http://vprompt.com/2014/08/13-keys-accessible-epub3-documents/)
 * [Using Adobe InDesign to create accessible EPUB 3 files](http://www.daisy.org/daisypedia/using-adobe-indesign-create-accessible-epub-3-files)
 * [EPUB 3 Accessibility Guidelines](http://www.idpf.org/accessibility/guidelines/)
+* [EPUB 3 Accessibility Guidelines - Accessibility QA Checklist](http://www.idpf.org/accessibility/guidelines/content/qa/qa-checklist.php)
 * [Top Tips for Creating Accessible EPUB 3 Files](http://diagramcenter.org/54-9-tips-for-creating-accessible-epub-3-files.html)
 
 ## Guidelines / Notices et référentiels
