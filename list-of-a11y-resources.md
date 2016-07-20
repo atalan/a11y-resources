@@ -334,6 +334,7 @@
 * [WAVE Evaluation Tool (Chrome extension)](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh/related)
 * [aXe (Chrome extension)](https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd)
 * [Dictanote - Speech Recognizer (Chrome extension)](https://chrome.google.com/webstore/detail/dictanote-speech-recogniz/aomjekmpappghadlogpigifkghlmebjk)
+* [ChromeLens, to develop for the visually impaired (Chrome extension)](http://chromelens.xyz/)
 
 ### Colors / Couleurs
 * [Grille d’analyse des contrastes d’une charte](http://blog.atalan.fr/grille-contrastes-accessibilite-charte-graphique/)
