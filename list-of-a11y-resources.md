@@ -128,6 +128,7 @@
 * [Interactive WCAG 2.0](http://code.viget.com/interactive-wcag)
 * [WebAIR: Web Accessibility Information Resource](https://www.cs.york.ac.uk/hci/webair/index.htm)
 * [Access 8878](https://www.access8878.co.uk/)
+* [Accessibility Guidelines](http://accessibility.voxmedia.com/)
 
 ## HTML5
 * [HTML5 Accessibility](http://stevefaulkner.github.io/HTML5accessibility/)
