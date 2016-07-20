@@ -7,13 +7,13 @@
 - [Adobe Acrobat](#adobe-acrobat)
 - [ARIA](#aria)
 - [Awareness / Sensibilisation](#awareness--sensibilisation)
-- [Framework](#framework)
-	- [AngularJS](#angularjs)
-	- [Bootstrap](#bootstrap)
 - [CAPTCHA](#captcha)
 - [CSS](#css)
 - [Dyslexia  / Dyslexie](#dyslexia---dyslexie)
 - [ePub](#epub)
+- [Framework](#framework)
+	- [AngularJS](#angularjs)
+	- [Bootstrap](#bootstrap)
 - [Guidelines / Notices et référentiels](#guidelines--notices-et-référentiels)
 - [HTML5](#html5)
 - [Images](#images)
@@ -76,15 +76,6 @@
 * [Étude sur l'usage des lecteurs d'écran en France et en Francophonie
 (Juin 2016 - PDF - 1 Mo)](http://www.aveuglesdefrance.org/sites/default/files/2016-06/Rapport_final_Etude-lecteurs-ecran-France-Francophonie_01062016.pdf)
 
-## Framework
-* [Tutoriel "composants d’interface JavaScript"](https://disic.github.io/rgaa_bibliotheques_javascript/tutoriels/index.html)
-
-### AngularJS
-* [Single page applications, Angular.js and accessibility](http://simplyaccessible.com/article/spangular-accessibility/)
-
-### Bootstrap
-* [Bootstrap accessibility plugin](https://www.paypal-engineering.com/2014/01/28/bootstrap-accessibility-plugin-making-the-popular-web-development-framework-better/)
-
 ## CAPTCHA
 * [Éviter le spam sans captcha](http://www.anysurfer.be/fr/blog/detail/captcha)
 * [Alternatives aux CAPTCHA](http://www.tanguy-loheac.com/blog/alternatives-aux-captcha/)
@@ -116,6 +107,15 @@
 * [EPUB 3 Accessibility Guidelines](http://www.idpf.org/accessibility/guidelines/)
 * [EPUB 3 Accessibility Guidelines - Accessibility QA Checklist](http://www.idpf.org/accessibility/guidelines/content/qa/qa-checklist.php)
 * [Top Tips for Creating Accessible EPUB 3 Files](http://diagramcenter.org/54-9-tips-for-creating-accessible-epub-3-files.html)
+
+## Framework
+* [Tutoriel "composants d’interface JavaScript"](https://disic.github.io/rgaa_bibliotheques_javascript/tutoriels/index.html)
+
+### AngularJS
+* [Single page applications, Angular.js and accessibility](http://simplyaccessible.com/article/spangular-accessibility/)
+
+### Bootstrap
+* [Bootstrap accessibility plugin](https://www.paypal-engineering.com/2014/01/28/bootstrap-accessibility-plugin-making-the-popular-web-development-framework-better/)
 
 ## Guidelines / Notices et référentiels
 * [AcceDe Web](http://www.accede-web.com/)
