@@ -302,6 +302,7 @@
 * [Accessibility Bookmarklets](https://accessibility-bookmarklets.org/)
 * [tota11y](http://khan.github.io/tota11y/)
 * [CKEditor Accessibility Checker](https://cksource.com/ckeditor/services#accessibility-checker)
+* [CKEditor Accessibility Checker for Drupal](https://www.drupal.org/project/ckeditor_a11ychecker)
 * [Website Accessibility Evaluation Report Generator](https://www.w3.org/WAI/eval/report-tool/#/)
 * [a11y.css](http://ffoodd.github.io/a11y.css/)
 * [A11y](http://a11y-app.herokuapp.com/)
