@@ -393,7 +393,6 @@
 * [Comparison of Browsers on HTML5 Video Accessibility: 2015 Update](http://terrillthompson.com/blog/635)
 * [Accessible HTML5 Video Player](http://paypal.github.io/accessible-html5-video-player/)
 * [Video.js](http://videojs.com/)
-* [Accessible HTML5 Video Player](http://e-standards.flexiblelearning.net.au/video/accessible-player-viewer.htm)
 * [Acorn Media Player](https://ghinda.net/acornmediaplayer/)
 * [HTML5 Video Player Comparison](http://videosws.praegnanz.de/#sws)
 * [HTML5 Video Player Comparison](http://html5video.org/wiki/HTML5_Video_Player_Comparison)
