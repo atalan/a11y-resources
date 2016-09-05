@@ -182,6 +182,7 @@
 * [Accessibility testing with Android Talkback](https://www.paciellogroup.com/blog/2015/10/accessibility-testing-with-android-talkback/)
 * [Accessible Tabbed Navigation in Android](http://www.deque.com/blog/tabbed-navigation/)
 * [Accessible Text Input in Android](http://www.deque.com/blog/accessible-text-input-android/)
+* [How to Make Android ImageViews Accessible with Content Descriptions](http://www.deque.com/blog/android-imageviews-accessible-content-descriptions/)
 * [An Introduction to Android Accessibility Features](https://www.sitepoint.com/introduction-android-accessibility-features/)
 * [Android Accessibility Help Center](https://support.google.com/accessibility/android)
 * [Référence des gestes de TalkBack sous Android 4.1, 4.2 et 4.3](http://blog.atalan.fr/reference-des-gestes-de-talkback-sous-android-4-1-4-2-et-4-3/)
