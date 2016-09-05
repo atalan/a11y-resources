@@ -264,6 +264,7 @@
 * [WTF, forms?](http://wtfforms.com/)
 * [A sweet toggle switch](https://www.paypal-engineering.com/2014/01/15/a-sweet-toggle-switch/)
 * [Accessible custom checkboxes and radio buttons](http://www.456bereastreet.com/lab/custom-checkboxes-radio-buttons/)
+* [Non-editable combobox with multiselect listbox](http://accessibleculture.org/misc/aria/combobox/combobox.html)
 
 ### Menu
 * [Menu accessible](https://www.screenfeed.fr/demos/menu-accessible/)
