@@ -418,3 +418,4 @@
 * [Accessibility in Microsoft Office 2013](https://www.microsoft.com/enable/products/office2013/default.aspx)
 * [Creating Accessible Microsoft Word 2007/ 2010 Documents](http://ncdae.org/resources/cheatsheets/word.php)
 * [PDF Conversion In Microsoft Word 2007/2010 Documents](http://ncdae.org/resources/cheatsheets/pdf.php)
+* [Microsoft Word - Creating Accessible Documents](http://webaim.org/techniques/word/)
