@@ -335,6 +335,7 @@
 * [Orange Confort+](http://confort-plus.orange.com/)
 * [Akbar, a bookmarklet that simulates various types user experiences](http://howlowck.github.io/Akbar/)
 * [ally.js](http://allyjs.io/)
+* [Mobile Web Accessibility Checker](http://www.userlight.com/apps/mwac/)
 * [SpeakIt! (Chrome extension)](https://chrome.google.com/webstore/detail/speakit/pgeolalilifpodheeocdmbhehgnkkbak?hl=fr)
 * [WAVE Evaluation Tool (Chrome extension)](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh/related)
 * [aXe (Chrome extension)](https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd)
