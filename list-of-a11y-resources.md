@@ -348,6 +348,7 @@
 * [Grille d’analyse des contrastes d’une charte](http://blog.atalan.fr/grille-contrastes-accessibilite-charte-graphique/)
 * [Tanaguru Contrast-Finder](http://contrast-finder.tanaguru.com/form.html)
 * [A11y Color Palette](http://a11yrocks.com/colorPalette/)
+* [Color Contrast Checker](http://webaim.org/resources/contrastchecker/)
 * [Colour Contrast Determinator](http://www.visionaustralia.org/digital-access-determinator)
 * [Accessible colors](http://accessible-colors.com/)
 * [lowvision.support](http://lowvision.support/)
