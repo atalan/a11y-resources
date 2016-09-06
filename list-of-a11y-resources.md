@@ -246,6 +246,7 @@
 * [Vanilla JS Accessible Accordion Widget](http://codepen.io/stowball/pen/eZKwRv)
 
 ### Autocomplete / Autocomplétion
+* [Accessible Autocomplete](http://haltersweb.github.io/Accessibility/autocomplete.html)
 * [jQuery accessible autocomplete list](http://a11y.nicolas-hoffmann.net/autocomplet-list/)
 * [Basic autocomplete](http://codepen.io/goetsu/pen/wKYRvM/)
 
