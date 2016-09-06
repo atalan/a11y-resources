@@ -141,6 +141,7 @@
 * [Semantics and Accessibility: Heading Structure](http://accessiblehtmlheadings.com/)
 
 ## Images
+* [Guide pour la gestion des alternatives textuelles aux images](http://blog.atalan.fr/guide-pour-le-remplissage-dattributs-alt-dimages/)
 * [An alt Decision Tree](https://www.w3.org/WAI/tutorials/images/decision-tree/)
 * [The Wolfram Language Image Identification Project](https://www.imageidentify.com/)
 * [Tips for Creating Accessible SVG](https://www.sitepoint.com/tips-accessible-svg/)
