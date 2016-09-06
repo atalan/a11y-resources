@@ -283,6 +283,7 @@
 
 ### Modal / Modale
 * [Custom-Built Dialogs](http://juicystudio.com/article/custom-built_dialogs.php)
+* [Creating An Accessible Modal Dialog](https://bitsofco.de/accessible-modal-dialog/)
 * [The Incredible Accessible Modal Window, Version 4](http://gdkraus.github.io/accessible-modal-dialog/)
 * [jQuery simple and accessible modal window](http://a11y.nicolas-hoffmann.net/modal/)
 * [jQuery Popup Overlay](http://dev.vast.com/jquery-popup-overlay/)
