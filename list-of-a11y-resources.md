@@ -70,43 +70,43 @@
 * [WAI-ARIA Landmark Roles Cheatsheet](http://mcdlr.com/wai-aria-cheatsheet/)
 
 ## Awareness / Sensibilisation
-* [Faire fonctionner la technologie pour tous : une introduction à l’accessibilité numérique](http://blog.atalan.fr/video-faire-fonctionner-la-technologie-pour-tous-une-introduction-a-laccessibilite-numerique/)
-* [L’ordinateur des aveugles, 11 vidéos pour comprendre](http://portail.unice.fr/access-key)
 * [Dyslexie et lettres dansantes](http://blog.atalan.fr/dyslexie-lettres-dansent/)
 * [Étude sur l'usage des lecteurs d'écran en France et en Francophonie
 (Juin 2016 - PDF - 1 Mo)](http://www.aveuglesdefrance.org/sites/default/files/2016-06/Rapport_final_Etude-lecteurs-ecran-France-Francophonie_01062016.pdf)
+*[Faire fonctionner la technologie pour tous : une introduction à l’accessibilité numérique](http://blog.atalan.fr/video-faire-fonctionner-la-technologie-pour-tous-une-introduction-a-laccessibilite-numerique/)
+* [L’ordinateur des aveugles, 11 vidéos pour comprendre](http://portail.unice.fr/access-key)
 
 ## CAPTCHA
-* [Éviter le spam sans captcha](http://www.anysurfer.be/fr/blog/detail/captcha)
+* [Accessibility and Security](http://incl.ca/accessibility-and-security/)
 * [Alternatives aux CAPTCHA](http://www.tanguy-loheac.com/blog/alternatives-aux-captcha/)
+* [Captcha Alternatives and thoughts](https://www.w3.org/WAI/GL/wiki/Captcha_Alternatives_and_thoughts)
+* [Éviter le spam sans captcha](http://www.anysurfer.be/fr/blog/detail/captcha)
 * [L'inaccessibilité des « CAPTCHA »](http://www.yoyodesign.org/doc/w3c/turingtest-20051123/)
 * [reCAPTCHA Accessibility reVISTED](http://terrillthompson.com/blog/682)
-* [Captcha Alternatives and thoughts](https://www.w3.org/WAI/GL/wiki/Captcha_Alternatives_and_thoughts)
 * [TextCaptcha, a source of simple textual CAPTCHA challenges](http://textcaptcha.com/)
-* [Accessibility and Security](http://incl.ca/accessibility-and-security/)
 * [The issues with CAPTCHA](http://accessible-techcomm.org/the-issues-with-captcha/)
 
 ## CSS
 * [Accessible footnotes with CSS](http://codepen.io/SitePoint/pen/QbMgvY)
-* [HTML Source Order vs CSS Display Order](http://adrianroselli.com/2015/10/html-source-order-vs-css-display-order.html)
-* [Flexbox Tests](http://sprungmarker.de/wp-content/uploads/css-a11y-group/css-a11y-flexbox.html)
 * [Bulletproof Accessible Icon Fonts](https://www.filamentgroup.com/lab/bulletproof_icon_fonts.html)
+* [Flexbox Tests](http://sprungmarker.de/wp-content/uploads/css-a11y-group/css-a11y-flexbox.html)
+* [HTML Source Order vs CSS Display Order](http://adrianroselli.com/2015/10/html-source-order-vs-css-display-order.html)
 
 ## Dyslexia  / Dyslexie 
-* [Une police de caractères dédiée aux dyslexiques](http://www.simpleweb.fr/2013/01/23/une-police-de-caracteres-dediee-aux-dyslexiques/)
-* [OpenDyslexic](http://opendyslexic.org/)
-* [How to Design for Dyslexia](https://medium.com/@usabilla/how-to-design-for-dyslexia-71e214fe6964#.6tplp283d)
 * [Designing for Dyslexia, Part 1](http://www.uxbooth.com/articles/designing-for-dyslexia-part-1/)
 * [Designing for Dyslexia, Part 2](http://www.uxbooth.com/articles/designing-for-dyslexia-part-2/)
+* [How to Design for Dyslexia](https://medium.com/@usabilla/how-to-design-for-dyslexia-71e214fe6964#.6tplp283d)
+* [OpenDyslexic](http://opendyslexic.org/)
 * [Optimal Colors to Improve Readability for People with Dyslexia](https://www.w3.org/WAI/RD/2012/text-customization/r11)
+* [Une police de caractères dédiée aux dyslexiques](http://www.simpleweb.fr/2013/01/23/une-police-de-caracteres-dediee-aux-dyslexiques/)
 
 ## ePub
-* [Inclusive EPUB 3](http://handbook.floeproject.org/InclusiveEPUB3.html)
 * [13 Keys to Accessible EPUB3 Documents](http://vprompt.com/2014/08/13-keys-accessible-epub3-documents/)
-* [Using Adobe InDesign to create accessible EPUB 3 files](http://www.daisy.org/daisypedia/using-adobe-indesign-create-accessible-epub-3-files)
 * [EPUB 3 Accessibility Guidelines](http://www.idpf.org/accessibility/guidelines/)
 * [EPUB 3 Accessibility Guidelines - Accessibility QA Checklist](http://www.idpf.org/accessibility/guidelines/content/qa/qa-checklist.php)
+* [Inclusive EPUB 3](http://handbook.floeproject.org/InclusiveEPUB3.html)
 * [Top Tips for Creating Accessible EPUB 3 Files](http://diagramcenter.org/54-9-tips-for-creating-accessible-epub-3-files.html)
+* [Using Adobe InDesign to create accessible EPUB 3 files](http://www.daisy.org/daisypedia/using-adobe-indesign-create-accessible-epub-3-files)
 
 ## Framework
 * [Tutoriel "composants d’interface JavaScript"](https://disic.github.io/rgaa_bibliotheques_javascript/tutoriels/index.html)
@@ -118,63 +118,63 @@
 * [Bootstrap accessibility plugin](https://www.paypal-engineering.com/2014/01/28/bootstrap-accessibility-plugin-making-the-popular-web-development-framework-better/)
 
 ## Guidelines / Notices et référentiels
-* [AcceDe Web](http://www.accede-web.com/)
 * [AcceDe PDF](http://www.pdf-accessible.com/)
-* [RGAA (Référentiel Général d’Accessibilité pour les Administrations)](http://references.modernisation.gouv.fr/accessibilite-numerique)
-* [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/)
-* [Techniques for WCAG 2.0](https://www.w3.org/TR/WCAG-TECHS/Overview.html)
-* [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
-* [Getting Started with Web Accessibility](https://www.w3.org/WAI/gettingstarted/Overview.html)
-* [Interactive WCAG 2.0](http://code.viget.com/interactive-wcag)
-* [WebAIR: Web Accessibility Information Resource](https://www.cs.york.ac.uk/hci/webair/index.htm)
+* [AcceDe Web](http://www.accede-web.com/)
 * [Access 8878](https://www.access8878.co.uk/)
 * [Accessibility Guidelines](http://accessibility.voxmedia.com/)
+* [Getting Started with Web Accessibility](https://www.w3.org/WAI/gettingstarted/Overview.html)
+* [Interactive WCAG 2.0](http://code.viget.com/interactive-wcag)
+* [RGAA (Référentiel Général d’Accessibilité pour les Administrations)](http://references.modernisation.gouv.fr/accessibilite-numerique)
+* [Techniques for WCAG 2.0](https://www.w3.org/TR/WCAG-TECHS/Overview.html)
+* [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
+* [WebAIR: Web Accessibility Information Resource](https://www.cs.york.ac.uk/hci/webair/index.htm)
+* [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/)
 
 ## HTML5
-* [HTML5 Accessibility](http://stevefaulkner.github.io/HTML5accessibility/)
-* [Using the HTML5 section element](https://www.paciellogroup.com/blog/2013/10/using-html5-section-element/)
 * [Accesskey replacement proposal](http://chaals.github.io/accesskey/index.src.html)
-* [Using Heading Elements to Create a Document Outline](https://bitsofco.de/using-heading-elements-to-create-a-document-outline/)
-* [Sectioning Content in HTML5 - div or section or article?](https://bitsofco.de/sectioning-content-in-html5/)
 * [A transcript extension for HTML](https://www.w3.org/TR/2015/NOTE-html-transcript-src-20151001/)
-* [The Elements of HTML](http://w3c.github.io/elements-of-html/)
+* [HTML5 Accessibility](http://stevefaulkner.github.io/HTML5accessibility/)
+* [Sectioning Content in HTML5 - div or section or article?](https://bitsofco.de/sectioning-content-in-html5/)
 * [Semantics and Accessibility: Heading Structure](http://accessiblehtmlheadings.com/)
+* [The Elements of HTML](http://w3c.github.io/elements-of-html/)
+* [Using Heading Elements to Create a Document Outline](https://bitsofco.de/using-heading-elements-to-create-a-document-outline/)
+* [Using the HTML5 section element](https://www.paciellogroup.com/blog/2013/10/using-html5-section-element/)
 
 ## Images
-* [Guide pour la gestion des alternatives textuelles aux images](http://blog.atalan.fr/guide-pour-le-remplissage-dattributs-alt-dimages/)
+* [amCharts Accessibility Plugin](http://paypal.github.io/amcharts-accessibility-plugin/)
 * [An alt Decision Tree](https://www.w3.org/WAI/tutorials/images/decision-tree/)
+* [Guide pour la gestion des alternatives textuelles aux images](http://blog.atalan.fr/guide-pour-le-remplissage-dattributs-alt-dimages/)
+* [Text alternatives – a decision tree](http://4syllables.com.au/articles/text-alternatives-decision-tree/)
 * [The Wolfram Language Image Identification Project](https://www.imageidentify.com/)
 * [Tips for Creating Accessible SVG](https://www.sitepoint.com/tips-accessible-svg/)
 * [When is an image ‘purely decorative’?](http://4syllables.com.au/articles/decorative-images/)
-* [Text alternatives – a decision tree](http://4syllables.com.au/articles/text-alternatives-decision-tree/)
-* [amCharts Accessibility Plugin](http://paypal.github.io/amcharts-accessibility-plugin/)
 
 ## InDesign
-* [Principes d’accessibilité avec Adobe InDesign (PDF – 1,75 Mo)](http://www.tresor.gouv.qc.ca/fileadmin/PDF/ressources_informationnelles/AccessibiliteWeb/principes_accessibilite_indesign.pdf)
+* [Creating Accessible Adobe InDesign CS5.5 PDF Documents](http://ncdae.org/resources/cheatsheets/indesign.php)
 * [Créer des documents PDF accessibles avec InDesign](http://anysurfer.be/fr/en-pratique/documents/pdf/indesign)
 * [InDesign how-to: Tagging long tables in PDF documents](http://www.visionaustralia.org/business-and-professionals/digital-access-consulting/resources/blog---accessibility-and-assistive-technology-blog/blog/accessibility-blog/2015/08/26/indesign-how-to-tagging-long-tables-in-pdf-documents)
-* [Creating Accessible Adobe InDesign CS5.5 PDF Documents](http://ncdae.org/resources/cheatsheets/indesign.php)
+* [Principes d’accessibilité avec Adobe InDesign (PDF – 1,75 Mo)](http://www.tresor.gouv.qc.ca/fileadmin/PDF/ressources_informationnelles/AccessibiliteWeb/principes_accessibilite_indesign.pdf)
 
 ## Keyboard navigation / Navigation au clavier
+* [Animated Scroll to Top](http://webdesignerwall.com/demo/scroll-to-top/scrolltotop.html)
+* [Focus transition](http://n12v.com/focus-transition/)
+* [How I learned to stop worrying and love the outline](https://medium.com/@wilkowskidom/how-i-learned-to-stop-worrying-and-love-the-outline-7a35b3b49e7#.ayjjemn5p)
 * [jquery-keyboard-focus](https://www.npmjs.com/package/jquery-keyboard-focus)
 * [Making Accessibility Simpler, With Ally.js](https://www.smashingmagazine.com/2015/12/making-accessibility-simpler/)
-* [Focus transition](http://n12v.com/focus-transition/)
-* [Animated Scroll to Top](http://webdesignerwall.com/demo/scroll-to-top/scrolltotop.html)
 * [SkipTo](http://paypal.github.io/skipto/)
-* [How I learned to stop worrying and love the outline](https://medium.com/@wilkowskidom/how-i-learned-to-stop-worrying-and-love-the-outline-7a35b3b49e7#.ayjjemn5p)
 
 ## Live regions / Régions dynamiques
-* [Live region attributes](http://ideance.net/publications/live-regions/index.html)
-* [Using ARIA Live Regions or role=alert to Identify Errors](http://pauljadam.com/demos/aria-alert-validation.html)
 * [Injecting content into the page tests](http://maxdesign.com.au/jobs/sample-accessibility/10-notifications/index.html)
+* [Live region attributes](http://ideance.net/publications/live-regions/index.html)
 * [Test Cases](http://accessibleajax.clcworld.net/)
+* [Using ARIA Live Regions or role=alert to Identify Errors](http://pauljadam.com/demos/aria-alert-validation.html)
 * [WAI-ARIA Live Regions Updated](http://juicystudio.com/article/wai-aria_live-regions_updated.php)
 
 ## Mobile
-* [Resources for Mobile Accessibility Guidelines](http://www.iheni.com/mobile-accessibility-guidelines/)
+* [Don’t Disable Zoom](http://adrianroselli.com/2015/10/dont-disable-zoom.html)
 * [Mobile Accessibility Guidelines](http://www.bbc.co.uk/guidelines/futuremedia/accessibility/mobile)
 * [Mobile Resources](https://www.w3.org/WAI/GL/mobile-a11y-tf/wiki/Mobile_Resources)
-* [Don’t Disable Zoom](http://adrianroselli.com/2015/10/dont-disable-zoom.html)
+* [Resources for Mobile Accessibility Guidelines](http://www.iheni.com/mobile-accessibility-guidelines/)
 
 ### Android
 * [Guide de développement d'applications accessibles mobiles avec l'API Android](https://github.com/DISIC/guide-mobile_app_dev_natif/blob/master/android.md)
