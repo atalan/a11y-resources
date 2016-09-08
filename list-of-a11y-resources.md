@@ -48,26 +48,26 @@
 - [Word](#word)
 
 ## Adobe Acrobat
-* [The Importance of Role Mapping in Acrobat](http://www.ssbbartgroup.com/blog/importance-role-mapping-acrobat/)
 * [Accessible Forms in Acrobat XI](http://webaim.org/techniques/acrobat/forms)
-* [Authoring Techniques for Accessible Office Documents: Adobe Acrobat 11 Pro](http://adod.idrc.ocad.ca/acrobat11)
 * [Authoring Techniques for Accessible Office Documents: Adobe Acrobat 10 Pro](http://adod.idrc.ocad.ca/acrobat10)
+* [Authoring Techniques for Accessible Office Documents: Adobe Acrobat 11 Pro](http://adod.idrc.ocad.ca/acrobat11)
 * [Creating Accessible PDF Documents In Adobe Acrobat X](http://ncdae.org/resources/cheatsheets/acrobat.php)
+* [The Importance of Role Mapping in Acrobat](http://www.ssbbartgroup.com/blog/importance-role-mapping-acrobat/)
 
 ## ARIA
-* [Accessible Rich Internet Applications (WAI-ARIA) 1.0](https://www.w3.org/TR/wai-aria/)
-* [WAI-ARIA 1.0 Authoring Practices](https://www.w3.org/TR/wai-aria-practices/)
-* [Notes on Using ARIA in HTML](https://www.w3.org/TR/aria-in-html/)
 * [Accessibilité du Web - L'ergonomie avec WAI-ARIA](http://aria.inlb.qc.ca/)
-* [Using the aria-owns attribute](http://tink.uk/using-the-aria-owns-attribute/)
-* [WAI-ARIA Landmark Roles Cheatsheet](http://mcdlr.com/wai-aria-cheatsheet/)
-* [Use ARIA Now!](http://b11y.com/talks/aria/)
-* [Test ARIA Forward - test cases](http://www.html5accessibility.com/tests/ARIA-tests/)
-* [Using WAI-ARIA Landmarks](https://www.paciellogroup.com/blog/2013/02/using-wai-aria-landmarks-2013/)
+* [Accessible Rich Internet Applications (WAI-ARIA) 1.0](https://www.w3.org/TR/wai-aria/)
 * [ARIA Test Cases](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Test_Cases)
-* [Using aria-flowto to give users a choice of reading order](http://3needs.org/en/testing/code/aria-flowto.html)
+* [Notes on Using ARIA in HTML](https://www.w3.org/TR/aria-in-html/)
 * [Periodic Table of ARIA 1.0 Roles](http://dylanb.github.io/periodic-aria-roles.html)
+* [Test ARIA Forward - test cases](http://www.html5accessibility.com/tests/ARIA-tests/)
+* [Using aria-flowto to give users a choice of reading order](http://3needs.org/en/testing/code/aria-flowto.html)
+* [Use ARIA Now!](http://b11y.com/talks/aria/)
+* [Using the aria-owns attribute](http://tink.uk/using-the-aria-owns-attribute/)
+* [Using WAI-ARIA Landmarks](https://www.paciellogroup.com/blog/2013/02/using-wai-aria-landmarks-2013/)
+* [WAI-ARIA Authoring Practices 1.1](https://www.w3.org/TR/wai-aria-practices/)
 * [WAI-ARIA Cheat Sheet](http://karlgroves-sandbox.com/CheatSheets/ARIA-Cheatsheet.html)
+* [WAI-ARIA Landmark Roles Cheatsheet](http://mcdlr.com/wai-aria-cheatsheet/)
 
 ## Awareness / Sensibilisation
 * [Faire fonctionner la technologie pour tous : une introduction à l’accessibilité numérique](http://blog.atalan.fr/video-faire-fonctionner-la-technologie-pour-tous-une-introduction-a-laccessibilite-numerique/)
