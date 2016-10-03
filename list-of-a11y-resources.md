@@ -231,6 +231,7 @@
 ### Library / Librairie
 * [Accessibility section - jQuery Plugins](http://a11y.nicolas-hoffmann.net/)
 * [Accessible jQuery-ui Components](http://hanshillen.github.io/jqtest/)
+* [Accessible UI Components List](https://www.w3.org/blog/wai-components-gallery/)
 * [Assets Framework](http://assets.cms.gov/resources/framework/3.0/Pages/)
 * [Boîte à outils de l’expérience Web](http://wet-boew.github.io/wet-boew/index-fr.html)
 * [Code Library of Accessibility Examples](https://dequeuniversity.com/library/)
