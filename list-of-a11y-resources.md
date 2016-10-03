@@ -346,7 +346,6 @@
 * [Yubi, a touch target bookmarklet](https://barrow.io/yubi)
 
 ### Colors / Couleurs
-* [Text on background image a11y check](http://www.brandwood.com/a11y/)
 * [A11y Color Palette](http://a11yrocks.com/colorPalette/)
 * [Accessible colors](http://accessible-colors.com/)
 * [Check My Colours](http://www.checkmycolours.com/)
@@ -375,6 +374,7 @@
 * [Random A11y Color Palettes](http://www.randoma11y.com)
 * [SEE (Chrome extension)](https://chrome.google.com/webstore/detail/see/dkihcccbkkakkbpikjmpnbamkgbjfdcn)
 * [Tanaguru Contrast-Finder](http://contrast-finder.tanaguru.com/form.html)
+* [Text on background image a11y check](http://www.brandwood.com/a11y/)
 * [Vischeck simulates colorblind vision](http://www.vischeck.com/)
 * [WCAG Contrast checker (Firefox extension)](https://addons.mozilla.org/fr/firefox/addon/wcag-contrast-checker/)
 
