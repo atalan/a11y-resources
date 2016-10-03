@@ -408,6 +408,7 @@
 * [Comparison of Browsers on HTML5 Video Accessibility: 2015 Update](http://terrillthompson.com/blog/635)
 * [HTML5 Video Player Comparison](http://videosws.praegnanz.de/#sws)
 * [HTML5 Video Player Comparison](http://html5video.org/wiki/HTML5_Video_Player_Comparison)
+* [MFP Accessible Video Player](https://github.com/jpv66/MFPvideoPlayer)
 * [OU Media Player](http://mediaplayer.open.edu/)
 * [OzPlayer](http://www.accessibilityoz.com/ozplayer/)
 * [Plyr](https://plyr.io/)
