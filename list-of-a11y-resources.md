@@ -71,10 +71,10 @@
 
 ## Awareness / Sensibilisation
 * [Dyslexie et lettres dansantes](http://blog.atalan.fr/dyslexie-lettres-dansent/)
-* [Étude sur l'usage des lecteurs d'écran en France et en Francophonie
-(Juin 2016 - PDF - 1 Mo)](http://www.aveuglesdefrance.org/sites/default/files/2016-06/Rapport_final_Etude-lecteurs-ecran-France-Francophonie_01062016.pdf)
-*[Faire fonctionner la technologie pour tous : une introduction à l’accessibilité numérique](http://blog.atalan.fr/video-faire-fonctionner-la-technologie-pour-tous-une-introduction-a-laccessibilite-numerique/)
+* [Étude sur l'usage des lecteurs d'écran en France et en Francophonie (Juin 2016 - PDF - 1 Mo)](http://www.aveuglesdefrance.org/sites/default/files/2016-06/Rapport_final_Etude-lecteurs-ecran-France-Francophonie_01062016.pdf)
+* [Faire fonctionner la technologie pour tous : une introduction à l’accessibilité numérique](http://blog.atalan.fr/video-faire-fonctionner-la-technologie-pour-tous-une-introduction-a-laccessibilite-numerique/)
 * [L’ordinateur des aveugles, 11 vidéos pour comprendre](http://portail.unice.fr/access-key)
+* [Web Accessibility Related Lawsuits and Settlements in the United States](http://karlgroves.github.io/a11y-lawsuits/lawsuits.html)
 
 ## CAPTCHA
 * [Accessibility and Security](http://incl.ca/accessibility-and-security/)
@@ -325,6 +325,7 @@
 * [ChromeLens, to develop for the visually impaired (Chrome extension)](http://chromelens.xyz/)
 * [CKEditor Accessibility Checker](https://cksource.com/ckeditor/services#accessibility-checker)
 * [CKEditor Accessibility Checker for Drupal](https://www.drupal.org/project/ckeditor_a11ychecker)
+* [Content Clarifier](http://contentclarifier.mybluemix.net/#/landing)
 * [Dictanote - Speech Recognizer (Chrome extension)](https://chrome.google.com/webstore/detail/dictanote-speech-recogniz/aomjekmpappghadlogpigifkghlmebjk)
 * [HTML_CodeSniffer](http://squizlabs.github.io/HTML_CodeSniffer/)
 * [Image Analyser](http://juicystudio.com/services/image.php)
