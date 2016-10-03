@@ -284,6 +284,7 @@
 * [SkipTo](http://paypal.github.io/skipto/)
 
 ### Modal / Modale
+* [Accessible Modal Window V2](http://scottaohara.github.io/accessible_modal_window/)
 * [A11y Dialog](http://edenspiekermann.github.io/a11y-dialog/)
 * [Colorbox Demonstration](http://www.jacklmoore.com/colorbox/example1/)
 * [Creating An Accessible Modal Dialog](https://bitsofco.de/accessible-modal-dialog/)
@@ -292,7 +293,6 @@
 * [jQuery simple and accessible modal window](http://a11y.nicolas-hoffmann.net/modal/)
 * [Modaal](http://www.humaan.com/modaal/)
 * [The Incredible Accessible Modal Window, Version 4](http://gdkraus.github.io/accessible-modal-dialog/)
-* [Accessible Modal Window V2](http://scottaohara.github.io/accessible_modal_window/)
 
 ### Tabs / Onglets
 * [jQuery Accessible tab panel system](http://a11y.nicolas-hoffmann.net/tabs/)
@@ -346,6 +346,7 @@
 * [Yubi, a touch target bookmarklet](https://barrow.io/yubi)
 
 ### Colors / Couleurs
+* [Text on background image a11y check](http://www.brandwood.com/a11y/)
 * [A11y Color Palette](http://a11yrocks.com/colorPalette/)
 * [Accessible colors](http://accessible-colors.com/)
 * [Check My Colours](http://www.checkmycolours.com/)
