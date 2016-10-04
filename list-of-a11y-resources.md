@@ -30,7 +30,7 @@
 	- [Library / Librairie](#library--librairie)
 	- [Accordion  / Accordéon](#accordion---accordéon)
 	- [Autocomplete / Autocomplétion](#autocomplete--autocomplétion)
-	- [Carrousel / Carousel](#carrousel--carousel)
+	- [Carousel / Carrousel](#carousel--carrousel)
 	- [Datepicker](#datepicker)
 	- [Form / Formulaire](#form--formulaire)
 	- [Menu](#menu)
@@ -256,7 +256,7 @@
 * [Basic autocomplete](http://codepen.io/goetsu/pen/wKYRvM/)
 * [jQuery accessible autocomplete list](http://a11y.nicolas-hoffmann.net/autocomplet-list/)
 
-### Carrousel / Carousel
+### Carousel / Carrousel
 * [Carrousel](http://www.romaingervois.fr/carrousel)
 * [jQuery Accessible Carrousel System](http://a11y.nicolas-hoffmann.net/carrousel/)
 * [Slick](http://kenwheeler.github.io/slick/)
