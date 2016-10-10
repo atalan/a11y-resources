@@ -91,6 +91,7 @@
 * [Bulletproof Accessible Icon Fonts](https://www.filamentgroup.com/lab/bulletproof_icon_fonts.html)
 * [Flexbox Tests](http://sprungmarker.de/wp-content/uploads/css-a11y-group/css-a11y-flexbox.html)
 * [HTML Source Order vs CSS Display Order](http://adrianroselli.com/2015/10/html-source-order-vs-css-display-order.html)
+* [Button Focus Hell](https://marcysutton.com/button-focus-hell/)
 
 ## Dyslexia  / Dyslexie 
 * [Designing for Dyslexia, Part 1](http://www.uxbooth.com/articles/designing-for-dyslexia-part-1/)
@@ -110,9 +111,14 @@
 
 ## Framework
 * [Tutoriel "composants d’interface JavaScript"](https://disic.github.io/rgaa_bibliotheques_javascript/tutoriels/index.html)
+* [Notes on Client-Rendered Accessibility](https://www.smashingmagazine.com/2015/05/client-rendered-accessibility/)
 
 ### AngularJS
 * [Single page applications, Angular.js and accessibility](http://simplyaccessible.com/article/spangular-accessibility/)
+* [ngA11y](https://github.com/dequelabs/ngA11y)
+* [Using ngAria](http://angularjs.blogspot.com/2014/11/using-ngaria.html)
+* [Angular Accessibility: ngEurope 2014](https://www.youtube.com/watch?v=dmYDggEgU-s)
+* [Testing for Accessibility in Angular 1 and 2: WebExpo 2016](http://slideslive.com/38898235/accessibility-testing-in-angular-1-and-2)
 
 ### Bootstrap
 * [Bootstrap accessibility plugin](https://www.paypal-engineering.com/2014/01/28/bootstrap-accessibility-plugin-making-the-popular-web-development-framework-better/)
@@ -140,6 +146,8 @@
 * [The Elements of HTML](http://w3c.github.io/elements-of-html/)
 * [Using Heading Elements to Create a Document Outline](https://bitsofco.de/using-heading-elements-to-create-a-document-outline/)
 * [Using the HTML5 section element](https://www.paciellogroup.com/blog/2013/10/using-html5-section-element/)
+* [Links vs. Buttons in Modern Web Applications](https://marcysutton.com/links-vs-buttons-in-modern-web-applications/)
+* [Accessibility and Performance](https://marcysutton.com/accessibility-and-performance/)
 
 ## Images
 * [amCharts Accessibility Plugin](http://paypal.github.io/amcharts-accessibility-plugin/)
@@ -150,6 +158,7 @@
 * [The Wolfram Language Image Identification Project](https://www.imageidentify.com/)
 * [Tips for Creating Accessible SVG](https://www.sitepoint.com/tips-accessible-svg/)
 * [When is an image ‘purely decorative’?](http://4syllables.com.au/articles/decorative-images/)
+* [On writing better captions for images](https://marcysutton.com/a-picture-is-worth-a-thousand-words/)
 
 ## InDesign
 * [Creating Accessible Adobe InDesign CS5.5 PDF Documents](http://ncdae.org/resources/cheatsheets/indesign.php)
