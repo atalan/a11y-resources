@@ -298,6 +298,7 @@
 * [jQuery simple and accessible modal window](http://a11y.nicolas-hoffmann.net/modal/)
 * [Modaal](http://www.humaan.com/modaal/)
 * [The Incredible Accessible Modal Window, Version 4](http://gdkraus.github.io/accessible-modal-dialog/)
+* [Modal Dialog Example 2](https://weboverhauls.github.io/demos/modal/modal_demo2.html)
 
 ### Tabs / Onglets
 * [jQuery Accessible tab panel system](http://a11y.nicolas-hoffmann.net/tabs/)
