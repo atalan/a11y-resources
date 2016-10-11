@@ -247,11 +247,11 @@
 
 ### Accordion  / Accordéon
 * [Accessible expand and collapse demo](http://codepen.io/petervangrieken/details/jqVYej/)
-* [jQuery simple and accessible hide-show system (collapsible regions), using ARIA](https://a11y.nicolas-hoffmann.net/hide-show/)
 * [jQuery accessible accordion system, using ARIA](https://a11y.nicolas-hoffmann.net/accordion/)
-* [Van11y (Vanilla a11y) simple and accessible hide-show system (collapsible regions), using ARIA](https://van11y.net/accessible-hide-show/)
-* [Van11y (Vanilla a11y) accessible accordion system, using ARIA](https://van11y.net/accessible-accordion/)
+* [jQuery simple and accessible hide-show system (collapsible regions), using ARIA](https://a11y.nicolas-hoffmann.net/hide-show/)
 * [RWD Tabs to Accordion Demo](http://pauljadam.com/demos/rwd-tabs-accordion.html)
+* [Van11y (Vanilla a11y) accessible accordion system, using ARIA](https://van11y.net/accessible-accordion/)
+* [Van11y (Vanilla a11y) simple and accessible hide-show system (collapsible regions), using ARIA](https://van11y.net/accessible-hide-show/)
 * [Vanilla JS Accessible Accordion Widget](http://codepen.io/stowball/pen/eZKwRv)
 
 ### Autocomplete / Autocomplétion
@@ -304,11 +304,11 @@
 
 ### Tabs / Onglets
 * [jQuery Accessible tab panel system](https://a11y.nicolas-hoffmann.net/tabs/)
-* [Van11y (Vanilla a11y) accessible tab panel using ARIA](https://van11y.net/accessible-tab-panel/)
 * [Responsive Tabs/Accordion](http://codepen.io/mpiotrowicz/pen/gocmu)
 * [RWD Tabs to Accordion](http://pauljadam.com/demos/rwd-tabs-accordion.html)
 * [Système d'onglets avec substitut pour le responsive](http://www.romaingervois.fr/implementations/tabs-responsive.html)
 * [Tab Panel Example](https://dl.dropboxusercontent.com/u/1065747/tab-panel/index.html)
+* [Van11y (Vanilla a11y) accessible tab panel using ARIA](https://van11y.net/accessible-tab-panel/)
 
 ### Tooltip / Infobulle
 * [jQuery simple and accessible dialog tooltip window](https://a11y.nicolas-hoffmann.net/dialog-tooltip/)
