@@ -231,7 +231,7 @@
 ## Rich interface components / Composants d’interface riche
 
 ### Library / Librairie
-* [Accessibility section - jQuery Plugins](http://a11y.nicolas-hoffmann.net/)
+* [Accessibility section - jQuery Plugins](https://a11y.nicolas-hoffmann.net/)
 * [Accessible jQuery-ui Components](http://hanshillen.github.io/jqtest/)
 * [Accessible UI Components List](https://www.w3.org/blog/wai-components-gallery/)
 * [Assets Framework](http://assets.cms.gov/resources/framework/3.0/Pages/)
@@ -243,22 +243,25 @@
 * [OpenAjax Alliance Accessibility](http://oaa-accessibility.org/)
 * [Practical ARIA examples](http://heydonworks.com/practical_aria_examples/)
 * [Simply Accessible](http://examples.simplyaccessible.com/)
-* [Van11y](https://van11y.net/)
+* [Van11y (Vanilla a11y) accessible scripts of rich interface elements](https://van11y.net/)
 
 ### Accordion  / Accordéon
 * [Accessible expand and collapse demo](http://codepen.io/petervangrieken/details/jqVYej/)
-* [jQuery simple and accessible hide-show system (collapsible regions), using ARIA](http://a11y.nicolas-hoffmann.net/hide-show/)
+* [jQuery simple and accessible hide-show system (collapsible regions), using ARIA](https://a11y.nicolas-hoffmann.net/hide-show/)
+* [jQuery accessible accordion system, using ARIA](https://a11y.nicolas-hoffmann.net/accordion/)
+* [Van11y (Vanilla a11y) simple and accessible hide-show system (collapsible regions), using ARIA](https://van11y.net/accessible-hide-show/)
+* [Van11y (Vanilla a11y) accessible accordion system, using ARIA](https://van11y.net/accessible-accordion/)
 * [RWD Tabs to Accordion Demo](http://pauljadam.com/demos/rwd-tabs-accordion.html)
 * [Vanilla JS Accessible Accordion Widget](http://codepen.io/stowball/pen/eZKwRv)
 
 ### Autocomplete / Autocomplétion
 * [Accessible Autocomplete](http://haltersweb.github.io/Accessibility/autocomplete.html)
 * [Basic autocomplete](http://codepen.io/goetsu/pen/wKYRvM/)
-* [jQuery accessible autocomplete list](http://a11y.nicolas-hoffmann.net/autocomplet-list/)
+* [jQuery accessible autocomplete list](https://a11y.nicolas-hoffmann.net/autocomplet-list/)
 
 ### Carousel / Carrousel
 * [Carrousel](http://www.romaingervois.fr/carrousel)
-* [jQuery Accessible Carrousel System](http://a11y.nicolas-hoffmann.net/carrousel/)
+* [jQuery Accessible Carrousel System](https://a11y.nicolas-hoffmann.net/carrousel/)
 * [Slick](http://kenwheeler.github.io/slick/)
 
 ### Datepicker
@@ -295,19 +298,20 @@
 * [Creating An Accessible Modal Dialog](https://bitsofco.de/accessible-modal-dialog/)
 * [Custom-Built Dialogs](http://juicystudio.com/article/custom-built_dialogs.php)
 * [jQuery Popup Overlay](http://dev.vast.com/jquery-popup-overlay/)
-* [jQuery simple and accessible modal window](http://a11y.nicolas-hoffmann.net/modal/)
+* [jQuery simple and accessible modal window](https://a11y.nicolas-hoffmann.net/modal/)
 * [Modaal](http://www.humaan.com/modaal/)
 * [The Incredible Accessible Modal Window, Version 4](http://gdkraus.github.io/accessible-modal-dialog/)
 
 ### Tabs / Onglets
-* [jQuery Accessible tab panel system](http://a11y.nicolas-hoffmann.net/tabs/)
+* [jQuery Accessible tab panel system](https://a11y.nicolas-hoffmann.net/tabs/)
+* [Van11y (Vanilla a11y) accessible tab panel using ARIA](https://van11y.net/accessible-tab-panel/)
 * [Responsive Tabs/Accordion](http://codepen.io/mpiotrowicz/pen/gocmu)
 * [RWD Tabs to Accordion](http://pauljadam.com/demos/rwd-tabs-accordion.html)
 * [Système d'onglets avec substitut pour le responsive](http://www.romaingervois.fr/implementations/tabs-responsive.html)
 * [Tab Panel Example](https://dl.dropboxusercontent.com/u/1065747/tab-panel/index.html)
 
 ### Tooltip / Infobulle
-* [jQuery simple and accessible dialog tooltip window](http://a11y.nicolas-hoffmann.net/dialog-tooltip/)
+* [jQuery simple and accessible dialog tooltip window](https://a11y.nicolas-hoffmann.net/dialog-tooltip/)
 
 ## Tools / Outils
 * [A11y](http://a11y-app.herokuapp.com/)
