@@ -231,6 +231,7 @@
 ## Rich interface components / Composants d’interface riche
 
 ### Library / Librairie
+* [AccDC - Accelerated Dynamic Content](http://whatsock.com/)
 * [Accessibility section - jQuery Plugins](https://a11y.nicolas-hoffmann.net/)
 * [Accessible jQuery-ui Components](http://hanshillen.github.io/jqtest/)
 * [Accessible UI Components List](https://www.w3.org/blog/wai-components-gallery/)
