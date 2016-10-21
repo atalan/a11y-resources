@@ -286,7 +286,7 @@
 * [Accessible Multi-Level Dropdown Navigation](http://ireade.github.io/accessible-dropdown-navigation/)
 * [Accessible Slide Menu](http://codepen.io/marcysutton/pen/JoQqVw)
 * [Creating an Accessible ARIA Tree Control](http://www.ssbbartgroup.com/blog/creating-an-accessible-aria-tree-control/)
-* [Dropdown Menu Button](https://dl.dropboxusercontent.com/u/1065747/csun13/with_aria.html)
+* [Dropdown Menu Button](https://weboverhauls.github.io/demos/menu-button/with_aria.html)
 * [Fly-out Menus](https://www.w3.org/WAI/tutorials/menus/flyout/)
 * [Menu accessible](https://www.screenfeed.fr/demos/menu-accessible/)
 * [Tree Menu](http://files.paciellogroup.com/training/commonsamples/tpglibsamples/aria/tree/index.html)
@@ -308,7 +308,7 @@
 * [Responsive Tabs/Accordion](http://codepen.io/mpiotrowicz/pen/gocmu)
 * [RWD Tabs to Accordion](http://pauljadam.com/demos/rwd-tabs-accordion.html)
 * [Système d'onglets avec substitut pour le responsive](http://www.romaingervois.fr/implementations/tabs-responsive.html)
-* [Tab Panel Example](https://dl.dropboxusercontent.com/u/1065747/tab-panel/index.html)
+* [Tab Panel Example](https://weboverhauls.github.io/demos/tab-panel/)
 * [Van11y (Vanilla a11y) accessible tab panel using ARIA](https://van11y.net/accessible-tab-panel/)
 
 ### Tooltip / Infobulle
