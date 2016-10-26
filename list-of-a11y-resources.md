@@ -116,6 +116,7 @@
 
 ### Bootstrap
 * [Bootstrap accessibility plugin](https://www.paypal-engineering.com/2014/01/28/bootstrap-accessibility-plugin-making-the-popular-web-development-framework-better/)
+* [Orange Boosted with Bootstrap](http://boosted.orange.com/)
 
 ## Guidelines / Notices et référentiels
 * [AcceDe PDF](http://www.pdf-accessible.com/)
@@ -213,6 +214,7 @@
 * [Accessible Floating Labels](http://codepen.io/AllThingsSmitty/pen/VjykOz)
 * [Can I use placeholders instead of labels?](http://help.pardot.com/customer/portal/articles/2126649-can-i-use-placeholders-instead-of-labels-)
 * [Demo of Placeholder Labels](http://mozmonkey.com/wp-content/files/PlaceholderLabels/)
+* [Demo of placeholder with css slide effect](http://s.codepen.io/goetsu/debug/zKaRbO)
 * [Floated Labels](http://codepen.io/soulrider911/pen/ugnyl)
 * [Floated Labels Still Suck](http://www.webaxe.org/floated-labels-still-suck/)
 * [Flowup Labels](http://www.enfos.com/FlowupLabels.js/demo/)
@@ -325,6 +327,7 @@
 * [ACTF aDesigner](http://www.eclipse.org/actf/downloads/tools/aDesigner/)
 * [Akbar, a bookmarklet that simulates various types user experiences](http://howlowck.github.io/Akbar/)
 * [Analyseur de lisibilité de contenus](http://labs.translated.net/lisibilite-texte/)
+* [ASLint, accessibility and SEO checker](https://www.aslint.org/)
 * [Asqatasun](http://asqatasun.org/)
 * [aXe (Chrome extension)](https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd)
 * [Check the Accessibility of a PDF Document](http://checkers.eiii.eu/en/pdfcheck/)
@@ -333,8 +336,10 @@
 * [CKEditor Accessibility Checker for Drupal](https://www.drupal.org/project/ckeditor_a11ychecker)
 * [Content Clarifier](http://contentclarifier.mybluemix.net/#/landing)
 * [Dictanote - Speech Recognizer (Chrome extension)](https://chrome.google.com/webstore/detail/dictanote-speech-recogniz/aomjekmpappghadlogpigifkghlmebjk)
+* [Dictation - Online Speech Recognition](https://dictation.io/)
 * [HTML_CodeSniffer](http://squizlabs.github.io/HTML_CodeSniffer/)
 * [Image Analyser](http://juicystudio.com/services/image.php)
+* [Landmarks browser extension](http://matatk.agrip.org.uk/landmarks/)
 * [Mobile Web Accessibility Checker](http://www.userlight.com/apps/mwac/)
 * [Orange Confort+](http://confort-plus.orange.com/)
 * [pa11y](http://pa11y.org/)
@@ -381,6 +386,7 @@
 * [Create a Color Palette Accessibility Evaluator](https://accessibility.oit.ncsu.edu/tools/color-contrast/index.php)
 * [Graybit](http://del.icio.us/atalan/outil?&page=5)
 * [Grille d’analyse des contrastes d’une charte](http://blog.atalan.fr/grille-contrastes-accessibilite-charte-graphique/)
+* [Hex Naw, a color accessibility tool](https://hexnaw.com/)
 * [I want to see like the colour blind (Chrome extension)](https://chrome.google.com/webstore/detail/i-want-to-see-like-the-co/jebeedfnielkcjlcokhiobodkjjpbjia)
 * [lowvision.support](http://lowvision.support/)
 * [NoCoffee (Chrome extension)](https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl)
