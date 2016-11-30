@@ -224,6 +224,7 @@
 
 ## Powerpoint
 * [Authoring Techniques for Accessible Office Documents: Microsoft PowerPoint 2010](http://adod.idrc.ocad.ca/powerpoint2010)
+* [Creating Accessible Course Content in Microsoft PowerPoint](https://community.brightspace.com/tlc/blogs/creating_accessible_course_content_in_microsoft_powerpoint)
 * [Creating Accessible Microsoft PowerPoint 2007/ 2010 Presentations](http://ncdae.org/resources/cheatsheets/powerpoint.php)
 * [Creating accessible PowerPoint presentations](https://support.office.com/en-US/Article/Creating-accessible-PowerPoint-presentations-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25?ui=en-US&rs=en-US&ad=US)
 * [Création de présentations PowerPoint accessibles](https://support.office.com/fr-fr/article/Cr%C3%A9ation-de-pr%C3%A9sentations-PowerPoint-accessibles-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25?ui=fr-FR&rs=fr-FR&ad=FR)
@@ -316,9 +317,11 @@
 
 ### Tooltip / Infobulle
 * [jQuery simple and accessible dialog tooltip window](https://a11y.nicolas-hoffmann.net/dialog-tooltip/)
+* [Van11y (Vanilla a11y) accessible simple tooltip using ARIA](https://van11y.net/accessible-simple-tooltip/)
 
 ## Tools / Outils
 * [A11y](http://a11y-app.herokuapp.com/)
+* [a11yTools Extension for Safari macOS](http://pauljadam.com/extension.html)
 * [a11y.css](http://ffoodd.github.io/a11y.css/)
 * [ally.js](http://allyjs.io/)
 * [Accessibility Bookmarklets](https://accessibility-bookmarklets.org/)
