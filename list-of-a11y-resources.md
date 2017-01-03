@@ -189,6 +189,7 @@
 * [Guide de développement d'applications accessibles mobiles avec l'API Android](https://github.com/DISIC/guide-mobile_app_dev_natif/blob/master/android.md)
 * [How to Make Android ImageViews Accessible with Content Descriptions](http://www.deque.com/blog/android-imageviews-accessible-content-descriptions/)
 * [Inclusive Android](http://inclusiveandroid.com/)
+* [Making your Android Apps More Inclusive with accessibilitools](https://www.novoda.com/blog/accessibilitools/)
 * [Référence des gestes de TalkBack sous Android 4.1, 4.2 et 4.3](http://blog.atalan.fr/reference-des-gestes-de-talkback-sous-android-4-1-4-2-et-4-3/)
 
 ### iOS
@@ -316,6 +317,7 @@
 * [Van11y (Vanilla a11y) accessible tab panel using ARIA](https://van11y.net/accessible-tab-panel/)
 
 ### Tooltip / Infobulle
+* [Button with pop-over aria-label](https://jsfiddle.net/russambiata/55L1jcwb/)
 * [jQuery simple and accessible dialog tooltip window](https://a11y.nicolas-hoffmann.net/dialog-tooltip/)
 * [Van11y (Vanilla a11y) accessible simple tooltip using ARIA](https://van11y.net/accessible-simple-tooltip/)
 
@@ -364,6 +366,7 @@
 * [WAVE Evaluation Tool (Chrome extension)](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh/related)
 * [Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/index.html)
 * [Website Accessibility Evaluation Report Generator](https://www.w3.org/WAI/eval/report-tool/#/)
+* [WCAG Checklist (App)](http://www.wcagchecklist.com/)
 * [Yubi, a touch target bookmarklet](https://barrow.io/yubi)
 
 ### Colors / Couleurs
@@ -393,6 +396,7 @@
 * [I want to see like the colour blind (Chrome extension)](https://chrome.google.com/webstore/detail/i-want-to-see-like-the-co/jebeedfnielkcjlcokhiobodkjjpbjia)
 * [lowvision.support](http://lowvision.support/)
 * [NoCoffee (Chrome extension)](https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl)
+* [Palette](http://often.studio/)
 * [Random A11y Color Palettes](http://www.randoma11y.com)
 * [SEE (Chrome extension)](https://chrome.google.com/webstore/detail/see/dkihcccbkkakkbpikjmpnbamkgbjfdcn)
 * [Tanaguru Contrast-Finder](http://contrast-finder.tanaguru.com/form.html)
