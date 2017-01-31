@@ -58,6 +58,7 @@
 * [Accessibilité du Web - L'ergonomie avec WAI-ARIA](http://aria.inlb.qc.ca/)
 * [Accessible Rich Internet Applications (WAI-ARIA) 1.0](https://www.w3.org/TR/wai-aria/)
 * [ARIA Test Cases](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Test_Cases)
+* [Differences between ARIA 1.0 and 1.1: Deprecations & Additions](http://www.ssbbartgroup.com/blog/differences-aria-1-0-1-1-deprecations-additions/)
 * [Notes on Using ARIA in HTML](https://www.w3.org/TR/aria-in-html/)
 * [Periodic Table of ARIA 1.0 Roles](http://dylanb.github.io/periodic-aria-roles.html)
 * [Test ARIA Forward - test cases](http://www.html5accessibility.com/tests/ARIA-tests/)
@@ -261,6 +262,7 @@
 
 ### Autocomplete / Autocomplétion
 * [Accessible Autocomplete](http://haltersweb.github.io/Accessibility/autocomplete.html)
+* [ARIA Combobox Example](https://webkit.org/blog-files/aria1.0/combobox_with_live_region_status.html)
 * [Basic autocomplete](http://codepen.io/goetsu/pen/wKYRvM/)
 * [jQuery accessible autocomplete list](https://a11y.nicolas-hoffmann.net/autocomplet-list/)
 
@@ -278,6 +280,7 @@
 * [A sweet toggle switch](https://www.paypal-engineering.com/2014/01/15/a-sweet-toggle-switch/)
 * [Custom select box (CSS only)](http://codepen.io/bephf/pen/ogNBYW)
 * [Des cases à cocher au design personnalisé accessibles](http://blog.temesis.com/post/2014/03/18/cases-a-cocher-personnalisees-accessibles)
+* [Full Password Example](https://www.w3.org/WAI/tutorials/forms/examples/password/)
 * [Non-editable combobox with multiselect listbox](http://accessibleculture.org/misc/aria/combobox/combobox.html)
 * [Personnaliser l’aspect de boutons radio et checkbox en CSS](http://www.creativejuiz.fr/blog/tutoriels/personnaliser-aspect-boutons-radio-checkbox-css)
 * [WTF, forms?](http://wtfforms.com/)
@@ -328,6 +331,7 @@
 * [ally.js](http://allyjs.io/)
 * [Accessibility Bookmarklets](https://accessibility-bookmarklets.org/)
 * [Accessibility Scanner](https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.auditor)
+* [Accessibility tools for email developers](http://www.accessible-email.org/)
 * [AccessLint](http://accesslint.com/)
 * [ACTF aDesigner](http://www.eclipse.org/actf/downloads/tools/aDesigner/)
 * [Akbar, a bookmarklet that simulates various types user experiences](http://howlowck.github.io/Akbar/)
@@ -371,6 +375,7 @@
 
 ### Colors / Couleurs
 * [A11y Color Palette](http://a11yrocks.com/colorPalette/)
+* [Accessible color palette builder](https://toolness.github.io/accessible-color-matrix/)
 * [Accessible colors](http://accessible-colors.com/)
 * [Check My Colours](http://www.checkmycolours.com/)
 * [Chromatic Vision Simulator](http://asada.tukusi.ne.jp/cvsimulator/e/index.html)
@@ -389,6 +394,7 @@
 * [Contrast-A](http://www.dasplankton.de/ContrastA/)
 * [Contrast Checker (01)](http://contrastchecker.com/)
 * [Contrast Checker (02)](https://userway.org/contrast-checker)
+* [Contrast Finder](https://app.contrast-finder.org/)
 * [Contrast ratio](http://leaverou.github.io/contrast-ratio/)
 * [Create a Color Palette Accessibility Evaluator](https://accessibility.oit.ncsu.edu/tools/color-contrast/index.php)
 * [Graybit](http://del.icio.us/atalan/outil?&page=5)
@@ -400,7 +406,6 @@
 * [Palette](http://often.studio/)
 * [Random A11y Color Palettes](http://www.randoma11y.com)
 * [SEE (Chrome extension)](https://chrome.google.com/webstore/detail/see/dkihcccbkkakkbpikjmpnbamkgbjfdcn)
-* [Tanaguru Contrast-Finder](http://contrast-finder.tanaguru.com/form.html)
 * [Text on background image a11y check](http://www.brandwood.com/a11y/)
 * [Vischeck simulates colorblind vision](http://www.vischeck.com/)
 * [WCAG Contrast checker (Firefox extension)](https://addons.mozilla.org/fr/firefox/addon/wcag-contrast-checker/)
