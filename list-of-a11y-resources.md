@@ -269,7 +269,6 @@
 ### Carousel / Carrousel
 * [Carrousel](http://www.romaingervois.fr/carrousel)
 * [jQuery Accessible Carrousel System](https://a11y.nicolas-hoffmann.net/carrousel/)
-* [Slick](http://kenwheeler.github.io/slick/)
 
 ### Datepicker
 * [Yet Another Datepicker Demo](http://freqdec.github.io/datePicker/demo/)
