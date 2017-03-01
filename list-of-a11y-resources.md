@@ -139,7 +139,6 @@
 * [Accesskey replacement proposal](http://chaals.github.io/accesskey/index.src.html)
 * [A transcript extension for HTML](https://www.w3.org/TR/2015/NOTE-html-transcript-src-20151001/)
 * [HTML5 Accessibility](http://stevefaulkner.github.io/HTML5accessibility/)
-* [HTML Reference](http://htmlreference.io/)
 * [Sectioning Content in HTML5 - div or section or article?](https://bitsofco.de/sectioning-content-in-html5/)
 * [Semantics and Accessibility: Heading Structure](http://accessiblehtmlheadings.com/)
 * [The Elements of HTML](http://w3c.github.io/elements-of-html/)
