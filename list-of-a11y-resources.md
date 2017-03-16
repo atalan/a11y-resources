@@ -77,6 +77,7 @@
 * [Étude sur l'usage des lecteurs d'écran en France et en Francophonie (Juin 2016 - PDF - 1 Mo)](http://www.aveuglesdefrance.org/sites/default/files/2016-06/Rapport_final_Etude-lecteurs-ecran-France-Francophonie_01062016.pdf)
 * [Faire fonctionner la technologie pour tous : une introduction à l’accessibilité numérique](http://blog.atalan.fr/video-faire-fonctionner-la-technologie-pour-tous-une-introduction-a-laccessibilite-numerique/)
 * [L’ordinateur des aveugles, 11 vidéos pour comprendre](http://portail.unice.fr/access-key)
+* [Web Accessibility Perspectives](https://www.w3.org/WAI/perspectives/Overview.html)
 * [Web Accessibility Related Lawsuits and Settlements in the United States](http://karlgroves.github.io/a11y-lawsuits/lawsuits.html)
 
 ## CAPTCHA
