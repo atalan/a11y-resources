@@ -220,7 +220,6 @@
 * [Accessible Floating Labels](http://codepen.io/AllThingsSmitty/pen/VjykOz)
 * [Can I use placeholders instead of labels?](http://help.pardot.com/customer/portal/articles/2126649-can-i-use-placeholders-instead-of-labels-)
 * [Demo of Placeholder Labels](http://mozmonkey.com/wp-content/files/PlaceholderLabels/)
-* [Demo of placeholder with css slide effect](http://s.codepen.io/goetsu/debug/zKaRbO)
 * [Floated Labels](http://codepen.io/soulrider911/pen/ugnyl)
 * [Floated Labels Still Suck](http://www.webaxe.org/floated-labels-still-suck/)
 * [Flowup Labels](http://www.enfos.com/FlowupLabels.js/demo/)
