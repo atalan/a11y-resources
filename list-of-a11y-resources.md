@@ -363,6 +363,7 @@
 * [Photosensitive Epilepsy Analysis Tool](http://trace.wisc.edu/peat/)
 * [Readability Bookmarklet](https://accessibility.oit.ncsu.edu/tools/readability/)
 * [Scolarius](http://www.scolarius.com/submissions/28326)
+* [Siteimprove Accessibility Checker (Chrome extension)](https://chrome.google.com/webstore/detail/siteimprove-accessibility/efcfolpjihicnikpmhnmphjhhpiclljc?hl)
 * [SpeakIt! (Chrome extension)](https://chrome.google.com/webstore/detail/speakit/pgeolalilifpodheeocdmbhehgnkkbak?hl=fr)
 * [Tenon](http://tenon.io/)
 * [Tester l’accessibilité d’une page web ou d’un PDF avec NVDA](http://blog.atalan.fr/tester-accessibilite-web-pdf-lecteur-ecran-nvda/)
