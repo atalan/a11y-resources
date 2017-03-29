@@ -455,6 +455,7 @@
 * [Liste de bonnes pratiques pour le sous-titrage web](https://gist.github.com/knarf18/76f3738e970e8efa9243)
 * [Sous-titrer facilement avec l'aide de YouTube](http://anysurfer.be/fr/blog/detail/sous-titrer-facilement-avec-laide-de-youtube)
 * [Sous-titres dans Viméo](https://vimeo.com/help/faq/managing-your-videos/captions-and-subtitles)
+* [The Difference Between Open and Closed Captions](http://www.ai-media.tv/the-difference-between-open-and-closed-captions/)
 
 ## Windows 10
 * [Accessibility: Microsoft Edge and Windows 10](https://www.microsoft.com/en-gb/developers/articles/week03oct15/accessibility-microsoft-edge-and-windows-10/)
