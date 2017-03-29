@@ -312,6 +312,7 @@
 * [jQuery Popup Overlay](http://dev.vast.com/jquery-popup-overlay/)
 * [jQuery simple and accessible modal window](https://a11y.nicolas-hoffmann.net/modal/)
 * [Modaal](http://www.humaan.com/modaal/)
+* [Modal Dialog Example](http://w3c.github.io/aria-practices/examples/dialog-modal/dialog.html)
 * [Modal Dialog Example 2](https://weboverhauls.github.io/demos/modal/modal_demo2.html)
 * [The Incredible Accessible Modal Window, Version 4](http://gdkraus.github.io/accessible-modal-dialog/)
 
