@@ -338,6 +338,7 @@
 * [AccessLint](http://accesslint.com/)
 * [ACTF aDesigner](http://www.eclipse.org/actf/downloads/tools/aDesigner/)
 * [Akbar, a bookmarklet that simulates various types user experiences](http://howlowck.github.io/Akbar/)
+* [Alix (Chrome extension)](https://chrome.google.com/webstore/detail/alix-for-chrome/aepmadgjacfjcneccddiccnkbpimobge)
 * [Analyseur de lisibilité de contenus](http://labs.translated.net/lisibilite-texte/)
 * [ASLint, accessibility and SEO checker](https://www.aslint.org/)
 * [Asqatasun](http://asqatasun.org/)
