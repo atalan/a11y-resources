@@ -272,6 +272,7 @@
 * [jQuery accessible autocomplete list](https://a11y.nicolas-hoffmann.net/autocomplet-list/)
 
 ### Carousel / Carrousel
+* [Carousel](https://www.w3.org/WAI/tutorials/carousels/working-example/)
 * [Carrousel](http://www.romaingervois.fr/carrousel)
 * [jQuery Accessible Carrousel System](https://a11y.nicolas-hoffmann.net/carrousel/)
 
