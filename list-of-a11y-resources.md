@@ -202,6 +202,7 @@
 * [Accessibility Programming Guide for iOS](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/iPhoneAccessibility/Introduction/Introduction.html#//apple_ref/doc/uid/TP40008785-CH1-SW1)
 * [BNRDynamicTypeManager](https://github.com/bignerdranch/BNRDynamicTypeManager)
 * [Guide de développement d'applications mobiles accessibles avec l'API iOS](https://github.com/DISIC/guide-mobile_app_dev_natif/blob/master/ios.md)
+* [How to Make VoiceOver More Friendly in Your iOS App](https://medium.com/bpxl-craft/how-to-make-voiceover-more-friendly-in-your-ios-app-8fac34ab8c51)
 * [iOS Accessibility](http://fr.slideshare.net/lmjabreu/ios-accessibility-56144145)
 * [iOS Accessibility, Inside & Out](https://speakerdeck.com/spanage/ios-accessibility-inside-and-out)
 * [Référence des gestes de VoiceOver sous iOS](http://blog.atalan.fr/reference-gestes-voiceover-ios/)
@@ -270,6 +271,7 @@
 * [ARIA Combobox Example](https://webkit.org/blog-files/aria1.0/combobox_with_live_region_status.html)
 * [Basic autocomplete](http://codepen.io/goetsu/pen/wKYRvM/)
 * [jQuery accessible autocomplete list](https://a11y.nicolas-hoffmann.net/autocomplet-list/)
+* [We’re building an autocomplete](https://designnotes.blog.gov.uk/2017/04/20/were-building-an-autocomplete/)
 
 ### Carousel / Carrousel
 * [Carousel](https://www.w3.org/WAI/tutorials/carousels/working-example/)
