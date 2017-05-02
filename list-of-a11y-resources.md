@@ -163,12 +163,14 @@
 * [Principes d’accessibilité avec Adobe InDesign (PDF – 1,75 Mo)](http://www.tresor.gouv.qc.ca/fileadmin/PDF/ressources_informationnelles/AccessibiliteWeb/principes_accessibilite_indesign.pdf)
 
 ## Keyboard navigation / Navigation au clavier
+* [A lightweight script to animate scrolling to anchor links](https://github.com/cferdinandi/smooth-scroll)
 * [Animated Scroll to Top](http://webdesignerwall.com/demo/scroll-to-top/scrolltotop.html)
 * [Focus transition](http://n12v.com/focus-transition/)
 * [How I learned to stop worrying and love the outline](https://medium.com/@wilkowskidom/how-i-learned-to-stop-worrying-and-love-the-outline-7a35b3b49e7#.ayjjemn5p)
 * [jquery-keyboard-focus](https://www.npmjs.com/package/jquery-keyboard-focus)
 * [Making Accessibility Simpler, With Ally.js](https://www.smashingmagazine.com/2015/12/making-accessibility-simpler/)
 * [SkipTo](http://paypal.github.io/skipto/)
+* [Smooth Scrolling and Accessibility](https://css-tricks.com/smooth-scrolling-accessibility/)
 
 ## Live regions / Régions dynamiques
 * [Injecting content into the page tests](http://maxdesign.com.au/jobs/sample-accessibility/10-notifications/index.html)
