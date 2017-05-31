@@ -270,6 +270,7 @@
 
 ### Autocomplete / Autocomplétion
 * [Accessible Autocomplete](http://haltersweb.github.io/Accessibility/autocomplete.html)
+* [Accessible auto-suggest](https://codepen.io/ademcifcioglu/pen/xdOyXv)
 * [ARIA Combobox Example](https://webkit.org/blog-files/aria1.0/combobox_with_live_region_status.html)
 * [Basic autocomplete](http://codepen.io/goetsu/pen/wKYRvM/)
 * [jQuery accessible autocomplete list](https://a11y.nicolas-hoffmann.net/autocomplet-list/)
@@ -322,6 +323,7 @@
 * [The Incredible Accessible Modal Window, Version 4](http://gdkraus.github.io/accessible-modal-dialog/)
 
 ### Tabs / Onglets
+* [Awesome Accessible Tabpanel](https://codepen.io/pankajparashar/full/oJEAF)
 * [jQuery Accessible tab panel system](https://a11y.nicolas-hoffmann.net/tabs/)
 * [Responsive Tabs/Accordion](http://codepen.io/mpiotrowicz/pen/gocmu)
 * [RWD Tabs to Accordion](http://pauljadam.com/demos/rwd-tabs-accordion.html)
@@ -350,6 +352,7 @@
 * [ASLint, accessibility and SEO checker](https://www.aslint.org/)
 * [Asqatasun](http://asqatasun.org/)
 * [aXe (Chrome extension)](https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd)
+* [CADET - Caption And Description Editing Tool](http://ncamftp.wgbh.org/cadet/)
 * [Check the Accessibility of a PDF Document](http://checkers.eiii.eu/en/pdfcheck/)
 * [ChromeLens, to develop for the visually impaired (Chrome extension)](http://chromelens.xyz/)
 * [CKEditor Accessibility Checker](https://cksource.com/ckeditor/services#accessibility-checker)
