@@ -175,7 +175,6 @@
 * [Injecting content into the page tests](http://maxdesign.com.au/jobs/sample-accessibility/10-notifications/index.html)
 * [Live region attributes](http://ideance.net/publications/live-regions/index.html)
 * [Test Cases](http://accessibleajax.clcworld.net/)
-* [Using ARIA Live Regions or role=alert to Identify Errors](http://pauljadam.com/demos/aria-alert-validation.html)
 * [WAI-ARIA Live Regions Updated](http://juicystudio.com/article/wai-aria_live-regions_updated.php)
 
 ## Mobile
