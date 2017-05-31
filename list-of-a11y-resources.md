@@ -261,7 +261,6 @@
 * [Accessible expand and collapse demo](http://codepen.io/petervangrieken/details/jqVYej/)
 * [jQuery accessible accordion system, using ARIA](https://a11y.nicolas-hoffmann.net/accordion/)
 * [jQuery simple and accessible hide-show system (collapsible regions), using ARIA](https://a11y.nicolas-hoffmann.net/hide-show/)
-* [RWD Tabs to Accordion Demo](http://pauljadam.com/demos/rwd-tabs-accordion.html)
 * [Van11y (Vanilla a11y) accessible accordion system, using ARIA](https://van11y.net/accessible-accordion/)
 * [Van11y (Vanilla a11y) simple and accessible hide-show system (collapsible regions), using ARIA](https://van11y.net/accessible-hide-show/)
 * [Vanilla JS Accessible Accordion Widget](http://codepen.io/stowball/pen/eZKwRv)
@@ -287,7 +286,6 @@
 * [Accessible Inline Radio Inputs](http://codepen.io/jeryj/pen/xZNeXp)
 * [A sweet toggle switch](https://www.paypal-engineering.com/2014/01/15/a-sweet-toggle-switch/)
 * [Custom select box (CSS only)](http://codepen.io/bephf/pen/ogNBYW)
-* [Des cases à cocher au design personnalisé accessibles](http://blog.temesis.com/post/2014/03/18/cases-a-cocher-personnalisees-accessibles)
 * [Full Password Example](https://www.w3.org/WAI/tutorials/forms/examples/password/)
 * [Non-editable combobox with multiselect listbox](http://accessibleculture.org/misc/aria/combobox/combobox.html)
 * [Personnaliser l’aspect de boutons radio et checkbox en CSS](http://www.creativejuiz.fr/blog/tutoriels/personnaliser-aspect-boutons-radio-checkbox-css)
@@ -324,7 +322,6 @@
 * [Awesome Accessible Tabpanel](https://codepen.io/pankajparashar/full/oJEAF)
 * [jQuery Accessible tab panel system](https://a11y.nicolas-hoffmann.net/tabs/)
 * [Responsive Tabs/Accordion](http://codepen.io/mpiotrowicz/pen/gocmu)
-* [RWD Tabs to Accordion](http://pauljadam.com/demos/rwd-tabs-accordion.html)
 * [Système d'onglets avec substitut pour le responsive](http://www.romaingervois.fr/implementations/tabs-responsive.html)
 * [Tab Panel Example](https://weboverhauls.github.io/demos/tab-panel/)
 * [Van11y (Vanilla a11y) accessible tab panel using ARIA](https://van11y.net/accessible-tab-panel/)
@@ -336,7 +333,6 @@
 
 ## Tools / Outils
 * [A11y](http://a11y-app.herokuapp.com/)
-* [a11yTools Extension for Safari macOS](http://pauljadam.com/extension.html)
 * [a11y.css](http://ffoodd.github.io/a11y.css/)
 * [ally.js](http://allyjs.io/)
 * [Accessibility Bookmarklets](https://accessibility-bookmarklets.org/)
@@ -366,7 +362,6 @@
 * [pa11y](http://pa11y.org/)
 * [Pave, four steps to an accessible PDF](http://pave-pdf.org/index.en.html)
 * [PDF Accessibility Checker](http://www.access-for-all.ch/en/pdf-lab/pdf-accessibility-checker-pac.html)
-* [Photosensitive Epilepsy Analysis Tool](http://trace.wisc.edu/peat/)
 * [Readability Bookmarklet](https://accessibility.oit.ncsu.edu/tools/readability/)
 * [Scolarius](http://www.scolarius.com/submissions/28326)
 * [Siteimprove Accessibility Checker (Chrome extension)](https://chrome.google.com/webstore/detail/siteimprove-accessibility/efcfolpjihicnikpmhnmphjhhpiclljc?hl)
@@ -410,7 +405,6 @@
 * [Contrast Finder](https://app.contrast-finder.org/)
 * [Contrast ratio](http://leaverou.github.io/contrast-ratio/)
 * [Create a Color Palette Accessibility Evaluator](https://accessibility.oit.ncsu.edu/tools/color-contrast/index.php)
-* [Graybit](http://del.icio.us/atalan/outil?&page=5)
 * [Grille d’analyse des contrastes d’une charte](http://blog.atalan.fr/grille-contrastes-accessibilite-charte-graphique/)
 * [Hex Naw, a color accessibility tool](https://hexnaw.com/)
 * [I want to see like the colour blind (Chrome extension)](https://chrome.google.com/webstore/detail/i-want-to-see-like-the-co/jebeedfnielkcjlcokhiobodkjjpbjia)
@@ -428,7 +422,7 @@
 * [HTML5 Video Caption Maker](http://samples.msdn.microsoft.com/Workshop/samples/media/captionmaker/default.html)
 * [oTranscribe](http://otranscribe.com/)
 * [Subtitle Horse: Online Subtitle/Captions Editor](http://subtitle-horse.com/)
-* [YouDescribe](http://youdescribe.org/search.php)
+* [YouDescribe](http://youdescribe.org/)
 
 ## Vidéo
 
