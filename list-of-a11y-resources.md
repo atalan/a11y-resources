@@ -99,10 +99,8 @@
 ## Dyslexia  / Dyslexie 
 * [Designing for Dyslexia, Part 1](http://www.uxbooth.com/articles/designing-for-dyslexia-part-1/)
 * [Designing for Dyslexia, Part 2](http://www.uxbooth.com/articles/designing-for-dyslexia-part-2/)
-* [How to Design for Dyslexia](https://medium.com/@usabilla/how-to-design-for-dyslexia-71e214fe6964#.6tplp283d)
 * [OpenDyslexic](http://opendyslexic.org/)
 * [Optimal Colors to Improve Readability for People with Dyslexia](https://www.w3.org/WAI/RD/2012/text-customization/r11)
-* [Une police de caractères dédiée aux dyslexiques](http://www.simpleweb.fr/2013/01/23/une-police-de-caracteres-dediee-aux-dyslexiques/)
 
 ## ePub
 * [13 Keys to Accessible EPUB3 Documents](http://vprompt.com/2014/08/13-keys-accessible-epub3-documents/)
