@@ -97,6 +97,7 @@
 * [HTML Source Order vs CSS Display Order](http://adrianroselli.com/2015/10/html-source-order-vs-css-display-order.html)
 
 ## Dyslexia  / Dyslexie 
+* [Accessible-Dfa: a legible font](https://github.com/Orange-OpenSource/font-accessible-dfa)
 * [Designing for Dyslexia, Part 1](http://www.uxbooth.com/articles/designing-for-dyslexia-part-1/)
 * [Designing for Dyslexia, Part 2](http://www.uxbooth.com/articles/designing-for-dyslexia-part-2/)
 * [OpenDyslexic](http://opendyslexic.org/)
