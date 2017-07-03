@@ -168,6 +168,7 @@
 * [How I learned to stop worrying and love the outline](https://medium.com/@wilkowskidom/how-i-learned-to-stop-worrying-and-love-the-outline-7a35b3b49e7#.ayjjemn5p)
 * [jquery-keyboard-focus](https://www.npmjs.com/package/jquery-keyboard-focus)
 * [Making Accessibility Simpler, With Ally.js](https://www.smashingmagazine.com/2015/12/making-accessibility-simpler/)
+* [Show focus styles on keyboard events only](https://codepen.io/svinkle/pen/zzrORW)
 * [SkipTo](http://paypal.github.io/skipto/)
 * [Smooth Scrolling and Accessibility](https://css-tricks.com/smooth-scrolling-accessibility/)
 
