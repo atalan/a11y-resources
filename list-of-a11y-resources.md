@@ -248,6 +248,7 @@
 * [Accessible UI Components List](https://www.w3.org/blog/wai-components-gallery/)
 * [Assets Framework](http://assets.cms.gov/resources/framework/3.0/Pages/)
 * [Boîte à outils de l’expérience Web](http://wet-boew.github.io/wet-boew/index-fr.html)
+* [Cauldron](https://pattern-library.dequelabs.com/)
 * [Code Library of Accessibility Examples](https://dequeuniversity.com/library/)
 * [Composants d’interface riche accessibles](http://a11y.switch.paris/)
 * [DHTML Style Guide Working Group](http://access.aol.com/dhtml-style-guide-working-group/)
@@ -268,9 +269,11 @@
 
 ### Autocomplete / Autocomplétion
 * [Accessible Autocomplete](http://haltersweb.github.io/Accessibility/autocomplete.html)
+* [Accessible Autocomplete examples](https://alphagov.github.io/accessible-autocomplete/examples/)
 * [Accessible auto-suggest](https://codepen.io/ademcifcioglu/pen/xdOyXv)
 * [ARIA Combobox Example](https://webkit.org/blog-files/aria1.0/combobox_with_live_region_status.html)
 * [Basic autocomplete](http://codepen.io/goetsu/pen/wKYRvM/)
+* [Combobo](https://schne324.github.io/combobo/demo/)
 * [jQuery accessible autocomplete list](https://a11y.nicolas-hoffmann.net/autocomplet-list/)
 * [We’re building an autocomplete](https://designnotes.blog.gov.uk/2017/04/20/were-building-an-autocomplete/)
 
@@ -331,6 +334,7 @@
 ### Tooltip / Infobulle
 * [Button with pop-over aria-label](https://jsfiddle.net/russambiata/55L1jcwb/)
 * [jQuery simple and accessible dialog tooltip window](https://a11y.nicolas-hoffmann.net/dialog-tooltip/)
+* [Positioning Tooltips Above Triggers](https://jsfiddle.net/obsqynyp/4/)
 * [Van11y (Vanilla a11y) accessible simple tooltip using ARIA](https://van11y.net/accessible-simple-tooltip/)
 
 ## Tools / Outils
