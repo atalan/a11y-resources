@@ -100,6 +100,7 @@
 * [Accessible-Dfa: a legible font](https://github.com/Orange-OpenSource/font-accessible-dfa)
 * [Designing for Dyslexia, Part 1](http://www.uxbooth.com/articles/designing-for-dyslexia-part-1/)
 * [Designing for Dyslexia, Part 2](http://www.uxbooth.com/articles/designing-for-dyslexia-part-2/)
+* [Guide des troubles DYS](https://github.com/DISIC/guide-troubles_DYS/blob/master/Guide-des-troubles-DYS.pdf)
 * [OpenDyslexic](http://opendyslexic.org/)
 * [Optimal Colors to Improve Readability for People with Dyslexia](https://www.w3.org/WAI/RD/2012/text-customization/r11)
 
@@ -168,6 +169,7 @@
 * [How I learned to stop worrying and love the outline](https://medium.com/@wilkowskidom/how-i-learned-to-stop-worrying-and-love-the-outline-7a35b3b49e7#.ayjjemn5p)
 * [jquery-keyboard-focus](https://www.npmjs.com/package/jquery-keyboard-focus)
 * [Making Accessibility Simpler, With Ally.js](https://www.smashingmagazine.com/2015/12/making-accessibility-simpler/)
+* [Removing :focus ring (and keeping it too)](https://hackernoon.com/removing-that-ugly-focus-ring-and-keeping-it-too-6c8727fefcd2)
 * [Show focus styles on keyboard events only](https://codepen.io/svinkle/pen/zzrORW)
 * [SkipTo](http://paypal.github.io/skipto/)
 * [Smooth Scrolling and Accessibility](https://css-tricks.com/smooth-scrolling-accessibility/)
@@ -275,6 +277,7 @@
 * [Basic autocomplete](http://codepen.io/goetsu/pen/wKYRvM/)
 * [Combobo](https://schne324.github.io/combobo/demo/)
 * [jQuery accessible autocomplete list](https://a11y.nicolas-hoffmann.net/autocomplet-list/)
+* [selectWoo](https://woocommerce.wordpress.com/2017/08/08/selectwoo-an-accessible-replacement-for-select2/)
 * [We’re building an autocomplete](https://designnotes.blog.gov.uk/2017/04/20/were-building-an-autocomplete/)
 
 ### Carousel / Carrousel
@@ -335,6 +338,7 @@
 * [Button with pop-over aria-label](https://jsfiddle.net/russambiata/55L1jcwb/)
 * [jQuery simple and accessible dialog tooltip window](https://a11y.nicolas-hoffmann.net/dialog-tooltip/)
 * [Positioning Tooltips Above Triggers](https://jsfiddle.net/obsqynyp/4/)
+* [Tooltips & Toggletips](https://inclusive-components.design/tooltips-toggletips/)
 * [Van11y (Vanilla a11y) accessible simple tooltip using ARIA](https://van11y.net/accessible-simple-tooltip/)
 
 ## Tools / Outils
