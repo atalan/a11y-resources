@@ -286,6 +286,9 @@
 * [jQuery Accessible Carrousel System](https://a11y.nicolas-hoffmann.net/carrousel/)
 
 ### Datepicker
+* [Accessible Bootstrap Date Picker](http://eureka2.github.io/ab-datepicker/)
+* [ARIA Date Picker](http://whatsock.com/tsg/Coding%20Arena/ARIA%20Date%20Pickers/ARIA%20Date%20Picker%20%28Basic%29/demo.htm)
+* [Datepicker](https://dequeuniversity.com/library/aria/date-pickers/sf-date-picker)
 * [Yet Another Datepicker Demo](http://freqdec.github.io/datePicker/demo/)
 
 ### Form / Formulaire
