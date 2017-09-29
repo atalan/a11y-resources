@@ -369,6 +369,7 @@
 * [Dictation - Online Speech Recognition](https://dictation.io/)
 * [HTML_CodeSniffer](http://squizlabs.github.io/HTML_CodeSniffer/)
 * [Image Analyser](http://juicystudio.com/services/image.php)
+* [Koa11y](http://open-indy.github.io/Koa11y/)
 * [Landmarks browser extension](http://matatk.agrip.org.uk/landmarks/)
 * [Mobile Web Accessibility Checker](http://www.userlight.com/apps/mwac/)
 * [Orange Confort+](http://confort-plus.orange.com/)
