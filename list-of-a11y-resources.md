@@ -263,6 +263,7 @@
 
 ### Accordion  / Accordéon
 * [Accessible expand and collapse demo](http://codepen.io/petervangrieken/details/jqVYej/)
+* [Collapsible Sections](https://inclusive-components.design/collapsible-sections/)
 * [handorgel](https://oncode.github.io/handorgel/)
 * [jQuery accessible accordion system, using ARIA](https://a11y.nicolas-hoffmann.net/accordion/)
 * [jQuery simple and accessible hide-show system (collapsible regions), using ARIA](https://a11y.nicolas-hoffmann.net/hide-show/)
@@ -336,6 +337,7 @@
 * [jQuery Accessible tab panel system](https://a11y.nicolas-hoffmann.net/tabs/)
 * [Responsive Tabs/Accordion](http://codepen.io/mpiotrowicz/pen/gocmu)
 * [Système d'onglets avec substitut pour le responsive](http://www.romaingervois.fr/implementations/tabs-responsive.html)
+* [Tabbed Interfaces](https://inclusive-components.design/tabbed-interfaces/)
 * [Tab Panel Example](https://weboverhauls.github.io/demos/tab-panel/)
 * [Van11y (Vanilla a11y) accessible tab panel using ARIA](https://van11y.net/accessible-tab-panel/)
 
