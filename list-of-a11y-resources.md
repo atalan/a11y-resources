@@ -263,6 +263,7 @@
 
 ### Accordion  / Accordéon
 * [Accessible expand and collapse demo](http://codepen.io/petervangrieken/details/jqVYej/)
+* [handorgel](https://oncode.github.io/handorgel/)
 * [jQuery accessible accordion system, using ARIA](https://a11y.nicolas-hoffmann.net/accordion/)
 * [jQuery simple and accessible hide-show system (collapsible regions), using ARIA](https://a11y.nicolas-hoffmann.net/hide-show/)
 * [Van11y (Vanilla a11y) accessible accordion system, using ARIA](https://van11y.net/accessible-accordion/)
@@ -324,6 +325,7 @@
 * [Custom-Built Dialogs](http://juicystudio.com/article/custom-built_dialogs.php)
 * [jQuery Popup Overlay](http://dev.vast.com/jquery-popup-overlay/)
 * [jQuery simple and accessible modal window](https://a11y.nicolas-hoffmann.net/modal/)
+* [Micromodal](https://micromodal.now.sh/)
 * [Modaal](http://www.humaan.com/modaal/)
 * [Modal Dialog Example](http://w3c.github.io/aria-practices/examples/dialog-modal/dialog.html)
 * [Modal Dialog Example 2](https://weboverhauls.github.io/demos/modal/modal_demo2.html)
@@ -367,6 +369,7 @@
 * [Content Clarifier](http://contentclarifier.mybluemix.net/#/landing)
 * [Dictanote - Speech Recognizer (Chrome extension)](https://chrome.google.com/webstore/detail/dictanote-speech-recogniz/aomjekmpappghadlogpigifkghlmebjk)
 * [Dictation - Online Speech Recognition](https://dictation.io/)
+* [Funkify (Chrome extension)](http://www.funkify.org/)
 * [HTML_CodeSniffer](http://squizlabs.github.io/HTML_CodeSniffer/)
 * [Image Analyser](http://juicystudio.com/services/image.php)
 * [Koa11y](http://open-indy.github.io/Koa11y/)
