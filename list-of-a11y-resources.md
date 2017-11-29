@@ -338,6 +338,7 @@
 * [Modal Dialog Example](http://w3c.github.io/aria-practices/examples/dialog-modal/dialog.html)
 * [Modal Dialog Example 2](https://weboverhauls.github.io/demos/modal/modal_demo2.html)
 * [The Incredible Accessible Modal Window, Version 4](http://gdkraus.github.io/accessible-modal-dialog/)
+* [Van11y (Vanilla a11y) accessible modal window using ARIA](https://van11y.net/accessible-modal/)
 
 ### Tabs / Onglets
 * [Awesome Accessible Tabpanel](https://codepen.io/pankajparashar/full/oJEAF)
