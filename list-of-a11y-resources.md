@@ -32,6 +32,7 @@
 	- [Autocomplete / Autocomplétion](#autocomplete--autocomplétion)
 	- [Carousel / Carrousel](#carousel--carrousel)
 	- [Datepicker](#datepicker)
+	- [Drag and drop](#drag--drop)
 	- [Form / Formulaire](#form--formulaire)
 	- [Menu](#menu)
 	- [Modal / Modale](#modal--modale)
@@ -268,6 +269,7 @@
 * [handorgel](https://oncode.github.io/handorgel/)
 * [jQuery accessible accordion system, using ARIA](https://a11y.nicolas-hoffmann.net/accordion/)
 * [jQuery simple and accessible hide-show system (collapsible regions), using ARIA](https://a11y.nicolas-hoffmann.net/hide-show/)
+* [Progressively enhanced ARIA accordions](https://scottaohara.github.io/accessible_accordions/)
 * [Van11y (Vanilla a11y) accessible accordion system, using ARIA](https://van11y.net/accessible-accordion/)
 * [Van11y (Vanilla a11y) simple and accessible hide-show system (collapsible regions), using ARIA](https://van11y.net/accessible-hide-show/)
 * [Vanilla JS Accessible Accordion Widget](http://codepen.io/stowball/pen/eZKwRv)
@@ -294,6 +296,9 @@
 * [ARIA Date Picker](http://whatsock.com/tsg/Coding%20Arena/ARIA%20Date%20Pickers/ARIA%20Date%20Picker%20%28Basic%29/demo.htm)
 * [Datepicker](https://dequeuniversity.com/library/aria/date-pickers/sf-date-picker)
 * [Yet Another Datepicker Demo](http://freqdec.github.io/datePicker/demo/)
+
+### Drag and drop
+* [Dragon Drop](https://schne324.github.io/dragon-drop/demo/)
 
 ### Form / Formulaire
 * [Accessible custom checkboxes and radio buttons](http://www.456bereastreet.com/lab/custom-checkboxes-radio-buttons/)
