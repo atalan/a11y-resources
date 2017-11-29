@@ -183,6 +183,7 @@
 ## Mobile
 * [Don’t Disable Zoom](http://adrianroselli.com/2015/10/dont-disable-zoom.html)
 * [Mobile Accessibility Guidelines](http://www.bbc.co.uk/guidelines/futuremedia/accessibility/mobile)
+* [Mobile Accessibility Testing Guide for Android and iOS](https://developer.paciellogroup.com/blog/2017/11/mobile-accessibility-testing-guide-for-android-and-ios-free/)
 * [Mobile Resources](https://www.w3.org/WAI/GL/mobile-a11y-tf/wiki/Mobile_Resources)
 * [Resources for Mobile Accessibility Guidelines](http://www.iheni.com/mobile-accessibility-guidelines/)
 
@@ -283,6 +284,7 @@
 * [We’re building an autocomplete](https://designnotes.blog.gov.uk/2017/04/20/were-building-an-autocomplete/)
 
 ### Carousel / Carrousel
+* [A Content Slider](https://inclusive-components.design/a-content-slider/)
 * [Carousel](https://www.w3.org/WAI/tutorials/carousels/working-example/)
 * [Carrousel](http://www.romaingervois.fr/carrousel)
 * [jQuery Accessible Carrousel System](https://a11y.nicolas-hoffmann.net/carrousel/)
@@ -405,6 +407,7 @@
 * [A11y Color Palette](http://a11yrocks.com/colorPalette/)
 * [Accessible color palette builder](https://toolness.github.io/accessible-color-matrix/)
 * [Accessible colors](http://accessible-colors.com/)
+* [Are my Colours Accessible?](http://www.aremycoloursaccessible.com/)
 * [Check My Colours](http://www.checkmycolours.com/)
 * [Chromatic Vision Simulator](http://asada.tukusi.ne.jp/cvsimulator/e/index.html)
 * [Coblis — Color Blindness Simulator](http://www.color-blindness.com/coblis-color-blindness-simulator/)
@@ -420,6 +423,7 @@
 * [Colour Contrast Check](http://snook.ca/technical/colour_contrast/colour.html)
 * [Colour Contrast Determinator](http://www.visionaustralia.org/digital-access-determinator)
 * [Contrast-A](http://www.dasplankton.de/ContrastA/)
+* [Contrast/Colorblind Color Picker](https://ryanhemphill.github.io/contrast-colorblind-colorpicker/)
 * [Contrast Checker (01)](http://contrastchecker.com/)
 * [Contrast Checker (02)](https://userway.org/contrast-checker)
 * [Contrast Finder](https://app.contrast-finder.org/)
