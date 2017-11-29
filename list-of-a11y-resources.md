@@ -32,7 +32,7 @@
 	- [Autocomplete / Autocomplétion](#autocomplete--autocomplétion)
 	- [Carousel / Carrousel](#carousel--carrousel)
 	- [Datepicker](#datepicker)
-	- [Drag and drop](#drag--drop)
+	- [Drag and drop](#drag-and-drop)
 	- [Form / Formulaire](#form--formulaire)
 	- [Menu](#menu)
 	- [Modal / Modale](#modal--modale)
