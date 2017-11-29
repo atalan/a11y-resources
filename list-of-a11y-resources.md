@@ -305,7 +305,6 @@
 * [Accessible Inline Radio Inputs](http://codepen.io/jeryj/pen/xZNeXp)
 * [A sweet toggle switch](https://www.paypal-engineering.com/2014/01/15/a-sweet-toggle-switch/)
 * [Custom select box (CSS only)](http://codepen.io/bephf/pen/ogNBYW)
-* [Des cases à cocher au design personnalisé](http://blog.opquast.com/post/2014/03/18/cases-a-cocher-personnalisees-accessibles)
 * [Full Password Example](https://www.w3.org/WAI/tutorials/forms/examples/password/)
 * [Non-editable combobox with multiselect listbox](http://accessibleculture.org/misc/aria/combobox/combobox.html)
 * [Personnaliser l’aspect de boutons radio et checkbox en CSS](http://www.creativejuiz.fr/blog/tutoriels/personnaliser-aspect-boutons-radio-checkbox-css)
