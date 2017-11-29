@@ -32,7 +32,7 @@
 	- [Autocomplete / Autocomplétion](#autocomplete--autocomplétion)
 	- [Carousel / Carrousel](#carousel--carrousel)
 	- [Datepicker](#datepicker)
-	- [Drag and drop](#drag-and-drop)
+	- [Drag and Drop](#drag-and-drop)
 	- [Form / Formulaire](#form--formulaire)
 	- [Menu](#menu)
 	- [Modal / Modale](#modal--modale)
@@ -297,7 +297,7 @@
 * [Datepicker](https://dequeuniversity.com/library/aria/date-pickers/sf-date-picker)
 * [Yet Another Datepicker Demo](http://freqdec.github.io/datePicker/demo/)
 
-### Drag and drop
+### Drag and Drop
 * [Dragon Drop](https://schne324.github.io/dragon-drop/demo/)
 
 ### Form / Formulaire
