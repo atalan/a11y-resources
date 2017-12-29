@@ -53,11 +53,10 @@
 * [Authoring Techniques for Accessible Office Documents: Adobe Acrobat 10 Pro](http://adod.idrc.ocad.ca/acrobat10)
 * [Authoring Techniques for Accessible Office Documents: Adobe Acrobat 11 Pro](http://adod.idrc.ocad.ca/acrobat11)
 * [Creating Accessible PDF Documents In Adobe Acrobat X](http://ncdae.org/resources/cheatsheets/acrobat.php)
-* [The Importance of Role Mapping in Acrobat](http://www.ssbbartgroup.com/blog/importance-role-mapping-acrobat/)
 
 ## ARIA
 * [Accessibilité du Web - L'ergonomie avec WAI-ARIA](http://aria.inlb.qc.ca/)
-* [Accessible Rich Internet Applications (WAI-ARIA) 1.0](https://www.w3.org/TR/wai-aria/)
+* [Accessible Rich Internet Applications (WAI-ARIA) 1.1](https://www.w3.org/TR/wai-aria/)
 * [ARIA Test Cases](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Test_Cases)
 * [ARIA Widget Checklist: For Screen Reader Testing](https://www.ssbbartgroup.com/blog/aria-widget-checklist-screen-reader-testing/)
 * [Differences between ARIA 1.0 and 1.1: Deprecations & Additions](http://www.ssbbartgroup.com/blog/differences-aria-1-0-1-1-deprecations-additions/)
