@@ -310,7 +310,7 @@
 * [WTF, forms?](http://wtfforms.com/)
 
 ### Menu
-* [Accessible Dropdown Menus](http://terrillthompson.com/blog/202)
+* [Accessible Dropdown Menus Revisited](http://terrillthompson.com/blog/474)
 * [Accessible Hamburger Menu](http://pauljadam.com/demos/hamburger-menu.html)
 * [Accessible Mega Menu](http://adobe-accessibility.github.io/Accessible-Mega-Menu/)
 * [Accessible Mega Menu Test Page](http://terrillthompson.com/tests/menus/accessible-mega-menu/test.html)
