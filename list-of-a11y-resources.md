@@ -83,13 +83,11 @@
 
 ## CAPTCHA
 * [Accessibility and Security](http://incl.ca/accessibility-and-security/)
-* [Alternatives aux CAPTCHA](http://www.tanguy-loheac.com/blog/alternatives-aux-captcha/)
 * [Captcha Alternatives and thoughts](https://www.w3.org/WAI/GL/wiki/Captcha_Alternatives_and_thoughts)
 * [Éviter le spam sans captcha](http://www.anysurfer.be/fr/blog/detail/captcha)
 * [L'inaccessibilité des « CAPTCHA »](http://www.yoyodesign.org/doc/w3c/turingtest-20051123/)
 * [reCAPTCHA Accessibility reVISTED](http://terrillthompson.com/blog/682)
 * [TextCaptcha, a source of simple textual CAPTCHA challenges](http://textcaptcha.com/)
-* [The issues with CAPTCHA](http://accessible-techcomm.org/the-issues-with-captcha/)
 
 ## CSS
 * [Accessible footnotes with CSS](http://codepen.io/SitePoint/pen/QbMgvY)
