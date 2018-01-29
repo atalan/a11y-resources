@@ -304,6 +304,7 @@
 ### Form / Formulaire
 * [Accessible custom checkboxes and radio buttons](http://www.456bereastreet.com/lab/custom-checkboxes-radio-buttons/)
 * [Accessible Inline Radio Inputs](http://codepen.io/jeryj/pen/xZNeXp)
+* [ARIA Switch Demo](https://scottaohara.github.io/aria-switch-button/)
 * [A sweet toggle switch](https://www.paypal-engineering.com/2014/01/15/a-sweet-toggle-switch/)
 * [Custom select box (CSS only)](http://codepen.io/bephf/pen/ogNBYW)
 * [Full Password Example](https://www.w3.org/WAI/tutorials/forms/examples/password/)
