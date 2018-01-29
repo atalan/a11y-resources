@@ -76,6 +76,7 @@
 * [Dyslexie et lettres dansantes](http://blog.atalan.fr/dyslexie-lettres-dansent/)
 * [Étude sur l'usage des lecteurs d'écran en France et en Francophonie (Juin 2016 - PDF - 1 Mo)](http://www.aveuglesdefrance.org/sites/default/files/2016-06/Rapport_final_Etude-lecteurs-ecran-France-Francophonie_01062016.pdf)
 * [Faire fonctionner la technologie pour tous : une introduction à l’accessibilité numérique](http://blog.atalan.fr/video-faire-fonctionner-la-technologie-pour-tous-une-introduction-a-laccessibilite-numerique/)
+* [L’accessibilité numérique, et si nous agissions ?](https://atalan.fr/agissons/fr/index.html)
 * [L’ordinateur des aveugles, 11 vidéos pour comprendre](http://portail.unice.fr/access-key)
 * [Web Accessibility Perspectives](https://www.w3.org/WAI/perspectives/Overview.html)
 * [Web Accessibility Related Lawsuits and Settlements in the United States](http://karlgroves.github.io/a11y-lawsuits/lawsuits.html)
@@ -294,6 +295,7 @@
 * [Accessible Bootstrap Date Picker](http://eureka2.github.io/ab-datepicker/)
 * [ARIA Date Picker](http://whatsock.com/tsg/Coding%20Arena/ARIA%20Date%20Pickers/ARIA%20Date%20Picker%20%28Basic%29/demo.htm)
 * [Datepicker](https://dequeuniversity.com/library/aria/date-pickers/sf-date-picker)
+* [Datepicker et accessibilité](https://blog.atalan.fr/datepicker-et-accessibilite/)
 * [Yet Another Datepicker Demo](http://freqdec.github.io/datePicker/demo/)
 
 ### Drag and Drop
@@ -337,6 +339,7 @@
 * [Modal Dialog Example](http://w3c.github.io/aria-practices/examples/dialog-modal/dialog.html)
 * [Modal Dialog Example 2](https://weboverhauls.github.io/demos/modal/modal_demo2.html)
 * [The Incredible Accessible Modal Window, Version 4](http://gdkraus.github.io/accessible-modal-dialog/)
+* [Une fenêtre modale accessible](https://jolicode.com/blog/une-fenetre-modale-accessible)
 * [Van11y (Vanilla a11y) accessible modal window using ARIA](https://van11y.net/accessible-modal/)
 
 ### Tabs / Onglets
@@ -358,6 +361,7 @@
 ## Tools / Outils
 * [A11y](http://a11y-app.herokuapp.com/)
 * [a11y.css](http://ffoodd.github.io/a11y.css/)
+* [a11y.css vérificateur d'accessibilité (extension Firefox)](https://addons.mozilla.org/fr/firefox/addon/a11ycss/)
 * [ally.js](http://allyjs.io/)
 * [Accessibility Bookmarklets](https://accessibility-bookmarklets.org/)
 * [Accessibility Scanner](https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.auditor)
