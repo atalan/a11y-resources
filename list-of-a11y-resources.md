@@ -313,7 +313,6 @@
 * [Fly-out Menus](https://www.w3.org/WAI/tutorials/menus/flyout/)
 * [Menu accessible](https://www.screenfeed.fr/demos/menu-accessible/)
 * [Tree Menu](http://files.paciellogroup.com/training/commonsamples/tpglibsamples/aria/tree/index.html)
-* [SkipTo](http://paypal.github.io/skipto/)
 
 ### Modal / Modale
 * [Accessible Modal Window V2](http://scottaohara.github.io/accessible_modal_window/)
