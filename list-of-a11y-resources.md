@@ -75,9 +75,8 @@
 ## CAPTCHA
 * [Accessibility and Security](http://incl.ca/accessibility-and-security/)
 * [Captcha Alternatives and thoughts](https://www.w3.org/WAI/GL/wiki/Captcha_Alternatives_and_thoughts)
-* [Éviter le spam sans captcha](http://www.anysurfer.be/fr/blog/detail/captcha)
+* [Éviter le spam sans captcha](http://www.anysurfer.be/fr/en-pratique/sites-web/eviter-le-spam-sans-captcha)
 * [L'inaccessibilité des « CAPTCHA »](http://www.yoyodesign.org/doc/w3c/turingtest-20051123/)
-* [reCAPTCHA Accessibility reVISTED](http://terrillthompson.com/blog/682)
 * [TextCaptcha, a source of simple textual CAPTCHA challenges](http://textcaptcha.com/)
 
 ## CSS
