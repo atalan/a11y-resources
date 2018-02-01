@@ -123,14 +123,8 @@
 * [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/)
 
 ## HTML5
-* [Accesskey replacement proposal](http://chaals.github.io/accesskey/index.src.html)
-* [A transcript extension for HTML](https://www.w3.org/TR/2015/NOTE-html-transcript-src-20151001/)
 * [HTML5 Accessibility](http://stevefaulkner.github.io/HTML5accessibility/)
-* [Sectioning Content in HTML5 - div or section or article?](https://bitsofco.de/sectioning-content-in-html5/)
-* [Semantics and Accessibility: Heading Structure](http://accessiblehtmlheadings.com/)
 * [The Elements of HTML](http://w3c.github.io/elements-of-html/)
-* [Using Heading Elements to Create a Document Outline](https://bitsofco.de/using-heading-elements-to-create-a-document-outline/)
-* [Using the HTML5 section element](https://www.paciellogroup.com/blog/2013/10/using-html5-section-element/)
 
 ## Images
 * [amCharts Accessibility Plugin](http://paypal.github.io/amcharts-accessibility-plugin/)
