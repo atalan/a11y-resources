@@ -177,7 +177,6 @@
 * [An Introduction to Android Accessibility Features](https://www.sitepoint.com/introduction-android-accessibility-features/)
 * [Guide de développement d'applications accessibles mobiles avec l'API Android](https://github.com/DISIC/guide-mobile_app_dev_natif/blob/master/android.md)
 * [How to Make Android ImageViews Accessible with Content Descriptions](http://www.deque.com/blog/android-imageviews-accessible-content-descriptions/)
-* [Inclusive Android](http://inclusiveandroid.com/)
 * [Making your Android Apps More Inclusive with accessibilitools](https://www.novoda.com/blog/accessibilitools/)
 * [Référence des gestes de TalkBack sous Android 4.1, 4.2 et 4.3](http://blog.atalan.fr/reference-des-gestes-de-talkback-sous-android-4-1-4-2-et-4-3/)
 
