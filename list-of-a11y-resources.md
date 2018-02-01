@@ -106,7 +106,6 @@
 * [Single page applications, Angular.js and accessibility](http://simplyaccessible.com/article/spangular-accessibility/)
 
 ### Bootstrap
-* [Bootstrap accessibility plugin](https://www.paypal-engineering.com/2014/01/28/bootstrap-accessibility-plugin-making-the-popular-web-development-framework-better/)
 * [Orange Boosted with Bootstrap](http://boosted.orange.com/)
 
 ## Guidelines / Notices et référentiels
