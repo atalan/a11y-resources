@@ -23,7 +23,6 @@
 - [Mobile](#mobile)
 	- [Android](#android)
 	- [iOS](#ios)
-	- [Windows Phone](#windows-phone)
 - [Placeholder](#placeholder)
 - [Powerpoint](#powerpoint)
 - [Rich interface components / Composants d’interface riche](#rich-interface-components--composants-dinterface-riche)
@@ -193,11 +192,6 @@
 * [Supporting Dynamic Type for iOS Apps](http://www.ios-blog.co.uk/tutorials/objective-c/supporting-dynamic-type-for-ios-7-apps/)
 * [UIAccessibility](http://nshipster.com/uiaccessibility/)
 * [What iOS Traits Actually Do](http://www.deque.com/blog/ios-traits/)
-
-### Windows Phone
-* [Accessibilité des applications Windows Runtime via JavaScript et HTML](https://msdn.microsoft.com/fr-fr/library/windows/apps/hh452681.aspx)
-* [Testing your app for accessibility (Windows Phone)](https://msdn.microsoft.com/en-us/library/windows/apps/dn596092.aspx)
-* [Utilisation du lecteur d’écran mobile Skype Entreprise (Lync) sur votre Windows Phone](https://support.office.com/client/Use-the-Lync-mobile-screen-reader-English-only-on-your-Windows-Phone-842b45a7-8111-4748-83d6-ba662bbca1b5)
 
 ## Placeholder
 * [10 reasons why placeholders are problematic](https://medium.com/simple-human/10-reasons-why-placeholders-are-problematic-f8079412b960#.6t788f8x7)
