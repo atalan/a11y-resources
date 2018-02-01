@@ -87,8 +87,6 @@
 
 ## Dyslexia  / Dyslexie 
 * [Accessible-Dfa: a legible font](https://github.com/Orange-OpenSource/font-accessible-dfa)
-* [Designing for Dyslexia, Part 1](http://www.uxbooth.com/articles/designing-for-dyslexia-part-1/)
-* [Designing for Dyslexia, Part 2](http://www.uxbooth.com/articles/designing-for-dyslexia-part-2/)
 * [Guide des troubles DYS](https://github.com/DISIC/guide-troubles_DYS/blob/master/Guide-des-troubles-DYS.pdf)
 * [OpenDyslexic](http://opendyslexic.org/)
 * [Optimal Colors to Improve Readability for People with Dyslexia](https://www.w3.org/WAI/RD/2012/text-customization/r11)
