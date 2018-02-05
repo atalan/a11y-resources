@@ -285,15 +285,11 @@
 * [WTF, forms?](http://wtfforms.com/)
 
 ### Menu
-* [Accessible Dropdown Menus Revisited](http://terrillthompson.com/blog/474)
 * [Accessible Hamburger Menu](http://pauljadam.com/demos/hamburger-menu.html)
 * [Accessible Mega Menu](http://adobe-accessibility.github.io/Accessible-Mega-Menu/)
 * [Accessible Mega Menu Test Page](http://terrillthompson.com/tests/menus/accessible-mega-menu/test.html)
-* [Accessible multi-level dropdown navigation](https://foxland.fi/accessible-multi-level-dropdown-navigation/)
-* [Accessible Multi-Level Dropdown Navigation](http://ireade.github.io/accessible-dropdown-navigation/)
 * [Accessible Slide Menu](http://codepen.io/marcysutton/pen/JoQqVw)
 * [Creating an Accessible ARIA Tree Control](http://www.ssbbartgroup.com/blog/creating-an-accessible-aria-tree-control/)
-* [Dropdown Menu Button](https://weboverhauls.github.io/demos/menu-button/with_aria.html)
 * [Fly-out Menus](https://www.w3.org/WAI/tutorials/menus/flyout/)
 * [Menu accessible](https://www.screenfeed.fr/demos/menu-accessible/)
 * [Tree Menu](http://files.paciellogroup.com/training/commonsamples/tpglibsamples/aria/tree/index.html)
