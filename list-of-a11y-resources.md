@@ -274,15 +274,12 @@
 * [Dragon Drop](https://schne324.github.io/dragon-drop/demo/)
 
 ### Form / Formulaire
-* [Accessible custom checkboxes and radio buttons](http://www.456bereastreet.com/lab/custom-checkboxes-radio-buttons/)
-* [Accessible Inline Radio Inputs](http://codepen.io/jeryj/pen/xZNeXp)
+* [Accessible Inline Radio Inputs](https://codepen.io/atalan/pen/JpopzQ)
 * [ARIA Switch Demo](https://scottaohara.github.io/aria-switch-button/)
 * [A sweet toggle switch](https://www.paypal-engineering.com/2014/01/15/a-sweet-toggle-switch/)
-* [Custom select box (CSS only)](http://codepen.io/bephf/pen/ogNBYW)
 * [Full Password Example](https://www.w3.org/WAI/tutorials/forms/examples/password/)
 * [Non-editable combobox with multiselect listbox](http://accessibleculture.org/misc/aria/combobox/combobox.html)
 * [Personnaliser l’aspect de boutons radio et checkbox en CSS](http://www.creativejuiz.fr/blog/tutoriels/personnaliser-aspect-boutons-radio-checkbox-css)
-* [WTF, forms?](http://wtfforms.com/)
 
 ### Menu
 * [Accessible Hamburger Menu](http://pauljadam.com/demos/hamburger-menu.html)
