@@ -197,11 +197,8 @@
 * [10 reasons why placeholders are problematic](https://medium.com/simple-human/10-reasons-why-placeholders-are-problematic-f8079412b960#.6t788f8x7)
 * [Accessible Floating Labels](http://codepen.io/AllThingsSmitty/pen/VjykOz)
 * [Can I use placeholders instead of labels?](http://help.pardot.com/customer/portal/articles/2126649-can-i-use-placeholders-instead-of-labels-)
-* [Demo of Placeholder Labels](http://mozmonkey.com/wp-content/files/PlaceholderLabels/)
 * [Floated Labels](http://codepen.io/soulrider911/pen/ugnyl)
-* [Floated Labels Still Suck](http://www.webaxe.org/floated-labels-still-suck/)
 * [Flowup Labels](http://www.enfos.com/FlowupLabels.js/demo/)
-* [HTML5 Accessibility Chops: the placeholder attribute](https://www.paciellogroup.com/blog/2011/02/html5-accessibility-chops-the-placeholder-attribute/)
 * [placeholder et accessibilité](http://blog.atalan.fr/placeholder-et-accessibilite/)
 * [Text Input Effects](http://tympanus.net/Development/TextInputEffects/index.html)
 
