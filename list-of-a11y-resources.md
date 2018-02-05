@@ -244,7 +244,6 @@
 * [Progressively enhanced ARIA accordions](https://scottaohara.github.io/accessible_accordions/)
 * [Van11y (Vanilla a11y) accessible accordion system, using ARIA](https://van11y.net/accessible-accordion/)
 * [Van11y (Vanilla a11y) simple and accessible hide-show system (collapsible regions), using ARIA](https://van11y.net/accessible-hide-show/)
-* [Vanilla JS Accessible Accordion Widget](http://codepen.io/stowball/pen/eZKwRv)
 
 ### Autocomplete / Autocomplétion
 * [Accessible Autocomplete](http://haltersweb.github.io/Accessibility/autocomplete.html)
