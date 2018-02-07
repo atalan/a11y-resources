@@ -278,7 +278,6 @@
 * [Tree Menu](http://files.paciellogroup.com/training/commonsamples/tpglibsamples/aria/tree/index.html)
 
 ### Modal / Modale
-* [Accessible Modal Window V2](http://scottaohara.github.io/accessible_modal_window/)
 * [A11y Dialog](http://edenspiekermann.github.io/a11y-dialog/)
 * [Colorbox Demonstration](http://www.jacklmoore.com/colorbox/example1/)
 * [Creating An Accessible Modal Dialog](https://bitsofco.de/accessible-modal-dialog/)
