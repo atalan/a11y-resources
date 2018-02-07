@@ -282,8 +282,6 @@
 * [A11y Dialog](http://edenspiekermann.github.io/a11y-dialog/)
 * [Colorbox Demonstration](http://www.jacklmoore.com/colorbox/example1/)
 * [Creating An Accessible Modal Dialog](https://bitsofco.de/accessible-modal-dialog/)
-* [Custom-Built Dialogs](http://juicystudio.com/article/custom-built_dialogs.php)
-* [jQuery Popup Overlay](http://dev.vast.com/jquery-popup-overlay/)
 * [jQuery simple and accessible modal window](https://a11y.nicolas-hoffmann.net/modal/)
 * [Micromodal](https://micromodal.now.sh/)
 * [Modaal](http://www.humaan.com/modaal/)
