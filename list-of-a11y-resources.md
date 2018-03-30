@@ -241,7 +241,7 @@
 * [Accessible Autosuggest Dropdown](https://weboverhauls.github.io/demos/autosuggest/)
 * [ARIA Combobox Example](https://webkit.org/blog-files/aria1.0/combobox_with_live_region_status.html)
 * [Basic autocomplete](http://codepen.io/goetsu/pen/wKYRvM/)
-* [Combobo](https://schne324.github.io/combobo/demo/)
+* [Combobo](https://dequelabs.github.io/combobo/demo/)
 * [jQuery accessible autocomplete list](https://a11y.nicolas-hoffmann.net/autocomplet-list/)
 * [selectWoo](https://woocommerce.wordpress.com/2017/08/08/selectwoo-an-accessible-replacement-for-select2/)
 * [We’re building an autocomplete](https://designnotes.blog.gov.uk/2017/04/20/were-building-an-autocomplete/)
