@@ -128,6 +128,7 @@
 ## Images
 * [amCharts Accessibility Plugin](http://paypal.github.io/amcharts-accessibility-plugin/)
 * [An alt Decision Tree](https://www.w3.org/WAI/tutorials/images/decision-tree/)
+* [Dynamically Generated Alt Text](https://s.codepen.io/sdras/debug/4437473c764a1d553691005a0f40a145)
 * [Guide pour la gestion des alternatives textuelles aux images](http://blog.atalan.fr/guide-pour-le-remplissage-dattributs-alt-dimages/)
 * [High Contrast Mode Detection](http://hanshillen.github.io/HCMDS/hcmode_detection.html)
 * [Text alternatives – a decision tree](http://4syllables.com.au/articles/text-alternatives-decision-tree/)
@@ -152,6 +153,7 @@
 * [Show focus styles on keyboard events only](https://codepen.io/svinkle/pen/zzrORW)
 * [SkipTo](http://paypal.github.io/skipto/)
 * [Smooth Scrolling and Accessibility](https://css-tricks.com/smooth-scrolling-accessibility/)
+* [What Input?](https://ten1seven.github.io/what-input/)
 
 ## Live regions / Régions dynamiques
 * [Injecting content into the page tests](http://maxdesign.com.au/jobs/sample-accessibility/10-notifications/index.html)
