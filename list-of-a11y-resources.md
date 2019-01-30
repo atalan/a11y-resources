@@ -224,7 +224,7 @@
 * [Composants d’interface riche accessibles](http://a11y.switch.paris/)
 * [Frend, a collection of accessible modern front-end components](https://frend.co/)
 * [Inclusive Components](http://inclusive-components.club/)
-* [Orejime (consent manager)](https://orejime.netlify.com/)
+* [Orejime (Cookie Consent Manager)](https://orejime.netlify.com/)
 * [OpenAjax Alliance Accessibility](http://oaa-accessibility.org/)
 * [Practical ARIA examples](http://heydonworks.com/practical_aria_examples/)
 * [Simply Accessible](http://examples.simplyaccessible.com/)
