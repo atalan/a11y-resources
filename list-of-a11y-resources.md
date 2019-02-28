@@ -460,3 +460,4 @@
 * [Microsoft Word - Creating Accessible Documents](http://webaim.org/techniques/word/)
 * [PDF Conversion In Microsoft Word 2007/2010 Documents](http://ncdae.org/resources/cheatsheets/pdf.php)
 * [Réglages des logiciels bureautiques pour les majuscules accentuées et les indications de changement de langue](http://eduscol.education.fr/cid89551/reglages-des-logiciels-bureautiques-pour-les-majuscules-accentuees-et-les-indications-de-changement-de-langue.html)
+* [Word and PowerPoint Accessibility Evaluation Checklist](https://webaim.org/resources/evaloffice/)
