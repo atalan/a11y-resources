@@ -227,8 +227,8 @@
 * [Orejime (Cookie Consent Manager)](https://orejime.netlify.com/)
 * [OpenAjax Alliance Accessibility](http://oaa-accessibility.org/)
 * [Practical ARIA examples](http://heydonworks.com/practical_aria_examples/)
-* [Simply Accessible](http://examples.simplyaccessible.com/)
 * [Van11y (Vanilla a11y) accessible scripts of rich interface elements](https://van11y.net/)
+* [Simply Accessible](http://examples.simplyaccessible.com/)
 
 ### Accordion  / Accordéon
 * [Accessible expand and collapse demo](http://codepen.io/petervangrieken/details/jqVYej/)
