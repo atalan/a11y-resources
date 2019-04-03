@@ -257,6 +257,7 @@
 * [Carousel](https://www.w3.org/WAI/tutorials/carousels/working-example/)
 * [Carrousel](http://www.romaingervois.fr/carrousel)
 * [jQuery Accessible Carrousel System](https://a11y.nicolas-hoffmann.net/carrousel/)
+* [Van11y (Vanilla a11y) accessible carousel using ARIA](https://van11y.net/accessible-carrousel/)
 
 ### Datepicker
 * [Accessible Bootstrap Date Picker](http://eureka2.github.io/ab-datepicker/)
