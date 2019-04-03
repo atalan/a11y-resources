@@ -320,6 +320,7 @@
 * [a11y.css vérificateur d'accessibilité (extension Firefox)](https://addons.mozilla.org/fr/firefox/addon/a11ycss/)
 * [ally.js](http://allyjs.io/)
 * [Accessibility Bookmarklets](https://accessibility-bookmarklets.org/)
+* [Accessibility Insights](https://accessibilityinsights.io/)
 * [Accessibility Scanner](https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.auditor)
 * [Accessibility tools for email developers](http://www.accessible-email.org/)
 * [AccessLint](http://accesslint.com/)
