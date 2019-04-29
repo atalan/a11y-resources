@@ -320,6 +320,7 @@
 * [a11y.css](http://ffoodd.github.io/a11y.css/)
 * [a11y.css vérificateur d'accessibilité (extension Firefox)](https://addons.mozilla.org/fr/firefox/addon/a11ycss/)
 * [ally.js](http://allyjs.io/)
+* [A11ygator (Chrome extension)](https://chrome.google.com/webstore/detail/a11ygator/imfmlpemomjmfncnmkjdeeinbkichaio/related)
 * [Accessibility Bookmarklets](https://accessibility-bookmarklets.org/)
 * [Accessibility Insights](https://accessibilityinsights.io/)
 * [Accessibility Scanner](https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.auditor)
