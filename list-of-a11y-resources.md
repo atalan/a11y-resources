@@ -59,7 +59,6 @@
 * [Notes on Using ARIA in HTML](https://www.w3.org/TR/aria-in-html/)
 * [WAI-ARIA 1.1 Cheat Sheet](https://www.cheatography.com/jreiche/cheat-sheets/wai-aria-1-1/)
 * [WAI-ARIA Authoring Practices 1.1](https://www.w3.org/TR/wai-aria-practices/)
-* [WAI-ARIA Cheat Sheet](http://karlgroves-sandbox.com/CheatSheets/ARIA-Cheatsheet.html)
 * [WAI-ARIA Landmark Roles Cheatsheet](http://mcdlr.com/wai-aria-cheatsheet/)
 
 ## Awareness / Sensibilisation
@@ -91,8 +90,6 @@
 
 ## ePub
 * [13 Keys to Accessible EPUB3 Documents](http://vprompt.com/2014/08/13-keys-accessible-epub3-documents/)
-* [EPUB 3 Accessibility Guidelines](http://www.idpf.org/accessibility/guidelines/)
-* [EPUB 3 Accessibility Guidelines - Accessibility QA Checklist](http://www.idpf.org/accessibility/guidelines/content/qa/qa-checklist.php)
 * [Inclusive EPUB 3](http://handbook.floeproject.org/InclusiveEPUB3.html)
 * [Top Tips for Creating Accessible EPUB 3 Files](http://diagramcenter.org/54-9-tips-for-creating-accessible-epub-3-files.html)
 * [Using Adobe InDesign to create accessible EPUB 3 files](http://www.daisy.org/daisypedia/using-adobe-indesign-create-accessible-epub-3-files)
@@ -114,13 +111,12 @@
 * [Accessibility for Teams](https://accessibility.digital.gov/)
 * [Accessibility Guidelines](http://accessibility.voxmedia.com/)
 * [Getting Started with Web Accessibility](https://www.w3.org/WAI/gettingstarted/Overview.html)
-* [Interactive WCAG 2.0](http://code.viget.com/interactive-wcag)
 * [Recommandations accessibilité Orange](http://a11y-guidelines.orange.com/index.html)
 * [RGAA (Référentiel Général d’Accessibilité pour les Administrations)](http://references.modernisation.gouv.fr/accessibilite-numerique)
 * [Techniques for WCAG 2.0](https://www.w3.org/TR/WCAG-TECHS/Overview.html)
 * [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
 * [WebAIR: Web Accessibility Information Resource](https://www.cs.york.ac.uk/hci/webair/index.htm)
-* [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/)
+* [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/)
 
 ## HTML5
 * [HTML5 Accessibility](http://stevefaulkner.github.io/HTML5accessibility/)
@@ -135,13 +131,11 @@
 * [Poet Image Description](https://poet.diagramcenter.org/index.html)
 * [Text alternatives – a decision tree](http://4syllables.com.au/articles/text-alternatives-decision-tree/)
 * [The Wolfram Language Image Identification Project](https://www.imageidentify.com/)
-* [Tips for Creating Accessible SVG](https://www.sitepoint.com/tips-accessible-svg/)
 * [When is an image ‘purely decorative’?](http://4syllables.com.au/articles/decorative-images/)
 
 ## InDesign
 * [Creating Accessible Adobe InDesign CS5.5 PDF Documents](http://ncdae.org/resources/cheatsheets/indesign.php)
 * [Créer des documents PDF accessibles avec InDesign](http://anysurfer.be/fr/en-pratique/documents/pdf/indesign)
-* [InDesign how-to: Tagging long tables in PDF documents](http://www.visionaustralia.org/business-and-professionals/digital-access-consulting/resources/blog---accessibility-and-assistive-technology-blog/blog/accessibility-blog/2015/08/26/indesign-how-to-tagging-long-tables-in-pdf-documents)
 * [Principes d’accessibilité avec Adobe InDesign (PDF – 1,75 Mo)](http://www.tresor.gouv.qc.ca/fileadmin/PDF/ressources_informationnelles/AccessibiliteWeb/principes_accessibilite_indesign.pdf)
 
 ## Keyboard navigation / Navigation au clavier
@@ -159,8 +153,6 @@
 * [What Input?](https://ten1seven.github.io/what-input/)
 
 ## Live regions / Régions dynamiques
-* [Injecting content into the page tests](http://maxdesign.com.au/jobs/sample-accessibility/10-notifications/index.html)
-* [Live region attributes](http://ideance.net/publications/live-regions/index.html)
 * [Test Cases](http://accessibleajax.clcworld.net/)
 * [WAI-ARIA Live Regions Updated](http://juicystudio.com/article/wai-aria_live-regions_updated.php)
 
@@ -169,19 +161,16 @@
 * [Mobile Accessibility Guidelines](http://www.bbc.co.uk/guidelines/futuremedia/accessibility/mobile)
 * [Mobile Accessibility Testing Guide for Android and iOS](https://developer.paciellogroup.com/blog/2017/11/mobile-accessibility-testing-guide-for-android-and-ios-free/)
 * [Mobile Resources](https://www.w3.org/WAI/GL/mobile-a11y-tf/wiki/Mobile_Resources)
-* [Resources for Mobile Accessibility Guidelines](http://www.iheni.com/mobile-accessibility-guidelines/)
 
 ### Android
 * [Accessibility testing with Android Talkback](https://www.paciellogroup.com/blog/2015/10/accessibility-testing-with-android-talkback/)
 * [Accessible Tabbed Navigation in Android](http://www.deque.com/blog/tabbed-navigation/)
 * [Accessible Text Input in Android](http://www.deque.com/blog/accessible-text-input-android/)
 * [Android Accessibility Help Center](https://support.google.com/accessibility/android)
-* [Android Accessibility – The Missing Manual](http://www.last-child.com/android-a11y-missing-manual/)
 * [Android App Accessibility Checklist](https://www.sitepoint.com/android-app-accessibility-checklist/)
 * [An Introduction to Android Accessibility Features](https://www.sitepoint.com/introduction-android-accessibility-features/)
 * [Guide de développement d'applications accessibles mobiles avec l'API Android](https://github.com/DISIC/guide-mobile_app_dev_natif/blob/master/android.md)
 * [How to Make Android ImageViews Accessible with Content Descriptions](http://www.deque.com/blog/android-imageviews-accessible-content-descriptions/)
-* [Making your Android Apps More Inclusive with accessibilitools](https://www.novoda.com/blog/accessibilitools/)
 * [Référence des gestes de TalkBack sous Android 4.1, 4.2 et 4.3](http://blog.atalan.fr/reference-des-gestes-de-talkback-sous-android-4-1-4-2-et-4-3/)
 
 ### iOS
