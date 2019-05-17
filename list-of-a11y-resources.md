@@ -44,7 +44,6 @@
 	- [Audiodescription](#audiodescription)
 	- [Player](#player)
 	- [Subtitles / Sous-titres](#subtitles--sous-titres)
-- [Windows 10](#windows-10)
 - [Word](#word)
 
 ## Adobe Acrobat
@@ -321,7 +320,6 @@
 * [CADET - Caption And Description Editing Tool](http://ncamftp.wgbh.org/cadet/)
 * [Check the Accessibility of a PDF Document](http://checkers.eiii.eu/en/pdfcheck/)
 * [ChromeLens, to develop for the visually impaired (Chrome extension)](http://chromelens.xyz/)
-* [CKEditor Accessibility Checker](https://cksource.com/ckeditor/services#accessibility-checker)
 * [CKEditor Accessibility Checker for Drupal](https://www.drupal.org/project/ckeditor_a11ychecker)
 * [Content Clarifier](http://contentclarifier.mybluemix.net/#/landing)
 * [Dictanote - Speech Recognizer (Chrome extension)](https://chrome.google.com/webstore/detail/dictanote-speech-recogniz/aomjekmpappghadlogpigifkghlmebjk)
@@ -332,7 +330,6 @@
 * [Image Analyser](http://juicystudio.com/services/image.php)
 * [Koa11y](http://open-indy.github.io/Koa11y/)
 * [Landmarks browser extension](http://matatk.agrip.org.uk/landmarks/)
-* [Mobile Web Accessibility Checker](http://www.userlight.com/apps/mwac/)
 * [Orange Confort+](http://confort-plus.orange.com/)
 * [pa11y](http://pa11y.org/)
 * [Pave, four steps to an accessible PDF](http://pave-pdf.org/index.en.html)
@@ -340,15 +337,13 @@
 * [Readability Bookmarklet](https://accessibility.oit.ncsu.edu/tools/readability/)
 * [Scolarius](http://www.scolarius.com/submissions/28326)
 * [Siteimprove Accessibility Checker (Chrome extension)](https://chrome.google.com/webstore/detail/siteimprove-accessibility/efcfolpjihicnikpmhnmphjhhpiclljc?hl)
-* [SpeakIt! (Chrome extension)](https://chrome.google.com/webstore/detail/speakit/ohpcoflekopkahpgomnabhkclbedepll)
+* [SpeakIt! (Chrome extension)](https://chrome.google.com/webstore/detail/speakit-text-to-speech-fo/pgeolalilifpodheeocdmbhehgnkkbak?hl=fr)
 * [Tenon](http://tenon.io/)
 * [Tester l’accessibilité d’une page web ou d’un PDF avec NVDA](http://blog.atalan.fr/tester-accessibilite-web-pdf-lecteur-ecran-nvda/)
 * [The Readability Test Tool](http://www.webpagefx.com/tools/read-able/)
 * [The Visual ARIA Bookmarklet](http://whatsock.com/training/matrices/visual-aria.htm)
 * [The W3C Markup Validation Service](https://validator.w3.org/)
-* [Top Testing Tools for Accessibility](https://alastairc.ac/presentations/access-testing/index.html)
 * [tota11y](http://khan.github.io/tota11y/)
-* [Tunnel Vision Bookmarklet](http://anything.agency/tunnel-vision/)
 * [Wave](http://wave.webaim.org/)
 * [WAVE Evaluation Tool (Chrome extension)](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh/related)
 * [Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/index.html)
@@ -395,12 +390,10 @@
 * [Random A11y Color Palettes](http://www.randoma11y.com)
 * [SEE (Chrome extension)](https://chrome.google.com/webstore/detail/see/dkihcccbkkakkbpikjmpnbamkgbjfdcn)
 * [Text on background image a11y check](http://www.brandwood.com/a11y/)
-* [Vischeck simulates colorblind vision](http://www.vischeck.com/)
 * [WCAG Contrast checker (Firefox extension)](https://addons.mozilla.org/fr/firefox/addon/wcag-contrast-checker/)
 
 ### Vidéo
 * [Amara makes video globally accessible](http://www.amara.org/fr/)
-* [HTML5 Video Caption Maker](http://samples.msdn.microsoft.com/Workshop/samples/media/captionmaker/default.html)
 * [oTranscribe](http://otranscribe.com/)
 * [Subtitle Horse: Online Subtitle/Captions Editor](http://subtitle-horse.com/)
 * [YouDescribe](http://youdescribe.org/)
@@ -409,7 +402,6 @@
 
 ### Audiodescription
 * [Accessible Audio Descriptions for HTML5 Video](https://www.sitepoint.com/accessible-audio-descriptions-for-html5-video/)
-* [Descriptive Video Tools](https://www.cbtbc.org/tools/dv/)
 * [Using HTML5 and Javascript to Deliver Text-Based Audio Descriptions](http://ncamftp.wgbh.org/ibm/dvs/)
 
 ### Player
@@ -420,13 +412,11 @@
 * [Acorn Media Player](https://ghinda.net/acornmediaplayer/)
 * [Comparison of Browsers on HTML5 Video Accessibility: 2015 Update](http://terrillthompson.com/blog/635)
 * [HTML5 Video Player Comparison](http://videosws.praegnanz.de/#sws)
-* [HTML5 Video Player Comparison](http://html5video.org/wiki/HTML5_Video_Player_Comparison)
 * [MFP AccessPlayer](https://github.com/mfpaccessibilite/MFP_AccessPlayer)
 * [OU Media Player](http://mediaplayer.open.edu/)
 * [OzPlayer](http://www.accessibilityoz.com/ozplayer/)
 * [Plyr](https://plyr.io/)
 * [PubliWatch Player](https://github.com/ipedis/publiwatch-player)
-* [Vibéo - un lecteur vidéo accessible](http://vibeo.libeo.com/)
 * [Video.js](http://videojs.com/)
 
 ### Subtitles / Sous-titres
@@ -437,14 +427,9 @@
 * [Liste de bonnes pratiques pour le sous-titrage web](https://gist.github.com/knarf18/76f3738e970e8efa9243)
 * [Sous-titrer facilement avec l'aide de YouTube](http://anysurfer.be/fr/blog/detail/sous-titrer-facilement-avec-laide-de-youtube)
 * [Sous-titres dans Viméo](https://vimeo.com/help/faq/managing-your-videos/captions-and-subtitles)
-* [The Difference Between Open and Closed Captions](http://www.ai-media.tv/the-difference-between-open-and-closed-captions/)
-
-## Windows 10
-* [Accessibility: Microsoft Edge and Windows 10](https://www.microsoft.com/en-gb/developers/articles/week03oct15/accessibility-microsoft-edge-and-windows-10/)
 
 ## Word
 * [Accentuer (facilement) les capitales avec Microsoft Word](http://blog.atalan.fr/accentuer-facilement-les-capitales-avec-microsoft-word/)
-* [Accessibility in Microsoft Office 2013](https://www.microsoft.com/enable/products/office2013/default.aspx)
 * [Creating Accessible Microsoft Word 2007/ 2010 Documents](http://ncdae.org/resources/cheatsheets/word.php)
 * [Microsoft Word - Creating Accessible Documents](http://webaim.org/techniques/word/)
 * [PDF Conversion In Microsoft Word 2007/2010 Documents](http://ncdae.org/resources/cheatsheets/pdf.php)
