@@ -182,7 +182,7 @@
 * [What iOS Traits Actually Do](http://www.deque.com/blog/ios-traits/)
 
 ## Placeholder
-* [10 reasons why placeholders are problematic](https://medium.com/simple-human/10-reasons-why-placeholders-are-problematic-f8079412b960#.6t788f8x7)
+* [11 reasons why placeholders are problematic](https://medium.com/simple-human/10-reasons-why-placeholders-are-problematic-f8079412b960#.6t788f8x7)
 * [Accessible Floating Labels](http://codepen.io/AllThingsSmitty/pen/VjykOz)
 * [Can I use placeholders instead of labels?](http://help.pardot.com/customer/portal/articles/2126649-can-i-use-placeholders-instead-of-labels-)
 * [Floated Labels](http://codepen.io/soulrider911/pen/ugnyl)
@@ -214,7 +214,6 @@
 * [Frend, a collection of accessible modern front-end components](https://frend.co/)
 * [Inclusive Components](http://inclusive-components.club/)
 * [Orejime (Cookie Consent Manager)](https://orejime.netlify.com/)
-* [OpenAjax Alliance Accessibility](http://oaa-accessibility.org/)
 * [Practical ARIA examples](http://heydonworks.com/practical_aria_examples/)
 * [Van11y (Vanilla a11y) accessible scripts of rich interface elements](https://van11y.net/)
 * [Simply Accessible](http://examples.simplyaccessible.com/)
@@ -225,7 +224,6 @@
 * [handorgel](https://oncode.github.io/handorgel/)
 * [jQuery accessible accordion system, using ARIA](https://a11y.nicolas-hoffmann.net/accordion/)
 * [jQuery simple and accessible hide-show system (collapsible regions), using ARIA](https://a11y.nicolas-hoffmann.net/hide-show/)
-* [Progressively enhanced ARIA accordions](https://scottaohara.github.io/accessible_accordions/)
 * [Van11y (Vanilla a11y) accessible accordion system, using ARIA](https://van11y.net/accessible-accordion/)
 * [Van11y (Vanilla a11y) simple and accessible hide-show system (collapsible regions), using ARIA](https://van11y.net/accessible-hide-show/)
 
