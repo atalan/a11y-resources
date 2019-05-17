@@ -258,8 +258,6 @@
 
 ### Form / Formulaire
 * [Accessible Inline Radio Inputs](https://codepen.io/atalan/pen/JpopzQ)
-* [ARIA Switch Demo](https://scottaohara.github.io/aria-switch-button/)
-* [A sweet toggle switch](https://www.paypal-engineering.com/2014/01/15/a-sweet-toggle-switch/)
 * [Full Password Example](https://www.w3.org/WAI/tutorials/forms/examples/password/)
 * [Non-editable combobox with multiselect listbox](http://accessibleculture.org/misc/aria/combobox/combobox.html)
 * [Personnaliser l’aspect de boutons radio et checkbox en CSS](http://www.creativejuiz.fr/blog/tutoriels/personnaliser-aspect-boutons-radio-checkbox-css)
@@ -271,7 +269,6 @@
 * [Accessible Slide Menu](http://codepen.io/marcysutton/pen/JoQqVw)
 * [Creating an Accessible ARIA Tree Control](http://www.ssbbartgroup.com/blog/creating-an-accessible-aria-tree-control/)
 * [Fly-out Menus](https://www.w3.org/WAI/tutorials/menus/flyout/)
-* [Menu accessible](https://www.screenfeed.fr/demos/menu-accessible/)
 * [Tree Menu](http://files.paciellogroup.com/training/commonsamples/tpglibsamples/aria/tree/index.html)
 
 ### Modal / Modale
