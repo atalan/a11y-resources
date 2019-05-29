@@ -14,7 +14,7 @@
 - [Framework](#framework)
 	- [AngularJS](#angularjs)
 	- [Bootstrap](#bootstrap)
-	- [Bootstrap](#react)
+	- [React](#react)
 - [Guidelines / Notices et référentiels](#guidelines--notices-et-référentiels)
 - [HTML5](#html5)
 - [Images](#images)
@@ -96,7 +96,6 @@
 * [Using Adobe InDesign to create accessible EPUB 3 files](http://www.daisy.org/daisypedia/using-adobe-indesign-create-accessible-epub-3-files)
 
 ## Framework
-* [Tutoriel "composants d’interface JavaScript"](https://disic.github.io/rgaa_bibliotheques_javascript/tutoriels/index.html)
 
 ### AngularJS
 * [Single page applications, Angular.js and accessibility](http://simplyaccessible.com/article/spangular-accessibility/)
@@ -105,7 +104,7 @@
 * [Orange Boosted with Bootstrap](http://boosted.orange.com/)
 
 ### React
-* [Build accessible rich web apps with React](https://reakit.io/)
+* [Reakit, build accessible rich web apps with React](https://reakit.io/)
 
 ## Guidelines / Notices et référentiels
 * [18F Accessibility Guide](https://accessibility.18f.gov/)
