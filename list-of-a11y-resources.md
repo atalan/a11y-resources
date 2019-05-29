@@ -62,6 +62,8 @@
 * [WAI-ARIA Landmark Roles Cheatsheet](http://mcdlr.com/wai-aria-cheatsheet/)
 
 ## Awareness / Sensibilisation
+* [Article 47 de la loi du 11 février 2005 pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006051257&dateTexte=20211007#LEGIARTI000037388867)
+* [Décret relatif à l’accessibilité aux personnes handicapées des services de communication au public en ligne](http://ec.europa.eu/growth/tools-databases/tris/fr/search/?trisaction=search.detail&year=2019&num=99)
 * [Dyslexie et lettres dansantes](http://blog.atalan.fr/dyslexie-lettres-dansent/)
 * [Étude sur l'usage des lecteurs d'écran en France et en Francophonie (Juin 2016 - PDF - 1 Mo)](http://www.aveuglesdefrance.org/sites/default/files/2016-06/Rapport_final_Etude-lecteurs-ecran-France-Francophonie_01062016.pdf)
 * [Faire fonctionner la technologie pour tous : une introduction à l’accessibilité numérique](http://blog.atalan.fr/video-faire-fonctionner-la-technologie-pour-tous-une-introduction-a-laccessibilite-numerique/)
