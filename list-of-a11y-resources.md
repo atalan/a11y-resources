@@ -14,6 +14,7 @@
 - [Framework](#framework)
 	- [AngularJS](#angularjs)
 	- [Bootstrap](#bootstrap)
+	- [Bootstrap](#react)
 - [Guidelines / Notices et référentiels](#guidelines--notices-et-référentiels)
 - [HTML5](#html5)
 - [Images](#images)
@@ -64,6 +65,7 @@
 * [Dyslexie et lettres dansantes](http://blog.atalan.fr/dyslexie-lettres-dansent/)
 * [Étude sur l'usage des lecteurs d'écran en France et en Francophonie (Juin 2016 - PDF - 1 Mo)](http://www.aveuglesdefrance.org/sites/default/files/2016-06/Rapport_final_Etude-lecteurs-ecran-France-Francophonie_01062016.pdf)
 * [Faire fonctionner la technologie pour tous : une introduction à l’accessibilité numérique](http://blog.atalan.fr/video-faire-fonctionner-la-technologie-pour-tous-une-introduction-a-laccessibilite-numerique/)
+* [Global Accessibility Laws (Map)](https://framacarte.org/fr/map/global-accessibility-laws_33141#6/51.000/2.000)
 * [L’accessibilité numérique, et si nous agissions ?](https://atalan.fr/agissons/fr/index.html)
 * [Web Accessibility Perspectives](https://www.w3.org/WAI/perspectives/Overview.html)
 * [Web Accessibility Related Lawsuits and Settlements in the United States](http://karlgroves.github.io/a11y-lawsuits/lawsuits.html)
@@ -101,6 +103,9 @@
 
 ### Bootstrap
 * [Orange Boosted with Bootstrap](http://boosted.orange.com/)
+
+### React
+* [Build accessible rich web apps with React](https://reakit.io/)
 
 ## Guidelines / Notices et référentiels
 * [18F Accessibility Guide](https://accessibility.18f.gov/)
@@ -214,6 +219,7 @@
 * [Inclusive Components](http://inclusive-components.club/)
 * [Orejime (Cookie Consent Manager)](https://orejime.netlify.com/)
 * [Practical ARIA examples](http://heydonworks.com/practical_aria_examples/)
+* [Scampi](http://pidila.gitlab.io/scampi/)
 * [Van11y (Vanilla a11y) accessible scripts of rich interface elements](https://van11y.net/)
 * [Simply Accessible](http://examples.simplyaccessible.com/)
 
@@ -314,6 +320,7 @@
 * [Alix (Chrome extension)](https://chrome.google.com/webstore/detail/alix-for-chrome/aepmadgjacfjcneccddiccnkbpimobge)
 * [Analyseur de lisibilité de contenus](http://labs.translated.net/lisibilite-texte/)
 * [ANDI](https://www.ssa.gov/accessibility/andi/help/install.html)
+* [ARC Toolkit (Chrome extension)](https://chrome.google.com/webstore/detail/arc-toolkit/chdkkkccnlfncngelccgbgfmjebmkmce)
 * [ASLint, accessibility and SEO checker](https://www.aslint.org/)
 * [Asqatasun](http://asqatasun.org/)
 * [aXe (Chrome extension)](https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd)
