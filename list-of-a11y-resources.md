@@ -116,6 +116,7 @@
 * [Accessibility for Teams](https://accessibility.digital.gov/)
 * [Accessibility Guidelines](http://accessibility.voxmedia.com/)
 * [Getting Started with Web Accessibility](https://www.w3.org/WAI/gettingstarted/Overview.html)
+* [How to Meet WCAG (Quick Reference)](https://www.w3.org/WAI/WCAG21/quickref)
 * [Recommandations accessibilité Orange](http://a11y-guidelines.orange.com/index.html)
 * [RGAA (Référentiel Général d’Accessibilité pour les Administrations)](http://references.modernisation.gouv.fr/accessibilite-numerique)
 * [Techniques for WCAG 2.0](https://www.w3.org/TR/WCAG-TECHS/Overview.html)
