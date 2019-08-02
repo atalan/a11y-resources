@@ -115,6 +115,7 @@
 * [Accessibility Developer Guide](https://www.accessibility-developer-guide.com/)
 * [Accessibility for Teams](https://accessibility.digital.gov/)
 * [Accessibility Guidelines](http://accessibility.voxmedia.com/)
+* [Accessibility Support](https://a11ysupport.io)
 * [Getting Started with Web Accessibility](https://www.w3.org/WAI/gettingstarted/Overview.html)
 * [How to Meet WCAG (Quick Reference)](https://www.w3.org/WAI/WCAG21/quickref)
 * [Recommandations accessibilité Orange](http://a11y-guidelines.orange.com/index.html)
@@ -182,6 +183,7 @@
 ### iOS
 * [Accessibility Programming Guide for iOS](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/iPhoneAccessibility/Introduction/Introduction.html#//apple_ref/doc/uid/TP40008785-CH1-SW1)
 * [Guide de développement d'applications mobiles accessibles avec l'API iOS](https://github.com/DISIC/guide-mobile_app_dev_natif/blob/master/ios.md)
+* [Introduction to supporting Dynamic Type](https://fluffy.es/introduction-to-dynamic-type)
 * [Référence des gestes de VoiceOver sous iOS](http://blog.atalan.fr/reference-gestes-voiceover-ios/)
 * [Supporting Dynamic Type](http://useyourloaf.com/blog/supporting-dynamic-type/)
 * [Supporting Dynamic Type for iOS Apps](http://www.ios-blog.co.uk/tutorials/objective-c/supporting-dynamic-type-for-ios-7-apps/)
