@@ -268,6 +268,7 @@
 * [Full Password Example](https://www.w3.org/WAI/tutorials/forms/examples/password/)
 * [Non-editable combobox with multiselect listbox](http://accessibleculture.org/misc/aria/combobox/combobox.html)
 * [Personnaliser l’aspect de boutons radio et checkbox en CSS](http://www.creativejuiz.fr/blog/tutoriels/personnaliser-aspect-boutons-radio-checkbox-css)
+* [The Accessibility of Styled Form Controls](https://scottaohara.github.io/a11y_styled_form_controls/)
 
 ### Menu
 * [Accessible Hamburger Menu](http://pauljadam.com/demos/hamburger-menu.html)
