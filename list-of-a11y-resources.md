@@ -69,6 +69,7 @@
 * [Faire fonctionner la technologie pour tous : une introduction à l’accessibilité numérique](http://blog.atalan.fr/video-faire-fonctionner-la-technologie-pour-tous-une-introduction-a-laccessibilite-numerique/)
 * [Global Accessibility Laws (Map)](https://framacarte.org/fr/map/global-accessibility-laws_33141#6/51.000/2.000)
 * [L’accessibilité numérique, et si nous agissions ?](https://atalan.fr/agissons/fr/index.html)
+* [Une infographie pour comprendre le cadre législatif de l’accessibilité numérique en France en 2019](https://www.ekino.fr/articles/une-infographie-pour-comprendre-le-cadre-le-gislatif-de-laccessibilite)
 * [Web Accessibility Perspectives](https://www.w3.org/WAI/perspectives/Overview.html)
 * [Web Accessibility Related Lawsuits and Settlements in the United States](http://karlgroves.github.io/a11y-lawsuits/lawsuits.html)
 
@@ -120,7 +121,7 @@
 * [How to Meet WCAG (Quick Reference)](https://www.w3.org/WAI/WCAG21/quickref)
 * [Online Accessibility Toolkit](https://accessibility.sa.gov.au)
 * [Recommandations accessibilité Orange](http://a11y-guidelines.orange.com/index.html)
-* [RGAA (Référentiel Général d’Accessibilité pour les Administrations)](http://references.modernisation.gouv.fr/accessibilite-numerique)
+* [RGAA (Référentiel Général d'Amélioration de l'Accessibilité)](https://www.numerique.gouv.fr/publications/rgaa-accessibilite)
 * [Teach Access Portal](https://teachaccess.github.io/tutorial)
 * [Techniques for WCAG 2.1](https://www.w3.org/WAI/WCAG21/Techniques/)
 * [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
@@ -435,12 +436,13 @@
 
 ### Subtitles / Sous-titres
 * [Captioning YouTube Videos](http://ncdae.org/resources/cheatsheets/youtube.php)
-* [Dossier sur le sous-titrage](http://www.sirtin.fr/2012/06/04/dossier-sous-titrage-preambule/)
-* [Élément track](http://examples.anysurfer.be/html5/track/fr/)
-* [How to Add Closed Captions & Subtitles to HTML5 Videos](http://www.3playmedia.com/how-it-works/how-to-guides/html5-video-captioning/)
+* [Dossier sur le sous-titrage](http://www.sirtin.fr/2012/06/04/dossier-sous-titrage-preambule)
+* [Élément track](http://examples.anysurfer.be/html5/track/fr)
+* [How to Add Closed Captions & Subtitles to HTML5 Videos](http://www.3playmedia.com/how-it-works/how-to-guides/html5-video-captioning)
 * [Liste de bonnes pratiques pour le sous-titrage web](https://gist.github.com/knarf18/76f3738e970e8efa9243)
 * [Sous-titrer facilement avec l'aide de YouTube](http://anysurfer.be/fr/blog/detail/sous-titrer-facilement-avec-laide-de-youtube)
 * [Sous-titres dans Viméo](https://vimeo.com/help/faq/managing-your-videos/captions-and-subtitles)
+* [Subtitle Guidelines](https://bbc.github.io/subtitle-guidelines)
 
 ## Word
 * [Accentuer (facilement) les capitales avec Microsoft Word](http://blog.atalan.fr/accentuer-facilement-les-capitales-avec-microsoft-word/)
