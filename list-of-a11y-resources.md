@@ -352,7 +352,7 @@
 * [Readability Bookmarklet](https://accessibility.oit.ncsu.edu/tools/readability/)
 * [Scolarius](http://www.scolarius.com/submissions/28326)
 * [Siteimprove Accessibility Checker (Chrome extension)](https://chrome.google.com/webstore/detail/siteimprove-accessibility/efcfolpjihicnikpmhnmphjhhpiclljc?hl)
-* [SpeakIt! (Chrome extension)](https://chrome.google.com/webstore/detail/speakit-text-to-speech-fo/pgeolalilifpodheeocdmbhehgnkkbak?hl=fr)
+* [SpeakIt! (Chrome extension)](https://chrome.google.com/webstore/detail/speakit/ogcmdndkjibojdigkjpccjiekcdfdhlb)
 * [Tenon](http://tenon.io/)
 * [Tester l’accessibilité d’une page web ou d’un PDF avec NVDA](http://blog.atalan.fr/tester-accessibilite-web-pdf-lecteur-ecran-nvda/)
 * [The Readability Test Tool](http://www.webpagefx.com/tools/read-able/)
