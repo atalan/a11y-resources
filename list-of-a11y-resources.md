@@ -70,6 +70,7 @@
 * [Global Accessibility Laws (Map)](https://framacarte.org/fr/map/global-accessibility-laws_33141#6/51.000/2.000)
 * [L’accessibilité numérique, et si nous agissions ?](https://atalan.fr/agissons/fr/index.html)
 * [Une infographie pour comprendre le cadre législatif de l’accessibilité numérique en France en 2019](https://www.ekino.fr/articles/une-infographie-pour-comprendre-le-cadre-le-gislatif-de-laccessibilite)
+* [Videos of people with disabilities using tech](https://axesslab.com/tech-youtubers)
 * [Web Accessibility Perspectives](https://www.w3.org/WAI/perspectives/Overview.html)
 * [Web Accessibility Related Lawsuits and Settlements in the United States](http://karlgroves.github.io/a11y-lawsuits/lawsuits.html)
 
@@ -248,6 +249,7 @@
 * [Basic autocomplete](http://codepen.io/goetsu/pen/wKYRvM/)
 * [Combobo](https://dequelabs.github.io/combobo/demo/)
 * [jQuery accessible autocomplete list](https://a11y.nicolas-hoffmann.net/autocomplet-list/)
+* [Select a11y](https://pidila.gitlab.io/select-a11y/)
 * [selectWoo](https://woocommerce.wordpress.com/2017/08/08/selectwoo-an-accessible-replacement-for-select2/)
 * [We’re building an autocomplete](https://designnotes.blog.gov.uk/2017/04/20/were-building-an-autocomplete/)
 
@@ -358,6 +360,7 @@
 * [The Readability Test Tool](http://www.webpagefx.com/tools/read-able/)
 * [The Visual ARIA Bookmarklet](http://whatsock.com/training/matrices/visual-aria.htm)
 * [The W3C Markup Validation Service](https://validator.w3.org/)
+* [Top 80 Web Accessibility Resources & Tools](https://www.websitehostingrating.com/web-accessibility-resources-tools)
 * [tota11y](http://khan.github.io/tota11y/)
 * [Wave](http://wave.webaim.org/)
 * [WAVE Evaluation Tool (Chrome extension)](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh/related)
@@ -406,6 +409,7 @@
 * [SEE (Chrome extension)](https://chrome.google.com/webstore/detail/see/dkihcccbkkakkbpikjmpnbamkgbjfdcn)
 * [Text on background image a11y check](http://www.brandwood.com/a11y/)
 * [WCAG Contrast checker (Firefox extension)](https://addons.mozilla.org/fr/firefox/addon/wcag-contrast-checker/)
+* [Who Can Use](https://whocanuse.com)
 
 ### Vidéo
 * [Amara makes video globally accessible](http://www.amara.org/fr/)
