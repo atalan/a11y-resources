@@ -14,9 +14,9 @@
 - [HTML5](#html5)
 - [Images](#images)
 - [InDesign](#indesign)
+- [iOS](#ios)
 - [Keyboard navigation / Navigation au clavier](#keyboard-navigation--navigation-au-clavier)
 - [Live regions / Régions dynamiques](#live-regions--régions-dynamiques)
-- [iOS](#ios)
 - [Placeholder](#placeholder)
 - [Powerpoint](#powerpoint)
 - [Rich interface components / Composants d’interface riche](#rich-interface-components--composants-dinterface-riche)
@@ -45,15 +45,14 @@
 * [Creating Accessible PDF Documents In Adobe Acrobat X](http://ncdae.org/resources/cheatsheets/acrobat.php)
 
 ## Android
-* [Accessibility testing with Android Talkback](https://www.paciellogroup.com/blog/2015/10/accessibility-testing-with-android-talkback/)
-* [Accessible Tabbed Navigation in Android](http://www.deque.com/blog/tabbed-navigation/)
-* [Accessible Text Input in Android](http://www.deque.com/blog/accessible-text-input-android/)
-* [Android Accessibility Help Center](https://support.google.com/accessibility/android)
-* [Android App Accessibility Checklist](https://www.sitepoint.com/android-app-accessibility-checklist/)
-* [An Introduction to Android Accessibility Features](https://www.sitepoint.com/introduction-android-accessibility-features/)
+* [Accessibility testing with Android Talkback](https://www.paciellogroup.com/blog/2015/10/accessibility-testing-with-android-talkback)
+* [Accessible Text Input in Android](http://www.deque.com/blog/accessible-text-input-android)
+* [Android Accessibility Help](https://support.google.com/accessibility/android)
+* [Android App Accessibility Checklist](https://www.sitepoint.com/android-app-accessibility-checklist)
+* [An Introduction to Android Accessibility Features](https://www.sitepoint.com/introduction-android-accessibility-features)
 * [Guide de développement d'applications accessibles mobiles avec l'API Android](https://github.com/DISIC/guide-mobile_app_dev_natif/blob/master/android.md)
-* [How to Make Android ImageViews Accessible with Content Descriptions](http://www.deque.com/blog/android-imageviews-accessible-content-descriptions/)
-* [Référence des gestes de TalkBack sous Android 4.1, 4.2 et 4.3](http://blog.atalan.fr/reference-des-gestes-de-talkback-sous-android-4-1-4-2-et-4-3/)
+* [How to Make Android ImageViews Accessible with Content Descriptions](http://www.deque.com/blog/android-imageviews-accessible-content-descriptions)
+* [Référence des gestes de TalkBack sous Android 4.1, 4.2 et 4.3](http://blog.atalan.fr/reference-des-gestes-de-talkback-sous-android-4-1-4-2-et-4-3)
 
 ## ARIA
 * [Accessibilité du Web - L'ergonomie avec WAI-ARIA](http://aria.inlb.qc.ca)
@@ -123,6 +122,13 @@
 * [Créer des documents PDF accessibles avec InDesign](http://anysurfer.be/fr/en-pratique/documents/pdf/indesign)
 * [Principes d’accessibilité avec Adobe InDesign (PDF – 1,75 Mo)](http://www.tresor.gouv.qc.ca/fileadmin/PDF/ressources_informationnelles/AccessibiliteWeb/principes_accessibilite_indesign.pdf)
 
+## iOS
+* [Accessibility Programming Guide for iOS](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/iPhoneAccessibility/Introduction/Introduction.html#//apple_ref/doc/uid/TP40008785-CH1-SW1)
+* [Guide de développement d'applications mobiles accessibles avec l'API iOS](https://github.com/DISIC/guide-mobile_app_dev_natif/blob/master/ios.md)
+* [Introduction to supporting Dynamic Type](https://fluffy.es/introduction-to-dynamic-type)
+* [Référence des gestes de VoiceOver sous iOS](http://blog.atalan.fr/reference-gestes-voiceover-ios/)
+* [What iOS Traits Actually Do](http://www.deque.com/blog/ios-traits/)
+
 ## Keyboard navigation / Navigation au clavier
 * [A lightweight script to animate scrolling to anchor links](https://github.com/cferdinandi/smooth-scroll)
 * [Animated Scroll to Top](http://webdesignerwall.com/demo/scroll-to-top/scrolltotop.html)
@@ -136,15 +142,6 @@
 ## Live regions / Régions dynamiques
 * [Test Cases](http://accessibleajax.clcworld.net/)
 * [WAI-ARIA Live Regions Updated](http://juicystudio.com/article/wai-aria_live-regions_updated.php)
-
-## iOS
-* [Accessibility Programming Guide for iOS](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/iPhoneAccessibility/Introduction/Introduction.html#//apple_ref/doc/uid/TP40008785-CH1-SW1)
-* [Guide de développement d'applications mobiles accessibles avec l'API iOS](https://github.com/DISIC/guide-mobile_app_dev_natif/blob/master/ios.md)
-* [Introduction to supporting Dynamic Type](https://fluffy.es/introduction-to-dynamic-type)
-* [Référence des gestes de VoiceOver sous iOS](http://blog.atalan.fr/reference-gestes-voiceover-ios/)
-* [Supporting Dynamic Type](http://useyourloaf.com/blog/supporting-dynamic-type/)
-* [Supporting Dynamic Type for iOS Apps](http://www.ios-blog.co.uk/tutorials/objective-c/supporting-dynamic-type-for-ios-7-apps/)
-* [What iOS Traits Actually Do](http://www.deque.com/blog/ios-traits/)
 
 ## Placeholder
 * [11 reasons why placeholders are problematic](https://medium.com/simple-human/10-reasons-why-placeholders-are-problematic-f8079412b960#.6t788f8x7)
