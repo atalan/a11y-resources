@@ -15,9 +15,8 @@
 - [InDesign](#indesign)
 - [Keyboard navigation / Navigation au clavier](#keyboard-navigation--navigation-au-clavier)
 - [Live regions / Régions dynamiques](#live-regions--régions-dynamiques)
-- [Mobile](#mobile)
-	- [Android](#android)
-	- [iOS](#ios)
+- [Android](#android)
+- [iOS](#ios)
 - [Placeholder](#placeholder)
 - [Powerpoint](#powerpoint)
 - [Rich interface components / Composants d’interface riche](#rich-interface-components--composants-dinterface-riche)
@@ -78,12 +77,12 @@
 * [Optimal Colors to Improve Readability for People with Dyslexia](https://www.w3.org/WAI/RD/2012/text-customization/r11)
 
 ## Guidelines / Notices et référentiels
-* [18F Accessibility Guide](https://accessibility.18f.gov/)
-* [AcceDe PDF](http://www.pdf-accessible.com/)
-* [AcceDe Web](http://www.accede-web.com/)
-* [Accessibility Developer Guide](https://www.accessibility-developer-guide.com/)
-* [Accessibility for Teams](https://accessibility.digital.gov/)
-* [Accessibility Guidelines](http://accessibility.voxmedia.com/)
+* [18F Accessibility Guide](https://accessibility.18f.gov)
+* [AcceDe PDF](http://www.pdf-accessible.com)
+* [AcceDe Web](http://www.accede-web.com)
+* [Accessibility Developer Guide](https://www.accessibility-developer-guide.com)
+* [Accessibility for Teams](https://accessibility.digital.gov)
+* [Accessibility Guidelines](http://accessibility.voxmedia.com)
 * [Accessibility Support](https://a11ysupport.io)
 * [Getting Started with Web Accessibility](https://www.w3.org/WAI/gettingstarted/Overview.html)
 * [How to Meet WCAG (Quick Reference)](https://www.w3.org/WAI/WCAG21/quickref)
@@ -91,25 +90,22 @@
 * [Recommandations accessibilité Orange](http://a11y-guidelines.orange.com/index.html)
 * [RGAA (Référentiel Général d'Amélioration de l'Accessibilité)](https://www.numerique.gouv.fr/publications/rgaa-accessibilite)
 * [Teach Access Portal](https://teachaccess.github.io/tutorial)
-* [Techniques for WCAG 2.1](https://www.w3.org/WAI/WCAG21/Techniques/)
-* [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
+* [Techniques for WCAG 2.1](https://www.w3.org/WAI/WCAG21/Techniques)
+* [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials)
 * [WebAIR: Web Accessibility Information Resource](https://www.cs.york.ac.uk/hci/webair/index.htm)
-* [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/)
+* [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21)
 
 ## HTML5
-* [HTML5 Accessibility](http://stevefaulkner.github.io/HTML5accessibility/)
-* [The Elements of HTML](http://w3c.github.io/elements-of-html/)
+* [HTML5 Accessibility](http://stevefaulkner.github.io/HTML5accessibility)
+* [The Elements of HTML](http://w3c.github.io/elements-of-html)
 
 ## Images
-* [amCharts Accessibility Plugin](http://paypal.github.io/amcharts-accessibility-plugin/)
-* [An alt Decision Tree](https://www.w3.org/WAI/tutorials/images/decision-tree/)
+* [An alt Decision Tree](https://www.w3.org/WAI/tutorials/images/decision-tree)
 * [Dynamically Generated Alt Text](https://s.codepen.io/sdras/debug/4437473c764a1d553691005a0f40a145)
-* [Guide pour la gestion des alternatives textuelles aux images](http://blog.atalan.fr/guide-pour-le-remplissage-dattributs-alt-dimages/)
+* [Guide pour la gestion des alternatives textuelles aux images](http://blog.atalan.fr/guide-pour-le-remplissage-dattributs-alt-dimages)
 * [High Contrast Mode Detection](http://hanshillen.github.io/HCMDS/hcmode_detection.html)
 * [Poet Image Description](https://poet.diagramcenter.org/index.html)
-* [Text alternatives – a decision tree](http://4syllables.com.au/articles/text-alternatives-decision-tree/)
-* [The Wolfram Language Image Identification Project](https://www.imageidentify.com/)
-* [When is an image ‘purely decorative’?](http://4syllables.com.au/articles/decorative-images/)
+* [The Wolfram Language Image Identification Project](https://www.imageidentify.com)
 
 ## InDesign
 * [Creating Accessible Adobe InDesign CS5.5 PDF Documents](http://ncdae.org/resources/cheatsheets/indesign.php)
@@ -119,28 +115,18 @@
 ## Keyboard navigation / Navigation au clavier
 * [A lightweight script to animate scrolling to anchor links](https://github.com/cferdinandi/smooth-scroll)
 * [Animated Scroll to Top](http://webdesignerwall.com/demo/scroll-to-top/scrolltotop.html)
-* [Focus transition](http://n12v.com/focus-transition/)
 * [How I learned to stop worrying and love the outline](https://medium.com/@wilkowskidom/how-i-learned-to-stop-worrying-and-love-the-outline-7a35b3b49e7#.ayjjemn5p)
-* [jquery-keyboard-focus](https://www.npmjs.com/package/jquery-keyboard-focus)
-* [Keyboard-Only Focus Styles](https://css-tricks.com/keyboard-only-focus-styles/)
-* [Making Accessibility Simpler, With Ally.js](https://www.smashingmagazine.com/2015/12/making-accessibility-simpler/)
+* [Keyboard-Only Focus Styles](https://css-tricks.com/keyboard-only-focus-styles)
 * [Removing :focus ring (and keeping it too)](https://hackernoon.com/removing-that-ugly-focus-ring-and-keeping-it-too-6c8727fefcd2)
-* [Show focus styles on keyboard events only](https://codepen.io/svinkle/pen/zzrORW)
-* [SkipTo](http://paypal.github.io/skipto/)
-* [Smooth Scrolling and Accessibility](https://css-tricks.com/smooth-scrolling-accessibility/)
-* [What Input?](https://ten1seven.github.io/what-input/)
+* [Show focus styles on keyboard events only](https://codepen.io/svinkle/full/zzrORW)
+* [SkipTo](http://paypal.github.io/skipto)
+* [What Input?](https://ten1seven.github.io/what-input)
 
 ## Live regions / Régions dynamiques
 * [Test Cases](http://accessibleajax.clcworld.net/)
 * [WAI-ARIA Live Regions Updated](http://juicystudio.com/article/wai-aria_live-regions_updated.php)
 
-## Mobile
-* [Don’t Disable Zoom](http://adrianroselli.com/2015/10/dont-disable-zoom.html)
-* [Mobile Accessibility Guidelines](http://www.bbc.co.uk/guidelines/futuremedia/accessibility/mobile)
-* [Mobile Accessibility Testing Guide for Android and iOS](https://developer.paciellogroup.com/blog/2017/11/mobile-accessibility-testing-guide-for-android-and-ios-free/)
-* [Mobile Resources](https://www.w3.org/WAI/GL/mobile-a11y-tf/wiki/Mobile_Resources)
-
-### Android
+## Android
 * [Accessibility testing with Android Talkback](https://www.paciellogroup.com/blog/2015/10/accessibility-testing-with-android-talkback/)
 * [Accessible Tabbed Navigation in Android](http://www.deque.com/blog/tabbed-navigation/)
 * [Accessible Text Input in Android](http://www.deque.com/blog/accessible-text-input-android/)
@@ -151,7 +137,7 @@
 * [How to Make Android ImageViews Accessible with Content Descriptions](http://www.deque.com/blog/android-imageviews-accessible-content-descriptions/)
 * [Référence des gestes de TalkBack sous Android 4.1, 4.2 et 4.3](http://blog.atalan.fr/reference-des-gestes-de-talkback-sous-android-4-1-4-2-et-4-3/)
 
-### iOS
+## iOS
 * [Accessibility Programming Guide for iOS](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/iPhoneAccessibility/Introduction/Introduction.html#//apple_ref/doc/uid/TP40008785-CH1-SW1)
 * [Guide de développement d'applications mobiles accessibles avec l'API iOS](https://github.com/DISIC/guide-mobile_app_dev_natif/blob/master/ios.md)
 * [Introduction to supporting Dynamic Type](https://fluffy.es/introduction-to-dynamic-type)
