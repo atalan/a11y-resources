@@ -8,13 +8,7 @@
 - [ARIA](#aria)
 - [Awareness / Sensibilisation](#awareness--sensibilisation)
 - [CAPTCHA](#captcha)
-- [CSS](#css)
 - [Dyslexia  / Dyslexie](#dyslexia---dyslexie)
-- [ePub](#epub)
-- [Framework](#framework)
-	- [AngularJS](#angularjs)
-	- [Bootstrap](#bootstrap)
-	- [React](#react)
 - [Guidelines / Notices et référentiels](#guidelines--notices-et-référentiels)
 - [HTML5](#html5)
 - [Images](#images)
@@ -49,23 +43,20 @@
 
 ## Adobe Acrobat
 * [Accessible Forms in Acrobat XI](http://webaim.org/techniques/acrobat/forms)
-* [Authoring Techniques for Accessible Office Documents: Adobe Acrobat 10 Pro](http://adod.idrc.ocad.ca/acrobat10)
-* [Authoring Techniques for Accessible Office Documents: Adobe Acrobat 11 Pro](http://adod.idrc.ocad.ca/acrobat11)
 * [Creating Accessible PDF Documents In Adobe Acrobat X](http://ncdae.org/resources/cheatsheets/acrobat.php)
 
 ## ARIA
-* [Accessibilité du Web - L'ergonomie avec WAI-ARIA](http://aria.inlb.qc.ca/)
-* [Accessible Rich Internet Applications (WAI-ARIA) 1.1](https://www.w3.org/TR/wai-aria/)
-* [Notes on Using ARIA in HTML](https://www.w3.org/TR/aria-in-html/)
-* [WAI-ARIA 1.1 Cheat Sheet](https://www.cheatography.com/jreiche/cheat-sheets/wai-aria-1-1/)
-* [WAI-ARIA Authoring Practices 1.1](https://www.w3.org/TR/wai-aria-practices/)
-* [WAI-ARIA Landmark Roles Cheatsheet](http://mcdlr.com/wai-aria-cheatsheet/)
+* [Accessibilité du Web - L'ergonomie avec WAI-ARIA](http://aria.inlb.qc.ca)
+* [Accessible Rich Internet Applications (WAI-ARIA) 1.1](https://www.w3.org/TR/wai-aria)
+* [Using ARIA](https://www.w3.org/TR/aria-in-html)
+* [WAI-ARIA 1.1 Cheat Sheet](https://www.cheatography.com/jreiche/cheat-sheets/wai-aria-1-1)
+* [WAI-ARIA Authoring Practices 1.1](https://www.w3.org/TR/wai-aria-practices)
+* [WAI-ARIA Landmark Roles Cheatsheet](http://mcdlr.com/wai-aria-cheatsheet)
 
 ## Awareness / Sensibilisation
 * [Article 47 de la loi du 11 février 2005 pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées](https://www.legifrance.gouv.fr/affichTexteArticle.do;jsessionid=978CC96B3C422F39DC155162B89BC9B7.tplgfr35s_1?idArticle=LEGIARTI000037388867&cidTexte=JORFTEXT000000809647&categorieLien=id&dateTexte=)
 * [Décret relatif à l’accessibilité aux personnes handicapées des services de communication au public en ligne](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000038811937)
 * [Dyslexie et lettres dansantes](http://blog.atalan.fr/dyslexie-lettres-dansent/)
-* [Étude sur l'usage des lecteurs d'écran en France et en Francophonie (Juin 2016 - PDF - 1 Mo)](http://www.aveuglesdefrance.org/sites/default/files/2016-06/Rapport_final_Etude-lecteurs-ecran-France-Francophonie_01062016.pdf)
 * [Faire fonctionner la technologie pour tous : une introduction à l’accessibilité numérique](http://blog.atalan.fr/video-faire-fonctionner-la-technologie-pour-tous-une-introduction-a-laccessibilite-numerique/)
 * [Global Accessibility Laws (Map)](https://framacarte.org/fr/map/global-accessibility-laws_33141#6/51.000/2.000)
 * [L’accessibilité numérique, et si nous agissions ?](https://atalan.fr/agissons/fr/index.html)
@@ -75,40 +66,16 @@
 * [Web Accessibility Related Lawsuits and Settlements in the United States](http://karlgroves.github.io/a11y-lawsuits/lawsuits.html)
 
 ## CAPTCHA
-* [Accessibility and Security](http://incl.ca/accessibility-and-security/)
+* [Accessibility and Security](http://incl.ca/accessibility-and-security)
 * [Captcha Alternatives and thoughts](https://www.w3.org/WAI/GL/wiki/Captcha_Alternatives_and_thoughts)
 * [Éviter le spam sans captcha](http://www.anysurfer.be/fr/en-pratique/sites-web/eviter-le-spam-sans-captcha)
-* [L'inaccessibilité des « CAPTCHA »](http://www.yoyodesign.org/doc/w3c/turingtest-20051123/)
-* [TextCaptcha, a source of simple textual CAPTCHA challenges](http://textcaptcha.com/)
-
-## CSS
-* [Accessible footnotes with CSS](http://codepen.io/SitePoint/pen/QbMgvY)
-* [Bulletproof Accessible Icon Fonts](https://www.filamentgroup.com/lab/bulletproof_icon_fonts.html)
-* [Flexbox Tests](http://sprungmarker.de/wp-content/uploads/css-a11y-group/css-a11y-flexbox.html)
-* [HTML Source Order vs CSS Display Order](http://adrianroselli.com/2015/10/html-source-order-vs-css-display-order.html)
+* [Inaccessibility of CAPTCHA](https://www.w3.org/TR/turingtest)
+* [TextCaptcha, a source of simple textual CAPTCHA challenges](http://textcaptcha.com)
 
 ## Dyslexia  / Dyslexie 
 * [Accessible-Dfa: a legible font](https://github.com/Orange-OpenSource/font-accessible-dfa)
 * [Guide des troubles DYS](https://github.com/DISIC/guide-troubles_DYS/blob/master/Guide-des-troubles-DYS.pdf)
-* [OpenDyslexic](http://opendyslexic.org/)
 * [Optimal Colors to Improve Readability for People with Dyslexia](https://www.w3.org/WAI/RD/2012/text-customization/r11)
-
-## ePub
-* [13 Keys to Accessible EPUB3 Documents](http://vprompt.com/2014/08/13-keys-accessible-epub3-documents/)
-* [Inclusive EPUB 3](http://handbook.floeproject.org/InclusiveEPUB3.html)
-* [Top Tips for Creating Accessible EPUB 3 Files](http://diagramcenter.org/54-9-tips-for-creating-accessible-epub-3-files.html)
-* [Using Adobe InDesign to create accessible EPUB 3 files](http://www.daisy.org/daisypedia/using-adobe-indesign-create-accessible-epub-3-files)
-
-## Framework
-
-### AngularJS
-* [Single page applications, Angular.js and accessibility](http://simplyaccessible.com/article/spangular-accessibility/)
-
-### Bootstrap
-* [Orange Boosted with Bootstrap](http://boosted.orange.com/)
-
-### React
-* [Reakit, build accessible rich web apps with React](https://reakit.io/)
 
 ## Guidelines / Notices et référentiels
 * [18F Accessibility Guide](https://accessibility.18f.gov/)
