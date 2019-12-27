@@ -155,8 +155,7 @@
 * [Creating Accessible Microsoft PowerPoint 2007/ 2010 Presentations](http://ncdae.org/resources/cheatsheets/powerpoint.php)
 * [Make your PowerPoint presentations accessible](https://support.office.com/en-US/Article/Creating-accessible-PowerPoint-presentations-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25?ui=en-US&rs=en-US&ad=US)
 * [Rendre vos présentations PowerPoint accessibles](https://support.office.com/fr-fr/article/Cr%C3%A9ation-de-pr%C3%A9sentations-PowerPoint-accessibles-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25?ui=fr-FR&rs=fr-FR&ad=FR)
-* [PowerPoint 2013 – Accessibility (PDF – 493 Ko)](https://www.ipfw.edu/dotAsset/88c0cd6a-ac6d-448d-a183-a346da922ecf.pdf)
-* [PowerPoint Accessibility](https://webaim.org/techniques/powerpoint/)
+* [PowerPoint Accessibility](https://webaim.org/techniques/powerpoint)
 
 ## Rich interface components / Composants d’interface riche
 
