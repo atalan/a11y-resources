@@ -5,6 +5,7 @@
 ## Summary / Sommaire
 
 - [Adobe Acrobat](#adobe-acrobat)
+- [Android](#android)
 - [ARIA](#aria)
 - [Awareness / Sensibilisation](#awareness--sensibilisation)
 - [CAPTCHA](#captcha)
@@ -15,7 +16,6 @@
 - [InDesign](#indesign)
 - [Keyboard navigation / Navigation au clavier](#keyboard-navigation--navigation-au-clavier)
 - [Live regions / Régions dynamiques](#live-regions--régions-dynamiques)
-- [Android](#android)
 - [iOS](#ios)
 - [Placeholder](#placeholder)
 - [Powerpoint](#powerpoint)
@@ -43,6 +43,17 @@
 ## Adobe Acrobat
 * [Accessible Forms in Acrobat XI](http://webaim.org/techniques/acrobat/forms)
 * [Creating Accessible PDF Documents In Adobe Acrobat X](http://ncdae.org/resources/cheatsheets/acrobat.php)
+
+## Android
+* [Accessibility testing with Android Talkback](https://www.paciellogroup.com/blog/2015/10/accessibility-testing-with-android-talkback/)
+* [Accessible Tabbed Navigation in Android](http://www.deque.com/blog/tabbed-navigation/)
+* [Accessible Text Input in Android](http://www.deque.com/blog/accessible-text-input-android/)
+* [Android Accessibility Help Center](https://support.google.com/accessibility/android)
+* [Android App Accessibility Checklist](https://www.sitepoint.com/android-app-accessibility-checklist/)
+* [An Introduction to Android Accessibility Features](https://www.sitepoint.com/introduction-android-accessibility-features/)
+* [Guide de développement d'applications accessibles mobiles avec l'API Android](https://github.com/DISIC/guide-mobile_app_dev_natif/blob/master/android.md)
+* [How to Make Android ImageViews Accessible with Content Descriptions](http://www.deque.com/blog/android-imageviews-accessible-content-descriptions/)
+* [Référence des gestes de TalkBack sous Android 4.1, 4.2 et 4.3](http://blog.atalan.fr/reference-des-gestes-de-talkback-sous-android-4-1-4-2-et-4-3/)
 
 ## ARIA
 * [Accessibilité du Web - L'ergonomie avec WAI-ARIA](http://aria.inlb.qc.ca)
@@ -125,17 +136,6 @@
 ## Live regions / Régions dynamiques
 * [Test Cases](http://accessibleajax.clcworld.net/)
 * [WAI-ARIA Live Regions Updated](http://juicystudio.com/article/wai-aria_live-regions_updated.php)
-
-## Android
-* [Accessibility testing with Android Talkback](https://www.paciellogroup.com/blog/2015/10/accessibility-testing-with-android-talkback/)
-* [Accessible Tabbed Navigation in Android](http://www.deque.com/blog/tabbed-navigation/)
-* [Accessible Text Input in Android](http://www.deque.com/blog/accessible-text-input-android/)
-* [Android Accessibility Help Center](https://support.google.com/accessibility/android)
-* [Android App Accessibility Checklist](https://www.sitepoint.com/android-app-accessibility-checklist/)
-* [An Introduction to Android Accessibility Features](https://www.sitepoint.com/introduction-android-accessibility-features/)
-* [Guide de développement d'applications accessibles mobiles avec l'API Android](https://github.com/DISIC/guide-mobile_app_dev_natif/blob/master/android.md)
-* [How to Make Android ImageViews Accessible with Content Descriptions](http://www.deque.com/blog/android-imageviews-accessible-content-descriptions/)
-* [Référence des gestes de TalkBack sous Android 4.1, 4.2 et 4.3](http://blog.atalan.fr/reference-des-gestes-de-talkback-sous-android-4-1-4-2-et-4-3/)
 
 ## iOS
 * [Accessibility Programming Guide for iOS](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/iPhoneAccessibility/Introduction/Introduction.html#//apple_ref/doc/uid/TP40008785-CH1-SW1)
