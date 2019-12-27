@@ -145,15 +145,13 @@
 
 ## Placeholder
 * [11 reasons why placeholders are problematic](https://medium.com/simple-human/10-reasons-why-placeholders-are-problematic-f8079412b960#.6t788f8x7)
-* [Accessible Floating Labels](http://codepen.io/AllThingsSmitty/pen/VjykOz)
-* [Can I use placeholders instead of labels?](http://help.pardot.com/customer/portal/articles/2126649-can-i-use-placeholders-instead-of-labels-)
-* [Floated Labels](http://codepen.io/soulrider911/pen/ugnyl)
-* [Flowup Labels](http://www.enfos.com/FlowupLabels.js/demo/)
-* [placeholder et accessibilité](http://blog.atalan.fr/placeholder-et-accessibilite/)
+* [Accessible Floating Labels](https://codepen.io/AllThingsSmitty/full/VjykOz)
+* [Floated Labels](https://codepen.io/soulrider911/full/ugnyl)
+* [Flowup Labels](http://www.enfos.com/FlowupLabels.js/demo)
+* [placeholder et accessibilité](http://blog.atalan.fr/placeholder-et-accessibilite)
 * [Text Input Effects](http://tympanus.net/Development/TextInputEffects/index.html)
 
 ## Powerpoint
-* [Authoring Techniques for Accessible Office Documents: Microsoft PowerPoint 2010](http://adod.idrc.ocad.ca/powerpoint2010)
 * [Creating Accessible Microsoft PowerPoint 2007/ 2010 Presentations](http://ncdae.org/resources/cheatsheets/powerpoint.php)
 * [Make your PowerPoint presentations accessible](https://support.office.com/en-US/Article/Creating-accessible-PowerPoint-presentations-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25?ui=en-US&rs=en-US&ad=US)
 * [Rendre vos présentations PowerPoint accessibles](https://support.office.com/fr-fr/article/Cr%C3%A9ation-de-pr%C3%A9sentations-PowerPoint-accessibles-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25?ui=fr-FR&rs=fr-FR&ad=FR)
