@@ -93,6 +93,7 @@
 * [Accessibility Developer Guide](https://www.accessibility-developer-guide.com)
 * [Accessibility for Teams](https://accessibility.digital.gov)
 * [Accessibility Guidelines](http://accessibility.voxmedia.com)
+* [Accessibility Guidelines Summary](https://theappbusiness.github.io/accessibility-guidelines)
 * [Accessibility Support](https://a11ysupport.io)
 * [Getting Started with Web Accessibility](https://www.w3.org/WAI/gettingstarted/Overview.html)
 * [How to Meet WCAG (Quick Reference)](https://www.w3.org/WAI/WCAG21/quickref)
@@ -119,6 +120,7 @@
 
 ## InDesign
 * [Creating Accessible Adobe InDesign CS5.5 PDF Documents](http://ncdae.org/resources/cheatsheets/indesign.php)
+* [Creating Accessible Documents with Adobe InDesign](https://mn.gov/mnit/assets/indesign-accessible-documents_tcm38-413703.pdf)
 * [Créer des documents PDF accessibles avec InDesign](http://anysurfer.be/fr/en-pratique/documents/pdf/indesign)
 * [Principes d’accessibilité avec Adobe InDesign (PDF – 1,75 Mo)](http://www.tresor.gouv.qc.ca/fileadmin/PDF/ressources_informationnelles/AccessibiliteWeb/principes_accessibilite_indesign.pdf)
 
@@ -126,8 +128,9 @@
 * [Accessibility Programming Guide for iOS](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/iPhoneAccessibility/Introduction/Introduction.html#//apple_ref/doc/uid/TP40008785-CH1-SW1)
 * [Guide de développement d'applications mobiles accessibles avec l'API iOS](https://github.com/DISIC/guide-mobile_app_dev_natif/blob/master/ios.md)
 * [Introduction to supporting Dynamic Type](https://fluffy.es/introduction-to-dynamic-type)
-* [Référence des gestes de VoiceOver sous iOS](http://blog.atalan.fr/reference-gestes-voiceover-ios/)
-* [What iOS Traits Actually Do](http://www.deque.com/blog/ios-traits/)
+* [iOS Accessibility: Getting Started](https://www.raywenderlich.com/6827616-ios-accessibility-getting-started)
+* [Référence des gestes de VoiceOver sous iOS](http://blog.atalan.fr/reference-gestes-voiceover-ios)
+* [What iOS Traits Actually Do](http://www.deque.com/blog/ios-traits)
 
 ## Keyboard navigation / Navigation au clavier
 * [A lightweight script to animate scrolling to anchor links](https://github.com/cferdinandi/smooth-scroll)
@@ -156,6 +159,7 @@
 * [Make your PowerPoint presentations accessible](https://support.office.com/en-US/Article/Creating-accessible-PowerPoint-presentations-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25?ui=en-US&rs=en-US&ad=US)
 * [Rendre vos présentations PowerPoint accessibles](https://support.office.com/fr-fr/article/Cr%C3%A9ation-de-pr%C3%A9sentations-PowerPoint-accessibles-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25?ui=fr-FR&rs=fr-FR&ad=FR)
 * [PowerPoint Accessibility](https://webaim.org/techniques/powerpoint)
+* [PowerPoint Accessibility Checklist](https://mn.gov/mnit/media/blog/?id=38-417349)
 
 ## Rich interface components / Composants d’interface riche
 
@@ -346,12 +350,14 @@
 * [Grille d’analyse des contrastes d’une charte](http://blog.atalan.fr/grille-contrastes-accessibilite-charte-graphique)
 * [Hex Naw, a color accessibility tool](https://hexnaw.com)
 * [I want to see like the colour blind (Chrome extension)](https://chrome.google.com/webstore/detail/i-want-to-see-like-the-co/jebeedfnielkcjlcokhiobodkjjpbjia)
+* [Leonardo](https://leonardocolor.io)
 * [Link Contrast Checker](https://webaim.org/resources/linkcontrastchecker)
 * [lowvision.support](http://lowvision.support)
 * [NoCoffee (Chrome extension)](https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl)
 * [Random A11y Color Palettes](http://www.randoma11y.com)
 * [SEE (Chrome extension)](https://chrome.google.com/webstore/detail/see/dkihcccbkkakkbpikjmpnbamkgbjfdcn)
 * [Text on background image a11y check](http://www.brandwood.com/a11y)
+* [The Contrast Triangle](https://contrast-triangle.com)
 * [WCAG Contrast checker (Firefox extension)](https://addons.mozilla.org/fr/firefox/addon/wcag-contrast-checker)
 * [Who Can Use](https://whocanuse.com)
 
