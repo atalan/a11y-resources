@@ -181,7 +181,6 @@
 * [Frend, a collection of accessible modern front-end components](https://frend.co)
 * [Inclusive Components](http://inclusive-components.club)
 * [Orejime (Cookie Consent Manager)](https://orejime.netlify.com)
-* [Practical ARIA examples](http://heydonworks.com/practical_aria_examples)
 * [Scampi](http://pidila.gitlab.io/scampi)
 * [Van11y (Vanilla a11y) accessible scripts of rich interface elements](https://van11y.net)
 * [Simply Accessible](http://examples.simplyaccessible.com)
