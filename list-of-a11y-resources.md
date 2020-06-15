@@ -189,9 +189,7 @@
 * [Accessible expand and collapse demo](https://codepen.io/petervangrieken/full/jqVYej)
 * [Collapsible Sections](https://inclusive-components.design/collapsible-sections)
 * [handorgel](https://oncode.github.io/handorgel)
-* [jQuery accessible accordion system, using ARIA](https://a11y.nicolas-hoffmann.net/accordion)
 * [jQuery simple and accessible hide-show system (collapsible regions), using ARIA](https://a11y.nicolas-hoffmann.net/hide-show)
-* [Van11y (Vanilla a11y) accessible accordion system, using ARIA](https://van11y.net/accessible-accordion)
 * [Van11y (Vanilla a11y) simple and accessible hide-show system (collapsible regions), using ARIA](https://van11y.net/accessible-hide-show)
 
 ### Autocomplete / Autocomplétion
