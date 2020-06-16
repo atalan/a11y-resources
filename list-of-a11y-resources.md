@@ -28,11 +28,13 @@
 	- [Datepicker](#datepicker)
 	- [Drag and Drop](#drag-and-drop)
 	- [Form / Formulaire](#form--formulaire)
+	- [Hamburger menu / Menu hamburger](#hamburger-menu--menu-hamburger)
 	- [Menu](#menu)
 	- [Modal / Modale](#modal--modale)
 	- [Radio buttons / Boutons radio](#radio-buttons--boutons-radio)
 	- [Tabs / Onglets](#tabs--onglets)
 	- [Tooltip / Infobulle](#tooltip--infobulle)
+	- [Tree view / Arborescence](#tree-view--arborescence)
 - [Tools / Outils](#tools--outils)
 	- [Colors / Couleurs](#colors--couleurs)
 	- [Vidéo](#vidéo)
@@ -237,10 +239,9 @@
 * [Personnaliser l’aspect de boutons radio et checkbox en CSS](http://www.creativejuiz.fr/blog/tutoriels/personnaliser-aspect-boutons-radio-checkbox-css)
 * [The Accessibility of Styled Form Controls](https://scottaohara.github.io/a11y_styled_form_controls)
 
-### Menu
+### Hamburger menu / Menu hamburger
 * [Accessible Hamburger Menu](http://pauljadam.com/demos/hamburger-menu.html)
 * [Accessible Slide Menu](https://codepen.io/marcysutton/full/JoQqVw)
-* [Tree Menu](http://files.paciellogroup.com/training/commonsamples/tpglibsamples/aria/tree/index.html)
 
 ### Modal / Modale
 * [A11y Dialog](http://edenspiekermann.github.io/a11y-dialog)
@@ -273,6 +274,9 @@
 * [Positioning Tooltips Above Triggers](https://jsfiddle.net/obsqynyp/4)
 * [Tooltips & Toggletips](https://inclusive-components.design/tooltips-toggletips)
 * [Van11y (Vanilla a11y) accessible simple tooltip using ARIA](https://van11y.net/accessible-simple-tooltip)
+
+### Tree view / Arborescence
+* [Tree Example](http://files.paciellogroup.com/training/commonsamples/tpglibsamples/aria/tree/index.html)
 
 ## Tools / Outils
 * [A11y](http://a11y-app.herokuapp.com)
