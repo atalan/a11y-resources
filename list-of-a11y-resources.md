@@ -275,9 +275,12 @@
 * [Van11y (Vanilla a11y) accessible tab panel using ARIA](https://van11y.net/accessible-tab-panel)
 
 ### Tooltip / Infobulle
+* [ARIA Tooltip Example](http://accessibility.athena-ict.com/aria/examples/tooltip.shtml)
 * [Button with pop-over aria-label](https://jsfiddle.net/russambiata/55L1jcwb)
 * [jQuery simple and accessible dialog tooltip window](https://a11y.nicolas-hoffmann.net/dialog-tooltip)
 * [Positioning Tooltips Above Triggers](https://jsfiddle.net/obsqynyp/4)
+* [Tooltip](https://dequeuniversity.com/library/aria/tooltip)
+* [Tooltip | jQuery UI](https://jqueryui.com/tooltip)
 * [Tooltips & Toggletips](https://inclusive-components.design/tooltips-toggletips)
 * [Van11y (Vanilla a11y) accessible simple tooltip using ARIA](https://van11y.net/accessible-simple-tooltip)
 
