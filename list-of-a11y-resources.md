@@ -32,6 +32,7 @@
 	- [Menu](#menu)
 	- [Modal / Modale](#modal--modale)
 	- [Radio buttons / Boutons radio](#radio-buttons--boutons-radio)
+	- [Slider](#slider)
 	- [Tabs / Onglets](#tabs--onglets)
 	- [Tooltip / Infobulle](#tooltip--infobulle)
 	- [Tree view / Arborescence](#tree-view--arborescence)
@@ -233,7 +234,6 @@
 
 ### Form / Formulaire
 * [Accessible Inline Radio Inputs](https://codepen.io/atalan/full/JpopzQ)
-* [Creating an Accessible Range Slider with CSS](https://www.a11ywithlindsey.com/blog/creating-accessible-range-slider-css)
 * [Full Password Example](https://www.w3.org/WAI/tutorials/forms/examples/password)
 * [Non-editable combobox with multiselect listbox](http://accessibleculture.org/misc/aria/combobox/combobox.html)
 * [Personnaliser l’aspect de boutons radio et checkbox en CSS](http://www.creativejuiz.fr/blog/tutoriels/personnaliser-aspect-boutons-radio-checkbox-css)
@@ -259,6 +259,11 @@
 ### Radio buttons / Boutons radio
 * [Radio and Radio Group](https://dequeuniversity.com/library/aria/radio-and-radio-group)
 * [Radio Group Example Using Roving tabindex](https://www.w3.org/TR/wai-aria-practices/examples/radio/radio-1/radio-1.html)
+
+### Slider
+* [Creating an Accessible Range Slider with CSS](https://www.a11ywithlindsey.com/blog/creating-accessible-range-slider-css)
+* [Horizontal Slider Example](https://www.w3.org/TR/wai-aria-practices-1.1/examples/slider/slider-1.html)
+* [Slider Examples with aria-orientation and aria-valuetext](https://www.w3.org/TR/wai-aria-practices-1.1/examples/slider/slider-2.html)
 
 ### Tabs / Onglets
 * [Awesome Accessible Tabpanel](https://codepen.io/pankajparashar/full/oJEAF)
