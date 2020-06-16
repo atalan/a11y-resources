@@ -267,10 +267,16 @@
 * [Slider Examples with aria-orientation and aria-valuetext](https://www.w3.org/TR/wai-aria-practices-1.1/examples/slider/slider-2.html)
 
 ### Tabs / Onglets
+* [Accessible ARIA Tabs](http://examples.simplyaccessible.com/ala/tabs.html)
 * [Awesome Accessible Tabpanel](https://codepen.io/pankajparashar/full/oJEAF)
+* [Example of Tabs with Automatic Activation](https://www.w3.org/TR/wai-aria-practices/examples/tabs/tabs-1/tabs.html)
 * [jQuery Accessible tab panel system](https://a11y.nicolas-hoffmann.net/tabs)
+* [Onglets](http://a11y.switch.paris/onglet.html)
 * [Responsive Tabs/Accordion](https://codepen.io/mpiotrowicz/full/gocmu)
+* [Système d'onglets avec substitut pour le responsive](http://www.romaingervois.fr/implementations/tabs-responsive.html)
 * [Tabbed Interfaces](https://inclusive-components.design/tabbed-interfaces)
+* [Tab Panel](http://oaa-accessibility.org/example/34)
+* [Tab Panel: ARIA CSS Selectors](http://oaa-accessibility.org/example/36)
 * [Tab Panel Example](https://weboverhauls.github.io/demos/tab-panel)
 * [Van11y (Vanilla a11y) accessible tab panel using ARIA](https://van11y.net/accessible-tab-panel)
 
