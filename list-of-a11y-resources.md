@@ -233,7 +233,6 @@
 * [Dragon Drop](https://schne324.github.io/dragon-drop/demo/)
 
 ### Form / Formulaire
-* [Accessible Inline Radio Inputs](https://codepen.io/atalan/full/JpopzQ)
 * [Full Password Example](https://www.w3.org/WAI/tutorials/forms/examples/password)
 * [Non-editable combobox with multiselect listbox](http://accessibleculture.org/misc/aria/combobox/combobox.html)
 * [Personnaliser l’aspect de boutons radio et checkbox en CSS](http://www.creativejuiz.fr/blog/tutoriels/personnaliser-aspect-boutons-radio-checkbox-css)
