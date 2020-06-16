@@ -24,6 +24,7 @@
 	- [Accordion  / Accordéon](#accordion---accordéon)
 	- [Autocomplete / Autocomplétion](#autocomplete--autocomplétion)
 	- [Carousel / Carrousel](#carousel--carrousel)
+	- [Checkbox / Case à cocher](#checkbox--case-à-cocher)
 	- [Datepicker](#datepicker)
 	- [Drag and Drop](#drag-and-drop)
 	- [Form / Formulaire](#form--formulaire)
@@ -212,6 +213,10 @@
 * [Carrousel](http://www.romaingervois.fr/carrousel)
 * [jQuery Accessible Carrousel System](https://a11y.nicolas-hoffmann.net/carrousel)
 * [Van11y (Vanilla a11y) accessible carousel using ARIA](https://van11y.net/accessible-carrousel)
+
+### Checkbox / Case à cocher
+* [Checkbox Example (Two State)](https://www.w3.org/TR/wai-aria-practices/examples/checkbox/checkbox-1/checkbox-1.html)
+* [Checkbox (Single)](https://dequeuniversity.com/library/aria/checkbox-single)
 
 ### Datepicker
 * [Accessible Bootstrap Date Picker](http://eureka2.github.io/ab-datepicker)
