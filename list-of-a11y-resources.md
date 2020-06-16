@@ -29,7 +29,6 @@
 	- [Drag and Drop](#drag-and-drop)
 	- [Form / Formulaire](#form--formulaire)
 	- [Hamburger menu / Menu hamburger](#hamburger-menu--menu-hamburger)
-	- [Menu](#menu)
 	- [Modal / Modale](#modal--modale)
 	- [Radio buttons / Boutons radio](#radio-buttons--boutons-radio)
 	- [Slider](#slider)
