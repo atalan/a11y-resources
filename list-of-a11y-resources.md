@@ -192,9 +192,11 @@
 
 ### Accordion  / Accordéon
 * [Accessible expand and collapse demo](https://codepen.io/petervangrieken/full/jqVYej)
+* [Accordion Example](https://www.w3.org/TR/wai-aria-practices/examples/accordion/accordion.html)
 * [Collapsible Sections](https://inclusive-components.design/collapsible-sections)
 * [handorgel](https://oncode.github.io/handorgel)
 * [jQuery simple and accessible hide-show system (collapsible regions), using ARIA](https://a11y.nicolas-hoffmann.net/hide-show)
+* [Progressively enhanced ARIA accordions](https://scottaohara.github.io/a11y_accordions)
 * [Van11y (Vanilla a11y) simple and accessible hide-show system (collapsible regions), using ARIA](https://van11y.net/accessible-hide-show)
 
 ### Autocomplete / Autocomplétion
