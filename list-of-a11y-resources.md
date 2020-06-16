@@ -234,7 +234,6 @@
 ### Menu
 * [Accessible Hamburger Menu](http://pauljadam.com/demos/hamburger-menu.html)
 * [Accessible Slide Menu](https://codepen.io/marcysutton/full/JoQqVw)
-* [Fly-out Menus](https://www.w3.org/WAI/tutorials/menus/flyout)
 * [Tree Menu](http://files.paciellogroup.com/training/commonsamples/tpglibsamples/aria/tree/index.html)
 
 ### Modal / Modale
