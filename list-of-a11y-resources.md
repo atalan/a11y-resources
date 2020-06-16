@@ -23,13 +23,13 @@
 	- [Library / Librairie](#library--librairie)
 	- [Accordion  / Accordéon](#accordion---accordéon)
 	- [Autocomplete / Autocomplétion](#autocomplete--autocomplétion)
-	- [Radio buttons / Boutons radio](#radio-buttons-boutons-radio)
 	- [Carousel / Carrousel](#carousel--carrousel)
 	- [Datepicker](#datepicker)
 	- [Drag and Drop](#drag-and-drop)
 	- [Form / Formulaire](#form--formulaire)
 	- [Menu](#menu)
 	- [Modal / Modale](#modal--modale)
+	- [Radio buttons / Boutons radio](#radio-buttons--boutons-radio)
 	- [Tabs / Onglets](#tabs--onglets)
 	- [Tooltip / Infobulle](#tooltip--infobulle)
 - [Tools / Outils](#tools--outils)
@@ -206,10 +206,6 @@
 * [selectWoo](https://woocommerce.wordpress.com/2017/08/08/selectwoo-an-accessible-replacement-for-select2)
 * [We’re building an autocomplete](https://designnotes.blog.gov.uk/2017/04/20/were-building-an-autocomplete)
 
-### Radio buttons / Boutons radio
-* [Radio and Radio Group](https://dequeuniversity.com/library/aria/radio-and-radio-group)
-* [Radio Group Example Using Roving tabindex](https://www.w3.org/TR/wai-aria-practices/examples/radio/radio-1/radio-1.html)
-
 ### Carousel / Carrousel
 * [A Content Slider](https://inclusive-components.design/a-content-slider)
 * [Carousel](https://www.w3.org/WAI/tutorials/carousels/working-example)
@@ -253,6 +249,10 @@
 * [The Incredible Accessible Modal Window, Version 4](http://gdkraus.github.io/accessible-modal-dialog)
 * [Une fenêtre modale accessible](https://jolicode.com/blog/une-fenetre-modale-accessible)
 * [Van11y (Vanilla a11y) accessible modal window using ARIA](https://van11y.net/accessible-modal)
+
+### Radio buttons / Boutons radio
+* [Radio and Radio Group](https://dequeuniversity.com/library/aria/radio-and-radio-group)
+* [Radio Group Example Using Roving tabindex](https://www.w3.org/TR/wai-aria-practices/examples/radio/radio-1/radio-1.html)
 
 ### Tabs / Onglets
 * [Awesome Accessible Tabpanel](https://codepen.io/pankajparashar/full/oJEAF)
