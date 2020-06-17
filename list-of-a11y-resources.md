@@ -186,7 +186,7 @@
 * [Inclusive Components](http://inclusive-components.club)
 * [Orejime (Cookie Consent Manager)](https://orejime.netlify.com)
 * [Scampi](http://pidila.gitlab.io/scampi)
-* [Van11y (Vanilla a11y) accessible scripts of rich interface elements](https://van11y.net)
+* [Van11y, a collection of accessible scripts](https://van11y.net)
 * [Simply Accessible](http://examples.simplyaccessible.com)
 
 ### Accordion  / Accordéon
