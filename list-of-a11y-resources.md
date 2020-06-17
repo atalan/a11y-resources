@@ -279,7 +279,6 @@
 * [jQuery accessible simple tooltip, using ARIA](https://a11y.nicolas-hoffmann.net/simple-tooltip)
 * [jQuery simple and accessible dialog tooltip window, using ARIA](https://a11y.nicolas-hoffmann.net/dialog-tooltip)
 * [Tooltip](https://dequeuniversity.com/library/aria/tooltip)
-* [Tooltip | jQuery UI](https://jqueryui.com/tooltip)
 * [Tooltips & Toggletips](https://inclusive-components.design/tooltips-toggletips)
 * [Van11y (Vanilla a11y) accessible simple tooltip using ARIA](https://van11y.net/accessible-simple-tooltip)
 
