@@ -265,7 +265,7 @@
 * [Accessible ARIA Tabs](http://examples.simplyaccessible.com/ala/tabs.html)
 * [Awesome Accessible Tabpanel](https://codepen.io/pankajparashar/full/oJEAF)
 * [Example of Tabs with Automatic Activation](https://www.w3.org/TR/wai-aria-practices/examples/tabs/tabs-1/tabs.html)
-* [jQuery Accessible tab panel system](https://a11y.nicolas-hoffmann.net/tabs)
+* [jQuery Accessible tab panel system, using ARIA](https://a11y.nicolas-hoffmann.net/tabs)
 * [Onglets](http://a11y.switch.paris/onglet.html)
 * [Responsive Tabs/Accordion](https://codepen.io/mpiotrowicz/full/gocmu)
 * [Système d'onglets avec substitut pour le responsive](http://www.romaingervois.fr/implementations/tabs-responsive.html)
