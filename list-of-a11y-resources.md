@@ -194,9 +194,9 @@
 * [Accordion Example](https://www.w3.org/TR/wai-aria-practices/examples/accordion/accordion.html)
 * [Collapsible Sections](https://inclusive-components.design/collapsible-sections)
 * [handorgel](https://oncode.github.io/handorgel)
-* [jQuery simple and accessible hide-show system (collapsible regions), using ARIA](https://a11y.nicolas-hoffmann.net/hide-show)
+* [jQuery simple and accessible hide-show system, using ARIA](https://a11y.nicolas-hoffmann.net/hide-show)
 * [Progressively enhanced ARIA accordions](https://scottaohara.github.io/a11y_accordions)
-* [Van11y (Vanilla a11y) simple and accessible hide-show system (collapsible regions), using ARIA](https://van11y.net/accessible-hide-show)
+* [Accessible hide/show using ARIA](https://van11y.net/accessible-hide-show)
 
 ### Autocomplete / Autocomplétion
 * [Accessible Autocomplete](http://haltersweb.github.io/Accessibility/autocomplete.html)
@@ -280,7 +280,7 @@
 * [jQuery simple and accessible dialog tooltip window, using ARIA](https://a11y.nicolas-hoffmann.net/dialog-tooltip)
 * [Tooltip](https://dequeuniversity.com/library/aria/tooltip)
 * [Tooltips & Toggletips](https://inclusive-components.design/tooltips-toggletips)
-* [Van11y (Vanilla a11y) accessible simple tooltip using ARIA](https://van11y.net/accessible-simple-tooltip)
+* [Accessible simple tooltip using ARIA](https://van11y.net/accessible-simple-tooltip)
 
 ### Tree view / Arborescence
 * [Tree Example](http://files.paciellogroup.com/training/commonsamples/tpglibsamples/aria/tree/index.html)
