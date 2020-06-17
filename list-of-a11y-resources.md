@@ -272,7 +272,7 @@
 * [Tabbed Interfaces](https://inclusive-components.design/tabbed-interfaces)
 * [Tab Panel: ARIA CSS Selectors](http://oaa-accessibility.org/example/36)
 * [Tab Panel Example](https://weboverhauls.github.io/demos/tab-panel)
-* [Van11y (Vanilla a11y) accessible tab panel using ARIA](https://van11y.net/accessible-tab-panel)
+* [Accessible tab panel using ARIA](https://van11y.net/accessible-tab-panel)
 
 ### Tooltip / Infobulle
 * [ARIA Tooltip Example](http://accessibility.athena-ict.com/aria/examples/tooltip.shtml)
