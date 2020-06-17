@@ -278,7 +278,6 @@
 * [ARIA Tooltip Example](http://accessibility.athena-ict.com/aria/examples/tooltip.shtml)
 * [jQuery accessible simple tooltip, using ARIA](https://a11y.nicolas-hoffmann.net/simple-tooltip)
 * [jQuery simple and accessible dialog tooltip window, using ARIA](https://a11y.nicolas-hoffmann.net/dialog-tooltip)
-* [Positioning Tooltips Above Triggers](https://jsfiddle.net/obsqynyp/4)
 * [Tooltip](https://dequeuniversity.com/library/aria/tooltip)
 * [Tooltip | jQuery UI](https://jqueryui.com/tooltip)
 * [Tooltips & Toggletips](https://inclusive-components.design/tooltips-toggletips)
