@@ -215,8 +215,8 @@
 * [A Content Slider](https://inclusive-components.design/a-content-slider)
 * [Carousel](https://www.w3.org/WAI/tutorials/carousels/working-example)
 * [Carrousel](http://www.romaingervois.fr/carrousel)
-* [jQuery Accessible Carrousel System](https://a11y.nicolas-hoffmann.net/carrousel)
-* [Van11y (Vanilla a11y) accessible carousel using ARIA](https://van11y.net/accessible-carrousel)
+* [jQuery Accessible Carrousel System, using ARIA](https://a11y.nicolas-hoffmann.net/carrousel)
+* [Accessible carrousel using ARIA](https://van11y.net/accessible-carrousel)
 
 ### Checkbox / Case à cocher
 * [Checkbox Example (Two State)](https://www.w3.org/TR/wai-aria-practices/examples/checkbox/checkbox-1/checkbox-1.html)
@@ -245,16 +245,12 @@
 
 ### Modal / Modale
 * [A11y Dialog](http://edenspiekermann.github.io/a11y-dialog)
-* [Colorbox Demonstration](http://www.jacklmoore.com/colorbox/example1)
-* [Creating An Accessible Modal Dialog](https://bitsofco.de/accessible-modal-dialog)
-* [jQuery simple and accessible modal window](https://a11y.nicolas-hoffmann.net/modal)
-* [Micromodal](https://micromodal.now.sh)
-* [Modaal](http://www.humaan.com/modaal)
+* [jQuery simple and accessible modal window, using ARIA](https://a11y.nicolas-hoffmann.net/modal)
 * [Modal Dialog Example](http://w3c.github.io/aria-practices/examples/dialog-modal/dialog.html)
 * [Modal Dialog Example 2](https://weboverhauls.github.io/demos/modal/modal_demo2.html)
 * [The Incredible Accessible Modal Window, Version 4](http://gdkraus.github.io/accessible-modal-dialog)
 * [Une fenêtre modale accessible](https://jolicode.com/blog/une-fenetre-modale-accessible)
-* [Van11y (Vanilla a11y) accessible modal window using ARIA](https://van11y.net/accessible-modal)
+* [Accessible modal window using ARIA](https://van11y.net/accessible-modal)
 
 ### Radio buttons / Boutons radio
 * [Radio and Radio Group](https://dequeuniversity.com/library/aria/radio-and-radio-group)
