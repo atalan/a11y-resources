@@ -270,7 +270,6 @@
 * [Responsive Tabs/Accordion](https://codepen.io/mpiotrowicz/full/gocmu)
 * [Système d'onglets avec substitut pour le responsive](http://www.romaingervois.fr/implementations/tabs-responsive.html)
 * [Tabbed Interfaces](https://inclusive-components.design/tabbed-interfaces)
-* [Tab Panel](http://oaa-accessibility.org/example/34)
 * [Tab Panel: ARIA CSS Selectors](http://oaa-accessibility.org/example/36)
 * [Tab Panel Example](https://weboverhauls.github.io/demos/tab-panel)
 * [Van11y (Vanilla a11y) accessible tab panel using ARIA](https://van11y.net/accessible-tab-panel)
