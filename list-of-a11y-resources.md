@@ -245,6 +245,7 @@
 
 ### Modal / Modale
 * [A11y Dialog](http://edenspiekermann.github.io/a11y-dialog)
+* [Dialog (Simple Alert Dialog)](https://dequeuniversity.com/library/aria/simple-alert-dialog)
 * [jQuery simple and accessible modal window, using ARIA](https://a11y.nicolas-hoffmann.net/modal)
 * [Modal Dialog Example](http://w3c.github.io/aria-practices/examples/dialog-modal/dialog.html)
 * [Modal Dialog Example 2](https://weboverhauls.github.io/demos/modal/modal_demo2.html)
