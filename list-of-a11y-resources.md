@@ -248,6 +248,7 @@
 * [jQuery simple and accessible modal window, using ARIA](https://a11y.nicolas-hoffmann.net/modal)
 * [Modal Dialog Example](http://w3c.github.io/aria-practices/examples/dialog-modal/dialog.html)
 * [Modal Dialog Example 2](https://weboverhauls.github.io/demos/modal/modal_demo2.html)
+* [Overlay](http://a11y.switch.paris/overlay.html)
 * [The Incredible Accessible Modal Window, Version 4](http://gdkraus.github.io/accessible-modal-dialog)
 * [Une fenêtre modale accessible](https://jolicode.com/blog/une-fenetre-modale-accessible)
 * [Accessible modal window using ARIA](https://van11y.net/accessible-modal)
