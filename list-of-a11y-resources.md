@@ -102,6 +102,7 @@
 * [Accessibility Guidelines Summary](https://theappbusiness.github.io/accessibility-guidelines)
 * [Accessibility Support](https://a11ysupport.io)
 * [Evaluating Web Accessibility Overview](https://www.w3.org/WAI/test-evaluate)
+* [Expedia Accessibility Guidelines](https://accessibility.expedia.biz)
 * [Getting Started with Web Accessibility](https://www.w3.org/WAI/gettingstarted/Overview.html)
 * [How to Meet WCAG (Quick Reference)](https://www.w3.org/WAI/WCAG21/quickref)
 * [Online Accessibility Toolkit](https://accessibility.sa.gov.au)
@@ -193,6 +194,7 @@
 * [Accessible expand and collapse demo](https://codepen.io/petervangrieken/full/jqVYej)
 * [Accordion Example](https://www.w3.org/TR/wai-aria-practices/examples/accordion/accordion.html)
 * [Collapsible Sections](https://inclusive-components.design/collapsible-sections)
+* [Disclosure Widgets](https://adrianroselli.com/2020/05/disclosure-widgets.html)
 * [handorgel](https://oncode.github.io/handorgel)
 * [jQuery simple and accessible hide-show system, using ARIA](https://a11y.nicolas-hoffmann.net/hide-show)
 * [Progressively enhanced ARIA accordions](https://scottaohara.github.io/a11y_accordions)
@@ -221,6 +223,7 @@
 ### Checkbox / Case à cocher
 * [Checkbox Example (Two State)](https://www.w3.org/TR/wai-aria-practices/examples/checkbox/checkbox-1/checkbox-1.html)
 * [Checkbox (Single)](https://dequeuniversity.com/library/aria/checkbox-single)
+* [Inclusively Hiding & Styling Checkboxes and Radio Buttons](https://www.sarasoueidan.com/blog/inclusively-hiding-and-styling-checkboxes-and-radio-buttons)
 
 ### Datepicker
 * [Accessible Bootstrap Date Picker](http://eureka2.github.io/ab-datepicker)
@@ -255,6 +258,7 @@
 * [Accessible modal window using ARIA](https://van11y.net/accessible-modal)
 
 ### Radio buttons / Boutons radio
+* [Inclusively Hiding & Styling Checkboxes and Radio Buttons](https://www.sarasoueidan.com/blog/inclusively-hiding-and-styling-checkboxes-and-radio-buttons)
 * [Radio and Radio Group](https://dequeuniversity.com/library/aria/radio-and-radio-group)
 * [Radio Group Example Using Roving tabindex](https://www.w3.org/TR/wai-aria-practices/examples/radio/radio-1/radio-1.html)
 
@@ -326,6 +330,7 @@
 * [Pave, four steps to an accessible PDF](http://pave-pdf.org/index.en.html)
 * [PDF Accessibility Checker](http://www.access-for-all.ch/en/pdf-lab/pdf-accessibility-checker-pac.html)
 * [Readability Bookmarklet](https://accessibility.oit.ncsu.edu/tools/readability)
+* [Sa11y](https://ryersondmp.github.io/sa11y)
 * [Scolarius](http://www.scolarius.com/submissions/28326)
 * [Siteimprove Accessibility Checker (Chrome extension)](https://chrome.google.com/webstore/detail/siteimprove-accessibility/efcfolpjihicnikpmhnmphjhhpiclljc?hl)
 * [SpeakIt! (Chrome extension)](https://chrome.google.com/webstore/detail/speakit/ogcmdndkjibojdigkjpccjiekcdfdhlb)
@@ -422,6 +427,7 @@
 
 ## Word
 * [Accentuer (facilement) les capitales avec Microsoft Word](http://blog.atalan.fr/accentuer-facilement-les-capitales-avec-microsoft-word)
+* [An Accessible Word Document Checklist](https://www.abrightclearweb.com/accessible-word-document-checklist)
 * [Creating Accessible Microsoft Word 2007/ 2010 Documents](http://ncdae.org/resources/cheatsheets/word.php)
 * [Microsoft Word - Creating Accessible Documents](http://webaim.org/techniques/word)
 * [PDF Conversion In Microsoft Word 2007/2010 Documents](http://ncdae.org/resources/cheatsheets/pdf.php)
