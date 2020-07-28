@@ -223,7 +223,6 @@
 ### Checkbox / Case à cocher
 * [Checkbox Example (Two State)](https://www.w3.org/TR/wai-aria-practices/examples/checkbox/checkbox-1/checkbox-1.html)
 * [Checkbox (Single)](https://dequeuniversity.com/library/aria/checkbox-single)
-* [Inclusively Hiding & Styling Checkboxes and Radio Buttons](https://www.sarasoueidan.com/blog/inclusively-hiding-and-styling-checkboxes-and-radio-buttons)
 
 ### Datepicker
 * [Accessible Bootstrap Date Picker](http://eureka2.github.io/ab-datepicker)
@@ -238,6 +237,7 @@
 
 ### Form / Formulaire
 * [Full Password Example](https://www.w3.org/WAI/tutorials/forms/examples/password)
+* [Inclusively Hiding & Styling Checkboxes and Radio Buttons](https://www.sarasoueidan.com/blog/inclusively-hiding-and-styling-checkboxes-and-radio-buttons)
 * [Non-editable combobox with multiselect listbox](http://accessibleculture.org/misc/aria/combobox/combobox.html)
 * [Personnaliser l’aspect de boutons radio et checkbox en CSS](http://www.creativejuiz.fr/blog/tutoriels/personnaliser-aspect-boutons-radio-checkbox-css)
 * [The Accessibility of Styled Form Controls](https://scottaohara.github.io/a11y_styled_form_controls)
@@ -258,7 +258,6 @@
 * [Accessible modal window using ARIA](https://van11y.net/accessible-modal)
 
 ### Radio buttons / Boutons radio
-* [Inclusively Hiding & Styling Checkboxes and Radio Buttons](https://www.sarasoueidan.com/blog/inclusively-hiding-and-styling-checkboxes-and-radio-buttons)
 * [Radio and Radio Group](https://dequeuniversity.com/library/aria/radio-and-radio-group)
 * [Radio Group Example Using Roving tabindex](https://www.w3.org/TR/wai-aria-practices/examples/radio/radio-1/radio-1.html)
 
