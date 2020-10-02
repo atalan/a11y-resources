@@ -70,7 +70,6 @@
 * [Accessibility Maze](https://de.ryerson.ca/wa/maze.html)
 * [Article 47 de la loi du 11 février 2005 pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées](https://www.legifrance.gouv.fr/affichTexteArticle.do;jsessionid=978CC96B3C422F39DC155162B89BC9B7.tplgfr35s_1?idArticle=LEGIARTI000037388867&cidTexte=JORFTEXT000000809647&categorieLien=id&dateTexte=)
 * [Décret relatif à l’accessibilité aux personnes handicapées des services de communication au public en ligne](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000038811937)
-* [Dyslexie et lettres dansantes](http://blog.atalan.fr/dyslexie-lettres-dansent)
 * [Faire fonctionner la technologie pour tous : une introduction à l’accessibilité numérique](http://blog.atalan.fr/video-faire-fonctionner-la-technologie-pour-tous-une-introduction-a-laccessibilite-numerique/)
 * [Global Accessibility Laws (Map)](https://framacarte.org/fr/map/global-accessibility-laws_33141#6/51.000/2.000)
 * [L’accessibilité numérique, et si nous agissions ?](https://atalan.fr/agissons/fr/index.html)
@@ -88,6 +87,8 @@
 
 ## Dyslexia  / Dyslexie 
 * [Accessible-Dfa: a legible font](https://github.com/Orange-OpenSource/font-accessible-dfa)
+* [Dyslexie et lettres dansantes](http://blog.atalan.fr/dyslexie-lettres-dansent)
+* [Dyspraxie, dysphasie, dyslexie, hyperactivité : 4 vidéos courtes et limpides pour tout comprendre](https://positivr.fr/troubles-apprentissage-dys-dysphasie-dyspraxie-dyslexie-hyperactivite-videos)
 * [Guide des troubles DYS](https://github.com/DISIC/guide-troubles_DYS/blob/master/Guide-des-troubles-DYS.pdf)
 * [Optimal Colors to Improve Readability for People with Dyslexia](https://www.w3.org/WAI/RD/2012/text-customization/r11)
 
@@ -101,6 +102,7 @@
 * [Accessibility Guidelines](http://accessibility.voxmedia.com)
 * [Accessibility Guidelines Summary](https://theappbusiness.github.io/accessibility-guidelines)
 * [Accessibility Support](https://a11ysupport.io)
+* [a11yresources](https://a11yresources.webflow.io)
 * [Evaluating Web Accessibility Overview](https://www.w3.org/WAI/test-evaluate)
 * [Expedia Accessibility Guidelines](https://accessibility.expedia.biz)
 * [Getting Started with Web Accessibility](https://www.w3.org/WAI/gettingstarted/Overview.html)
@@ -230,6 +232,7 @@
 * [ARIA Date Picker](http://whatsock.com/tsg/Coding%20Arena/ARIA%20Date%20Pickers/ARIA%20Date%20Picker%20%28Basic%29/demo.htm)
 * [Datepicker](https://dequeuniversity.com/library/aria/date-pickers/sf-date-picker)
 * [Datepicker et accessibilité](https://blog.atalan.fr/datepicker-et-accessibilite)
+* [Duet Date Picker](https://duetds.github.io/date-picker)
 * [Yet Another Datepicker Demo](http://freqdec.github.io/datePicker/demo)
 
 ### Drag and Drop
@@ -291,6 +294,7 @@
 * [Tree Example](http://files.paciellogroup.com/training/commonsamples/tpglibsamples/aria/tree/index.html)
 
 ## Tools / Outils
+* [44x44 Pixel Cursor Bookmarklet](https://codepen.io/jared_w_smith/full/vYGXeMy)
 * [A11y](http://a11y-app.herokuapp.com)
 * [a11y.css](http://ffoodd.github.io/a11y.css)
 * [a11y.css vérificateur d'accessibilité (extension Firefox)](https://addons.mozilla.org/fr/firefox/addon/a11ycss)
@@ -319,6 +323,7 @@
 * [Dictation - Online Speech Recognition](https://dictation.io)
 * [Funkify (Chrome extension)](http://www.funkify.org)
 * [Generate an Accessibility Statement](https://www.w3.org/WAI/planning/statements/generator)
+* [Générateur de déclaration d'accessibilité](https://accessibilite.public.lu/fr/tools/decla.html)
 * [HTML_CodeSniffer](http://squizlabs.github.io/HTML_CodeSniffer)
 * [Image Analyser](http://juicystudio.com/services/image.php)
 * [Koa11y](http://open-indy.github.io/Koa11y)
