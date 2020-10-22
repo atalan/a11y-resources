@@ -194,13 +194,13 @@
 
 ### Accordion  / Accordéon
 * [Accessible expand and collapse demo](https://codepen.io/petervangrieken/full/jqVYej)
+* [Accessible hide/show using ARIA](https://van11y.net/accessible-hide-show)
 * [Accordion Example](https://www.w3.org/TR/wai-aria-practices/examples/accordion/accordion.html)
 * [Collapsible Sections](https://inclusive-components.design/collapsible-sections)
 * [Disclosure Widgets](https://adrianroselli.com/2020/05/disclosure-widgets.html)
 * [handorgel](https://oncode.github.io/handorgel)
 * [jQuery simple and accessible hide-show system, using ARIA](https://a11y.nicolas-hoffmann.net/hide-show)
 * [Progressively enhanced ARIA accordions](https://scottaohara.github.io/a11y_accordions)
-* [Accessible hide/show using ARIA](https://van11y.net/accessible-hide-show)
 
 ### Autocomplete / Autocomplétion
 * [Accessible Autocomplete](http://haltersweb.github.io/Accessibility/autocomplete.html)
@@ -216,11 +216,11 @@
 * [We’re building an autocomplete](https://designnotes.blog.gov.uk/2017/04/20/were-building-an-autocomplete)
 
 ### Carousel / Carrousel
+* [Accessible carrousel using ARIA](https://van11y.net/accessible-carrousel)
 * [A Content Slider](https://inclusive-components.design/a-content-slider)
 * [Carousel](https://www.w3.org/WAI/tutorials/carousels/working-example)
 * [Carrousel](http://www.romaingervois.fr/carrousel)
 * [jQuery Accessible Carrousel System, using ARIA](https://a11y.nicolas-hoffmann.net/carrousel)
-* [Accessible carrousel using ARIA](https://van11y.net/accessible-carrousel)
 
 ### Checkbox / Case à cocher
 * [Checkbox Example (Two State)](https://www.w3.org/TR/wai-aria-practices/examples/checkbox/checkbox-1/checkbox-1.html)
@@ -251,6 +251,7 @@
 
 ### Modal / Modale
 * [A11y Dialog](http://edenspiekermann.github.io/a11y-dialog)
+* [Accessible modal window using ARIA](https://van11y.net/accessible-modal)
 * [Dialog (Simple Alert Dialog)](https://dequeuniversity.com/library/aria/simple-alert-dialog)
 * [jQuery simple and accessible modal window, using ARIA](https://a11y.nicolas-hoffmann.net/modal)
 * [Modal Dialog Example](http://w3c.github.io/aria-practices/examples/dialog-modal/dialog.html)
@@ -258,7 +259,6 @@
 * [Overlay](http://a11y.switch.paris/overlay.html)
 * [The Incredible Accessible Modal Window, Version 4](http://gdkraus.github.io/accessible-modal-dialog)
 * [Une fenêtre modale accessible](https://jolicode.com/blog/une-fenetre-modale-accessible)
-* [Accessible modal window using ARIA](https://van11y.net/accessible-modal)
 
 ### Radio buttons / Boutons radio
 * [Radio and Radio Group](https://dequeuniversity.com/library/aria/radio-and-radio-group)
@@ -271,6 +271,7 @@
 
 ### Tabs / Onglets
 * [Accessible ARIA Tabs](http://examples.simplyaccessible.com/ala/tabs.html)
+* [Accessible tab panel using ARIA](https://van11y.net/accessible-tab-panel)
 * [Awesome Accessible Tabpanel](https://codepen.io/pankajparashar/full/oJEAF)
 * [Example of Tabs with Automatic Activation](https://www.w3.org/TR/wai-aria-practices/examples/tabs/tabs-1/tabs.html)
 * [jQuery Accessible tab panel system, using ARIA](https://a11y.nicolas-hoffmann.net/tabs)
@@ -280,15 +281,14 @@
 * [Tabbed Interfaces](https://inclusive-components.design/tabbed-interfaces)
 * [Tab Panel: ARIA CSS Selectors](http://oaa-accessibility.org/example/36)
 * [Tab Panel Example](https://weboverhauls.github.io/demos/tab-panel)
-* [Accessible tab panel using ARIA](https://van11y.net/accessible-tab-panel)
 
 ### Tooltip / Infobulle
+* [Accessible simple tooltip using ARIA](https://van11y.net/accessible-simple-tooltip)
 * [ARIA Tooltip Example](http://accessibility.athena-ict.com/aria/examples/tooltip.shtml)
 * [jQuery accessible simple tooltip, using ARIA](https://a11y.nicolas-hoffmann.net/simple-tooltip)
 * [jQuery simple and accessible dialog tooltip window, using ARIA](https://a11y.nicolas-hoffmann.net/dialog-tooltip)
 * [Tooltip](https://dequeuniversity.com/library/aria/tooltip)
 * [Tooltips & Toggletips](https://inclusive-components.design/tooltips-toggletips)
-* [Accessible simple tooltip using ARIA](https://van11y.net/accessible-simple-tooltip)
 
 ### Tree view / Arborescence
 * [Tree Example](http://files.paciellogroup.com/training/commonsamples/tpglibsamples/aria/tree/index.html)
