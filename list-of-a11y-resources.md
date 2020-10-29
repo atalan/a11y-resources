@@ -82,6 +82,7 @@
 * [Accessibility and Security](http://incl.ca/accessibility-and-security)
 * [Captcha Alternatives and thoughts](https://www.w3.org/WAI/GL/wiki/Captcha_Alternatives_and_thoughts)
 * [Éviter le spam sans captcha](http://www.anysurfer.be/fr/en-pratique/sites-web/eviter-le-spam-sans-captcha)
+* [hCaptcha Accessibility](https://www.hcaptcha.com/accessibility)
 * [Inaccessibility of CAPTCHA](https://www.w3.org/TR/turingtest)
 * [TextCaptcha, a source of simple textual CAPTCHA challenges](http://textcaptcha.com)
 
@@ -323,6 +324,7 @@
 * [Dictation - Online Speech Recognition](https://dictation.io)
 * [Funkify (Chrome extension)](http://www.funkify.org)
 * [Generate an Accessibility Statement](https://www.w3.org/WAI/planning/statements/generator)
+* [Générateur de déclaration d'accessibilité](https://betagouv.github.io/a11y-generateur-declaration/#create)
 * [Générateur de déclaration d'accessibilité](https://accessibilite.public.lu/fr/tools/decla.html)
 * [HTML_CodeSniffer](http://squizlabs.github.io/HTML_CodeSniffer)
 * [Image Analyser](http://juicystudio.com/services/image.php)
