@@ -159,8 +159,6 @@
 
 ## Placeholder
 * [11 reasons why placeholders are problematic](https://medium.com/simple-human/10-reasons-why-placeholders-are-problematic-f8079412b960#.6t788f8x7)
-* [Accessible Floating Labels](https://codepen.io/AllThingsSmitty/full/VjykOz)
-* [Floated Labels](https://codepen.io/soulrider911/full/ugnyl)
 * [Flowup Labels](http://www.enfos.com/FlowupLabels.js/demo)
 * [placeholder et accessibilité](http://blog.atalan.fr/placeholder-et-accessibilite)
 * [Text Input Effects](http://tympanus.net/Development/TextInputEffects/index.html)
