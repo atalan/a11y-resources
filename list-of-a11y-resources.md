@@ -352,6 +352,7 @@
 * [Website Accessibility Evaluation Report Generator](https://www.w3.org/WAI/eval/report-tool/#/)
 * [WCAG Checklist (App)](http://www.wcagchecklist.com)
 * [Yubi, a touch target bookmarklet](https://barrow.io/yubi)
+* [Open Source Accessibility Tools](https://accessibility.civicactions.com/guide/tools)
 
 ### Colors / Couleurs
 * [A11y Color Palette](http://a11yrocks.com/colorPalette)
