@@ -220,6 +220,7 @@
 * [Carousel](https://www.w3.org/WAI/tutorials/carousels/working-example)
 * [Carrousel](http://www.romaingervois.fr/carrousel)
 * [jQuery Accessible Carrousel System, using ARIA](https://a11y.nicolas-hoffmann.net/carrousel)
+* [Accessible-slick](https://accessible360.github.io/accessible-slick/)
 
 ### Checkbox / Case à cocher
 * [Checkbox Example (Two State)](https://www.w3.org/TR/wai-aria-practices/examples/checkbox/checkbox-1/checkbox-1.html)
