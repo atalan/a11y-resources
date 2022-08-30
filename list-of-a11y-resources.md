@@ -430,7 +430,7 @@
 * [Liste de bonnes pratiques pour le sous-titrage web](https://gist.github.com/knarf18/76f3738e970e8efa9243)
 * [Sous-titrer facilement avec l'aide de YouTube](http://anysurfer.be/fr/blog/detail/sous-titrer-facilement-avec-laide-de-youtube)
 * [Sous-titres dans Viméo](https://vimeo.com/help/faq/managing-your-videos/captions-and-subtitles)
-* [Subtitle Guidelines](https://bbc.github.io/subtitle-guidelines)
+* [BBC Subtitle Guidelines](https://www.bbc.co.uk/accessibility/forproducts/guides/subtitles/)
 
 ## Word
 * [Accentuer (facilement) les capitales avec Microsoft Word](http://blog.atalan.fr/accentuer-facilement-les-capitales-avec-microsoft-word)
