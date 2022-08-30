@@ -91,7 +91,7 @@
 * [Dyslexie et lettres dansantes](http://blog.atalan.fr/dyslexie-lettres-dansent)
 * [Dyspraxie, dysphasie, dyslexie, hyperactivité : 4 vidéos courtes et limpides pour tout comprendre](https://positivr.fr/troubles-apprentissage-dys-dysphasie-dyspraxie-dyslexie-hyperactivite-videos)
 * [Guide des troubles DYS](https://github.com/DISIC/guide-troubles_DYS/blob/master/Guide-des-troubles-DYS.pdf)
-* [Optimal Colors to Improve Readability for People with Dyslexia](https://www.w3.org/WAI/RD/2012/text-customization/r11)
+* [Optimal s to Improve Readability for People with Dyslexia](https://www.w3.org/WAI/RD/2012/text-customization/r11)
 
 ## Guidelines / Notices et référentiels
 * [18F Accessibility Guide](https://accessibility.18f.gov)
@@ -359,6 +359,7 @@
 * [A11y Color Palette](http://a11yrocks.com/colorPalette)
 * [Accessible color palette builder](https://toolness.github.io/accessible-color-matrix)
 * [Accessible colors](http://accessible-colors.com)
+* [Color Contrast & Visibility Checker](https://www.alarmsystem.no/color-contrast/)
 * [Are my Colours Accessible?](http://www.aremycoloursaccessible.com)
 * [Check My Colours](http://www.checkmycolours.com)
 * [Chromatic Vision Simulator](http://asada.tukusi.ne.jp/cvsimulator/e/index.html)
