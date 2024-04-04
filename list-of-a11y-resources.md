@@ -55,31 +55,26 @@
 * [Android App Accessibility Checklist](https://www.sitepoint.com/android-app-accessibility-checklist)
 * [An Introduction to Android Accessibility Features](https://www.sitepoint.com/introduction-android-accessibility-features)
 * [Guide de développement d'applications accessibles mobiles avec l'API Android](https://github.com/DISIC/guide-mobile_app_dev_natif/blob/master/android.md)
-* [How to Make Android ImageViews Accessible with Content Descriptions](http://www.deque.com/blog/android-imageviews-accessible-content-descriptions)
 * [Référence des gestes de TalkBack sous Android 4.1, 4.2 et 4.3](http://blog.atalan.fr/reference-des-gestes-de-talkback-sous-android-4-1-4-2-et-4-3)
 
 ## ARIA
-* [Accessibilité du Web - L'ergonomie avec WAI-ARIA](http://aria.inlb.qc.ca)
-* [Accessible Rich Internet Applications (WAI-ARIA) 1.1](https://www.w3.org/TR/wai-aria)
+* [Accessible Rich Internet Applications (WAI-ARIA) 1.2](https://www.w3.org/TR/wai-aria)
 * [Using ARIA](https://www.w3.org/TR/aria-in-html)
-* [WAI-ARIA 1.1 Cheat Sheet](https://www.cheatography.com/jreiche/cheat-sheets/wai-aria-1-1)
-* [WAI-ARIA Authoring Practices 1.1](https://www.w3.org/TR/wai-aria-practices)
+* [WAI-ARIA Authoring Practices](https://www.w3.org/WAI/ARIA/apg/)
 * [WAI-ARIA Landmark Roles Cheatsheet](http://mcdlr.com/wai-aria-cheatsheet)
 
 ## Awareness / Sensibilisation
-* [Accessibility Maze](https://de.ryerson.ca/wa/maze.html)
+* [Accessibility Maze](https://de.torontomu.ca/wa/maze.html)
 * [Article 47 de la loi du 11 février 2005 pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées](https://www.legifrance.gouv.fr/affichTexteArticle.do;jsessionid=978CC96B3C422F39DC155162B89BC9B7.tplgfr35s_1?idArticle=LEGIARTI000037388867&cidTexte=JORFTEXT000000809647&categorieLien=id&dateTexte=)
 * [Décret relatif à l’accessibilité aux personnes handicapées des services de communication au public en ligne](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000038811937)
 * [Faire fonctionner la technologie pour tous : une introduction à l’accessibilité numérique](http://blog.atalan.fr/video-faire-fonctionner-la-technologie-pour-tous-une-introduction-a-laccessibilite-numerique/)
 * [Global Accessibility Laws (Map)](https://framacarte.org/fr/map/global-accessibility-laws_33141#6/51.000/2.000)
 * [L’accessibilité numérique, et si nous agissions ?](https://atalan.fr/agissons/fr/index.html)
-* [Une infographie pour comprendre le cadre législatif de l’accessibilité numérique en France en 2019](https://www.ekino.fr/articles/une-infographie-pour-comprendre-le-cadre-le-gislatif-de-laccessibilite)
 * [Videos of people with disabilities using tech](https://axesslab.com/tech-youtubers)
 * [Web Accessibility Perspectives](https://www.w3.org/WAI/perspectives/Overview.html)
 * [Web Accessibility Related Lawsuits and Settlements in the United States](http://karlgroves.github.io/a11y-lawsuits/lawsuits.html)
 
 ## CAPTCHA
-* [Accessibility and Security](http://incl.ca/accessibility-and-security)
 * [Captcha Alternatives and thoughts](https://www.w3.org/WAI/GL/wiki/Captcha_Alternatives_and_thoughts)
 * [Éviter le spam sans captcha](http://www.anysurfer.be/fr/en-pratique/sites-web/eviter-le-spam-sans-captcha)
 * [hCaptcha Accessibility](https://www.hcaptcha.com/accessibility)
@@ -103,7 +98,7 @@
 * [Accessibility Guidelines](http://accessibility.voxmedia.com)
 * [Accessibility Guidelines Summary](https://theappbusiness.github.io/accessibility-guidelines)
 * [Accessibility Support](https://a11ysupport.io)
-* [a11yresources](https://a11yresources.webflow.io)
+* [Design accessible](https://design-accessible.fr/checklist)
 * [Evaluating Web Accessibility Overview](https://www.w3.org/WAI/test-evaluate)
 * [Expedia Accessibility Guidelines](https://accessibility.expedia.biz)
 * [Getting Started with Web Accessibility](https://www.w3.org/WAI/gettingstarted/Overview.html)
@@ -133,7 +128,6 @@
 * [Creating Accessible Adobe InDesign CS5.5 PDF Documents](http://ncdae.org/resources/cheatsheets/indesign.php)
 * [Creating Accessible Documents with Adobe InDesign](https://mn.gov/mnit/assets/indesign-accessible-documents_tcm38-413703.pdf)
 * [Créer des documents PDF accessibles avec InDesign](http://anysurfer.be/fr/en-pratique/documents/pdf/indesign)
-* [Principes d’accessibilité avec Adobe InDesign (PDF – 1,75 Mo)](http://www.tresor.gouv.qc.ca/fileadmin/PDF/ressources_informationnelles/AccessibiliteWeb/principes_accessibilite_indesign.pdf)
 
 ## iOS
 * [Accessibility Programming Guide for iOS](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/iPhoneAccessibility/Introduction/Introduction.html#//apple_ref/doc/uid/TP40008785-CH1-SW1)
@@ -144,14 +138,12 @@
 * [What iOS Traits Actually Do](http://www.deque.com/blog/ios-traits)
 
 ## Keyboard navigation / Navigation au clavier
-* [A lightweight script to animate scrolling to anchor links](https://github.com/cferdinandi/smooth-scroll)
 * [Animated Scroll to Top](http://webdesignerwall.com/demo/scroll-to-top/scrolltotop.html)
 * [How I learned to stop worrying and love the outline](https://medium.com/@wilkowskidom/how-i-learned-to-stop-worrying-and-love-the-outline-7a35b3b49e7#.ayjjemn5p)
 * [Keyboard-Only Focus Styles](https://css-tricks.com/keyboard-only-focus-styles)
-* [Removing :focus ring (and keeping it too)](https://hackernoon.com/removing-that-ugly-focus-ring-and-keeping-it-too-6c8727fefcd2)
-* [Show focus styles on keyboard events only](https://codepen.io/svinkle/full/zzrORW)
 * [SkipTo](http://paypal.github.io/skipto)
 * [What Input?](https://ten1seven.github.io/what-input)
+* [Hocus :focus](https://focus.hteumeuleu.com/)
 
 ## Live regions / Régions dynamiques
 * [Test Cases](http://accessibleajax.clcworld.net/)
